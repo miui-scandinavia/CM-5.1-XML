@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Динамични тапети на Android</string>
+    <string name="wallpaper_walkaround">Прозрачност</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Гледайте през телефона и се разхождайте без всякакъв риск от инциденти.</string>
+    <string name="wallpaper_clock">Полярен часовник</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Представя датата и часа като дъги по часов. стрелка – месец, ден, час, минута и секунда.</string>
+    <string name="clock_settings">Настройки на полярен часовник</string>
+    <string name="show_seconds">Показване на секунди</string>
+    <string name="variable_line_width">Пръстени с променяща се ширина</string>
+    <string name="palette">Цветова палитра</string>
+    <string name="palette_gray">Желязо</string>
+    <string name="palette_violet">0:00 ч.</string>
+    <string name="palette_matrix">Зелен екран</string>
+    <string name="palette_white_c">Полярна мечка (динамичен)</string>
+    <string name="palette_black_c">Черна дупка (динамичен)</string>
+    <string name="palette_halloween">Тиквен пай</string>
+    <string name="palette_zenburn">Салата от извънземни плодове</string>
+    <string name="palette_oceanic">Син лазер</string>
+</resources>

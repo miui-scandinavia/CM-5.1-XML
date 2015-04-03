@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.CameraControls android:id="@id/camera_controls" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.ShutterButton android:layout_gravity="bottom|center" android:id="@id/shutter_button" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/shutter_offset" android:src="@drawable/btn_new_shutter" android:scaleType="center" android:contentDescription="@string/accessibility_shutter_button" />
+</com.android.camera.ui.CameraControls>

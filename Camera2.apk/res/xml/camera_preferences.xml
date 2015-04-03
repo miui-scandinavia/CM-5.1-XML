@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/pref_category_resolution_quality" android:key="pref_category_resolution">
+        <PreferenceCategory android:title="@string/mode_camera">
+            <ListPreference android:title="@string/setting_back_camera_photo" android:key="pref_camera_picturesize_back_key" android:defaultValue="@string/pref_camera_picturesize_default" android:entryValues="@array/pref_camera_picturesize_entryvalues" />
+            <ListPreference android:title="@string/setting_front_camera_photo" android:key="pref_camera_picturesize_front_key" android:defaultValue="@string/pref_camera_picturesize_default" android:entryValues="@array/pref_camera_picturesize_entryvalues" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/mode_video">
+            <ListPreference android:title="@string/setting_back_camera_video" android:key="pref_video_quality_back_key" android:defaultValue="@string/pref_video_quality_large" android:entryValues="@array/pref_video_quality_entryvalues" />
+            <ListPreference android:title="@string/setting_front_camera_video" android:key="pref_video_quality_front_key" android:defaultValue="@string/pref_video_quality_large" android:entryValues="@array/pref_video_quality_entryvalues" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <com.android.camera.settings.ManagedSwitchPreference android:title="@string/pref_camera_save_location_title" android:key="pref_camera_recordlocation_key" android:defaultValue="false" />
+    <PreferenceScreen android:title="@string/pref_category_advanced" android:key="pref_category_advanced">
+        <com.android.camera.settings.ManagedSwitchPreference android:title="@string/pref_camera_exposure_compensation" android:key="pref_camera_exposure_compensation_key" android:defaultValue="false" />
+    </PreferenceScreen>
+    <Preference android:title="@string/setting_google_help_and_feedback" android:key="pref_launch_help" />
+</PreferenceScreen>

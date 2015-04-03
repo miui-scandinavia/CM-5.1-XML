@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Animerede baggrunde til Android</string>
+    <string name="wallpaper_walkaround">Gennemsigtig</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Se igennem telefonen, og gå rundt omkring uden risiko for ulykker.</string>
+    <string name="wallpaper_clock">Polar Clock</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Viser dato og klokkeslæt, som buer, der bevæger sig i urets retning: måned, dag, time, minut og sekund.</string>
+    <string name="clock_settings">Indstillinger for Polar Clock</string>
+    <string name="show_seconds">Vis sekunder</string>
+    <string name="variable_line_width">Forskellige ringstørrelser</string>
+    <string name="palette">Farvepalet</string>
+    <string name="palette_gray">Jern</string>
+    <string name="palette_violet">Midnat</string>
+    <string name="palette_matrix">Grøn skærm</string>
+    <string name="palette_white_c">Isbjørn (dynamisk)</string>
+    <string name="palette_black_c">Sort hul (dynamisk)</string>
+    <string name="palette_halloween">Græskartærte</string>
+    <string name="palette_zenburn">Alien Fruit Salad</string>
+    <string name="palette_oceanic">Blå laser</string>
+</resources>

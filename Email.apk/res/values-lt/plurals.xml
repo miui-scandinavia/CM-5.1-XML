@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Perkelti %1$d pokalbius (-ių)</item>
+        <item quantity="one">Perkelti pokalbį</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Juodrašč.</item>
+        <item quantity="one">Juodraštis</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ištrinti šiuos %1$d pokalb.?</item>
+        <item quantity="one">Ištrinti šį pokalbį?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archyvuoti šiuos %1$d pokalb.?</item>
+        <item quantity="one">Archyvuoti šį pokalbį?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Atmesti šiuos %1$d pranešim.?</item>
+        <item quantity="one">Atmesti šį pranešimą?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Atšaukiamas %1$d pokalb. žymėjimas žvaigždute.</item>
+        <item quantity="one">Atšaukiamas %1$d pokalb. žymėjimas žvaigždute.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Nutildyta: &lt;b>%1$d&lt;/b>.</item>
+        <item quantity="one">Nutildyta: &lt;b>%1$d&lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Pranešta kaip apie šlamštą: &lt;b>%1$d&lt;/b>.</item>
+        <item quantity="one">Pranešta kaip apie šlamštą: &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Apie &lt;b>%1$d&lt;/b> pokalb. pranešta kaip apie šlamštą.</item>
+        <item quantity="one">Apie &lt;b>%1$d&lt;/b> pokalb. pranešta kaip apie šlamštą.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Pažymėta kaip nesvarbūs: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Pažymėta kaip nesvarbūs: &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Apie &lt;b>%1$d&lt;/b> pokalb. pranešta kaip apie sukčiavimą.</item>
+        <item quantity="one">Apie &lt;b>%1$d&lt;/b> pokalb. pranešta kaip apie sukčiavimą.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Suarchyvuota: &lt;b>%1$d&lt;/b>.</item>
+        <item quantity="one">Suarchyvuota: &lt;b>%1$d&lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Ištrinta: &lt;b>%1$d&lt;/b>.</item>
+        <item quantity="one">Ištrinta: &lt;b>%1$d&lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Aplankai pakeisti.</item>
+        <item quantity="one">Aplankas pakeistas.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Rodyti naujų pranešimų: %1$d.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Senesnių pranešimų: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Neskaitytų: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Naujų pranešimų: %1$d</item>
+        <item quantity="one">Naujų pranešimų: %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Visam laikui bus ištrinta pranešimų: %1$d.</item>
+        <item quantity="one">Visam laikui bus ištrinta pranešimų: %1$d.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">Pranešimų: %1$d</item>
+        <item quantity="one">Pranešimų: %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">Priedų: %1$d</item>
+        <item quantity="one">Priedų: %1$d</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Perkelti pranešimus</item>
+        <item quantity="one">Perkelti pranešimą</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.view.DisplayOverlay android:orientation="vertical" android:id="@id/display" android:background="@drawable/white_card" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/graph_display" />
+        <RelativeLayout android:id="@id/mainDisplay" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <android.support.v7.widget.RecyclerView android:id="@id/historyRecycler" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+            <com.android.calculator2.view.display.AdvancedDisplay android:textColor="@color/display_formula_text_color" android:id="@id/formula" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" android:layout_below="@id/historyRecycler" android:inputType="textNoSuggestions" style="@style/Theme.Calculator.Display.Main.Formula" />
+            <com.android.calculator2.view.display.AdvancedDisplay android:textColor="@color/display_result_text_color" android:id="@id/result" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" android:layout_below="@id/formula" android:inputType="none" style="@style/Theme.Calculator.Display.Main.Result" />
+        </RelativeLayout>
+    </FrameLayout>
+</com.android.calculator2.view.DisplayOverlay>

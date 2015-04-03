@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_seconds">
+        <item quantity="other">[%d šéçš one two]</item>
+        <item quantity="one">[%d šéç one two]</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">[%d ḿîñš one two]</item>
+        <item quantity="one">[%d ḿîñ one two]</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">[%d ĥŕš one two]</item>
+        <item quantity="one">[%d ĥŕ one two]</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="other">[%d ƒîļéš ðöŵñļöåðîñĝ one two three]</item>
+        <item quantity="one">[1 ƒîļé ðöŵñļöåðîñĝ one two three]</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">[%d ƒîļéš ŵåîţîñĝ one two three]</item>
+        <item quantity="one">[1 ƒîļé ŵåîţîñĝ one two three]</item>
+    </plurals>
+</resources>

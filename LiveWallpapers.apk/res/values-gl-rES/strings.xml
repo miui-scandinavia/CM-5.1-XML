@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Fondos de pantalla animados de Android</string>
+    <string name="wallpaper_walkaround">Ver a través</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Podes ver a través do teléfono e camiñar sen risco de sufrir accidentes.</string>
+    <string name="wallpaper_clock">Reloxo polar</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Mostra a data e a hora como arcos no sentido das agullas do reloxo: mes, día, hora, minuto e segundo.</string>
+    <string name="clock_settings">Configuración do reloxo polar</string>
+    <string name="show_seconds">Mostrar segundos</string>
+    <string name="variable_line_width">Larguras de anel variables</string>
+    <string name="palette">Paleta de cor</string>
+    <string name="palette_gray">Ferro</string>
+    <string name="palette_violet">Media noite</string>
+    <string name="palette_matrix">Pantalla verde</string>
+    <string name="palette_white_c">Oso polar (dinámico)</string>
+    <string name="palette_black_c">Burato negro (dinámico)</string>
+    <string name="palette_halloween">Torta de cabaza</string>
+    <string name="palette_zenburn">Ensalada de froitas extraterrestres</string>
+    <string name="palette_oceanic">Láser azul</string>
+</resources>

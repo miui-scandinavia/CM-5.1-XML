@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalador de certificado</string>
+    <string name="pick_file_title">Escoller un certificado</string>
+    <string name="pkcs12_password_dialog_title">Extraer certificado</string>
+    <string name="extracting_pkcs12">Extraendo...</string>
+    <string name="pkcs12_file_password_dialog_title">Extraer de %s</string>
+    <string name="name_credential_dialog_title">Escolle un nome para o certificado</string>
+    <string name="credential_name">Nome do certificado:</string>
+    <string name="credential_password">Escribe o contrasinal para extraer os certificados.</string>
+    <string name="credential_info">O paquete contén:</string>
+    <string name="p12_description">Certificados en almacenamento de clave PKCS12.</string>
+    <string name="one_userkey">unha clave de usuario</string>
+    <string name="one_usercrt">un certificado de usuario</string>
+    <string name="one_cacrt">un certificado de CA</string>
+    <string name="n_cacrts">%d certificados de CA</string>
+    <string name="password_error">Escribe o contrasinal correcto.</string>
+    <string name="password_empty_error">Escribe o contrasinal.</string>
+    <string name="name_empty_error">Escribe un nome.</string>
+    <string name="name_char_error">Escribe un nome que conteña só letras e números.</string>
+    <string name="storage_error">Non se puido gardar o certificado. Toca Aceptar para tentalo de novo.</string>
+    <string name="unable_to_save_cert">Non se puido gardar o certificado. O almacenamento de credenciais non está activado ou debidamente iniciado.</string>
+    <string name="cert_not_saved">O certificado non está instalado.</string>
+    <string name="no_cert_to_saved">Non hai ningún certificado que instalar.</string>
+    <string name="invalid_cert">O certificado non é válido.</string>
+    <string name="cert_is_added">%s está instalado.</string>
+    <string name="cert_too_large_error">Non se puido instalar porque o tamaño do certificado é demasiado grande.</string>
+    <string name="cert_missing_error">Non se puido instalar porque non se puido localizar o ficheiro de certificado.</string>
+    <string name="cert_read_error">Non se puido instalar porque non se puido ler o ficheiro de certificado.</string>
+    <string name="no_cert_file_found">Non se atopou ningún ficheiro de certificado no almacenamento USB.</string>
+    <string name="sdcard_not_present">USB non dispoñible</string>
+    <string name="only_primary_user_allowed">Só o propietario deste dispositivo pode instalar certificados.</string>
+    <string name="credential_usage_label">Uso da credencial:</string>
+</resources>

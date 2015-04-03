@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">ផ្ទាំង​រូបភាព​​មាន​ចលនា​របស់ Android</string>
+    <string name="wallpaper_walkaround">មើល​តាម​រយៈ</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">មើល​តាម​ទូរស័ព្ទ​របស់​អ្នក និង​ដើរ​ដោយ​គ្មាន​គ្រោះថ្នាក់។</string>
+    <string name="wallpaper_clock">នាឡិកា​​រាង​មូល</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">បង្ហាញ​កាលបរិច្ឆេទ និង​ពេលវេលា​ជា​ធ្នូ​ច្រាស​ទ្រនិច​នាឡិកា៖ ខែ, ថ្ងៃ, ម៉ោង, នាទី និង​វិនាទី។</string>
+    <string name="clock_settings">ការ​កំណត់​នាឡិកា​មាន​រាង​មូល</string>
+    <string name="show_seconds">បង្ហាញ​វិនាទី</string>
+    <string name="variable_line_width">Vary ring widths</string>
+    <string name="palette">ក្ដារ​លាយ​ពណ៌</string>
+    <string name="palette_gray">ដែក</string>
+    <string name="palette_violet">កណ្ដាល​អធ្រាត្រ</string>
+    <string name="palette_matrix">អេក្រង់​​​បៃតង</string>
+    <string name="palette_white_c">ខ្លា​ឃ្មុំ​ប៉ូល (អថេរ)</string>
+    <string name="palette_black_c">រន្ធ​ខ្មៅ (អថេរ)</string>
+    <string name="palette_halloween">ចំណិត​ល្ពៅ</string>
+    <string name="palette_zenburn">សាឡាត់​​អាឡេន</string>
+    <string name="palette_oceanic">ឡាស៊ែរ​​ខៀវ</string>
+</resources>

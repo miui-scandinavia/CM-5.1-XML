@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android थेट वॉलपेपर</string>
+    <string name="wallpaper_walkaround">यामधून पाहणे</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">आपल्या फोनमधून पहा आणि अपघातांच्या जोखमीशिवाय चालत रहा.</string>
+    <string name="wallpaper_clock">ध्रुवीय घड्याळ</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">घड्याळाच्या चाप म्हणून तारीख आणि वेळ सादर करते: महिना, दिवस, तास, मिनिट आणि सेकंद.</string>
+    <string name="clock_settings">ध्रुवीय घड्याळ सेटिंग्ज</string>
+    <string name="show_seconds">सेकंद दर्शवा</string>
+    <string name="variable_line_width">वेगवेगळी रिंग रूंदी</string>
+    <string name="palette">रंग पॅलेट</string>
+    <string name="palette_gray">आयरन</string>
+    <string name="palette_violet">मध्यरात्र</string>
+    <string name="palette_matrix">हिरवी स्क्रीन</string>
+    <string name="palette_white_c">ध्रुवीय अस्वल (डायनॅमिक)</string>
+    <string name="palette_black_c">ब्लॅक होल (डायनॅमिक)</string>
+    <string name="palette_halloween">भोपळ्याचे पक्वान्न</string>
+    <string name="palette_zenburn">एलियन फ्रुट सलाद</string>
+    <string name="palette_oceanic">निळे लेझर</string>
+</resources>

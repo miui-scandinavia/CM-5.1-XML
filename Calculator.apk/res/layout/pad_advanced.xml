@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.CalculatorPadLayout android:id="@id/pad_advanced" android:background="@color/pad_advanced_background_color" style="@style/PadLayoutStyle.Advanced"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/fun_sin" android:text="@string/fun_sin" android:onClick="onButtonClick" android:contentDescription="@string/desc_fun_sin" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/fun_cos" android:text="@string/fun_cos" android:onClick="onButtonClick" android:contentDescription="@string/desc_fun_cos" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/fun_tan" android:text="@string/fun_tan" android:onClick="onButtonClick" android:contentDescription="@string/desc_fun_tan" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/fun_ln" android:text="@string/fun_ln" android:onClick="onButtonClick" android:contentDescription="@string/desc_fun_ln" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/fun_log" android:text="@string/fun_log" android:onClick="onButtonClick" android:contentDescription="@string/desc_fun_log" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/op_fact" android:text="@string/op_fact" android:onClick="onButtonClick" android:contentDescription="@string/desc_op_fact" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/const_pi" android:text="@string/const_pi" android:onClick="onButtonClick" android:contentDescription="@string/desc_const_pi" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/const_e" android:text="@string/const_e" android:onClick="onButtonClick" android:contentDescription="@string/desc_const_e" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/op_pow" android:text="@string/op_pow" android:onClick="onButtonClick" android:contentDescription="@string/desc_op_pow" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/lparen" android:text="@string/leftParen" android:onClick="onButtonClick" android:contentDescription="@string/desc_lparen" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/rparen" android:text="@string/rightParen" android:onClick="onButtonClick" android:contentDescription="@string/desc_rparen" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/op_sqrt" android:text="@string/op_sqrt" android:onClick="onButtonClick" android:contentDescription="@string/desc_op_sqrt" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/const_i" android:text="@string/const_imaginary" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/fun_percent" android:text="@string/fun_percentage" android:onClick="onButtonClick" android:contentDescription="@string/fun_percentage" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/const_x" android:text="@string/X" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+</com.android.calculator2.CalculatorPadLayout>

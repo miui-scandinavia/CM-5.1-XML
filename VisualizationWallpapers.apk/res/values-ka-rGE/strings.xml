@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">ვიზუალიზატორი</string>
+    <string name="wallpaper_vis2">ხმის ტალღა</string>
+    <string name="wallpaper_vis3">სპექტრი</string>
+    <string name="wallpaper_vis4">ვოლუმეტრი</string>
+    <string name="wallpaper_vis5">ბევრი</string>
+    <string name="wallpapers">ფონები მუსიკის ვიზუალიზაციისთვის</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">ხატავს დაკრული მუსიკალური ბილიკის ხმის ტალღას.</string>
+    <string name="vis3_desc">აჩვენებს დაკრული მუსიკალური ბილიკის სიხშირულ სპექტრს.</string>
+    <string name="vis4_desc">ახდენს ხმის ანალოგური მზომის იმიტაციას.</string>
+    <string name="vis5_desc">ყველა მუსიკალური ვიზუალიზატორის მონაცვლეობით ჩვენება.</string>
+</resources>

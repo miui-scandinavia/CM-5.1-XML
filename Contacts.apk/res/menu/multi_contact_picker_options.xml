@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_done_wht_24dp" android:id="@id/done" android:title="@string/menu_done" android:showAsAction="always" />
+    <item android:id="@id/select_all_check" android:title="@string/select_all" android:checkable="true" android:showAsAction="never" />
+</menu>

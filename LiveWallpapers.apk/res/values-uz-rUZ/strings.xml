@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android jonli fon rasmlari</string>
+    <string name="wallpaper_walkaround">Ichidan ko‘rish</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Telefoningizni ichidan ko‘ring va xavotirga soluvchi baxtsiz hodisalarsiz ichida aylanib yuring.</string>
+    <string name="wallpaper_clock">Qutb soati</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Sana va vaqtni soat millari yo‘nalishida ko‘rsatadi: oy, kun, soat, daqiqa va soniya.</string>
+    <string name="clock_settings">Qutb soatini moslash</string>
+    <string name="show_seconds">Soniyalarni ko‘rsatish</string>
+    <string name="variable_line_width">O‘zgaruvchan xalqa kengligi</string>
+    <string name="palette">Ranglar palitrasi</string>
+    <string name="palette_gray">Temir</string>
+    <string name="palette_violet">Yarim kecha</string>
+    <string name="palette_matrix">Yashil ekran</string>
+    <string name="palette_white_c">Qutb ayig‘i (dinamik)</string>
+    <string name="palette_black_c">Qora tuynuk (dinamik)</string>
+    <string name="palette_halloween">Qovoqli tort</string>
+    <string name="palette_zenburn">O‘zga sayyoraliklar mevalari salati</string>
+    <string name="palette_oceanic">Ko‘k lazer</string>
+</resources>

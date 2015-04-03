@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">ວິຊົວໄລເຊີ</string>
+    <string name="wallpaper_vis2">ຮູບຊົງຄື້ນ</string>
+    <string name="wallpaper_vis3">ສະເປັກຕຣັມ</string>
+    <string name="wallpaper_vis4">ເຄື່ອງວັດ VU</string>
+    <string name="wallpaper_vis5">ຫຼາຍ</string>
+    <string name="wallpapers">ພາບພື້ນຫຼັງຕາມສຽງດົນຕີ</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">ແຕ້ມຄື້ນສຽງຈາກເພງທີ່ຫຼິ້ນຢູ່.</string>
+    <string name="vis3_desc">ສະແດງຄື້ນຄວາມຖີ່ສະເປັກຕຣັມຈາກເພງທີ່ຫຼິ້ນຢູ່.</string>
+    <string name="vis4_desc">ຈຳລອງເຄື່ອງວັດແທກສຽງອະນາລັອກ.</string>
+    <string name="vis5_desc">Visualization ຂອງເພງທັງໝົດພ້ອມກັນ, ຄ່ອຍໆໝຸນໃນແບບ 3 ມິຕິ.</string>
+</resources>

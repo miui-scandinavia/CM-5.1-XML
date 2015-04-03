@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="backgroundview">false</item>
+    <item type="id" name="recolor">false</item>
+    <item type="id" name="hue_text">false</item>
+    <item type="id" name="hue">false</item>
+    <item type="id" name="saturation_text">false</item>
+    <item type="id" name="saturation">false</item>
+    <item type="id" name="brightness_text">false</item>
+    <item type="id" name="brightness">false</item>
+</resources>

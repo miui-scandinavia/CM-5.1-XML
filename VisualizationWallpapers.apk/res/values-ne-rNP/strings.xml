@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">दृश्यकार</string>
+    <string name="wallpaper_vis2">तरङ्ग रूप</string>
+    <string name="wallpaper_vis3">वर्णपट</string>
+    <string name="wallpaper_vis4">भियु मिटर</string>
+    <string name="wallpaper_vis5">धेरै</string>
+    <string name="wallpapers">संगीत दृष्टिगोचर वालपेपर</string>
+    <string name="author">गुगल</string>
+    <string name="vis2_desc">कुनै पनि वर्तमानमा बजिरहेको संगीत ट्रयाकको तरङ्ग खिच्छ।</string>
+    <string name="vis3_desc">कुनै पनि वर्तमानमा बजिरहेको संगीत ट्रयाकको आवृत्ति वर्णपट देखाउँछ।</string>
+    <string name="vis4_desc">एउटा एनालग ध्वनि मिटर चलाउँछ।</string>
+    <string name="vis5_desc">सबै संगीत दृष्टिगोचरहरू सँगै त्रि-आयामिकमा धुमिरहन्छ।</string>
+</resources>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>Abidjan</item>
+        <item>Akkra</item>
+        <item>Addis-Abeba</item>
+        <item>Jazoir</item>
+        <item>Blantayr</item>
+        <item>Brazzavil</item>
+        <item>Qohira</item>
+        <item>Kasablanka</item>
+        <item>Konakri</item>
+        <item>Dakar</item>
+        <item>Dor-us-Salom</item>
+        <item>Jibuti</item>
+        <item>Fritaun</item>
+        <item>Gaborone</item>
+        <item>Xarare</item>
+        <item>Yoxannesburg</item>
+        <item>Kampala</item>
+        <item>Xartum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadisho</item>
+        <item>Nayrobi</item>
+        <item>San-Tome</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Ankorij</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunson</item>
+        <item>Barbados</item>
+        <item>Beliz</item>
+        <item>Bogota</item>
+        <item>Buenos-Ayres</item>
+        <item>Kankun</item>
+        <item>Karakas</item>
+        <item>Kayman</item>
+        <item>Chikago</item>
+        <item>Kosta-Rika</item>
+        <item>Kyurasao</item>
+        <item>Doson-Krik</item>
+        <item>Denver</item>
+        <item>Detroyt</item>
+        <item>Dominika</item>
+        <item>Edmonton</item>
+        <item>Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Gvatemala</item>
+        <item>Gayana</item>
+        <item>Galifaks</item>
+        <item>Gavana</item>
+        <item>Indianapolis</item>
+        <item>Noks</item>
+        <item>Marengo</item>
+        <item>Pitersburg</item>
+        <item>Tell-Siti</item>
+        <item>Vivey</item>
+        <item>Vensen</item>
+        <item>Vinamak</item>
+        <item>Kingston</item>
+        <item>La-Pas</item>
+        <item>Lima</item>
+        <item>Los-Anjeles</item>
+        <item>Luisvill</item>
+        <item>Managua</item>
+        <item>Martinika</item>
+        <item>Mendoza</item>
+        <item>Metlakatla</item>
+        <item>Mexiko</item>
+        <item>Monterey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>Nyu-York</item>
+        <item>Byula</item>
+        <item>Senter</item>
+        <item>Nyu-Salem</item>
+        <item>Panama</item>
+        <item>Feniks</item>
+        <item>Port-of-Speyn</item>
+        <item>Port-o-Prins</item>
+        <item>Puerto-Riko</item>
+        <item>Santo-Domingo</item>
+        <item>San-Paulo</item>
+        <item>Sent-Jons</item>
+        <item>Sent-Kits</item>
+        <item>Sent-Lyusiya</item>
+        <item>Sent-Tomas</item>
+        <item>Tixuana</item>
+        <item>Toronto</item>
+        <item>Vankuver</item>
+        <item>Vinnipeg</item>
+        <item>Janubiy qutb</item>
+        <item>Longyir</item>
+        <item>Olma-ota</item>
+        <item>Amman</item>
+        <item>Anadir</item>
+        <item>Aktau</item>
+        <item>Bag‘dod</item>
+        <item>Bahrayn</item>
+        <item>Boku</item>
+        <item>Bangkok</item>
+        <item>Bayrut</item>
+        <item>Kalkutta</item>
+        <item>Damashq</item>
+        <item>Dakka</item>
+        <item>Dubay</item>
+        <item>G‘azo</item>
+        <item>Xevron</item>
+        <item>Xoshimin</item>
+        <item>Gonkong</item>
+        <item>Istanbul</item>
+        <item>Jakarta</item>
+        <item>Quddus</item>
+        <item>Qobul</item>
+        <item>Karachi</item>
+        <item>Katmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Quvayt</item>
+        <item>Makau</item>
+        <item>Manila</item>
+        <item>Maskat</item>
+        <item>Pnompen</item>
+        <item>Pxenyan</item>
+        <item>Qatar</item>
+        <item>Rangun</item>
+        <item>Ar-Riyod</item>
+        <item>Saygon</item>
+        <item>Seul</item>
+        <item>Shanxay</item>
+        <item>Singapur</item>
+        <item>Taypey</item>
+        <item>Tehron</item>
+        <item>Tel-Aviv</item>
+        <item>Tokio</item>
+        <item>Ulan-Bator</item>
+        <item>Bermuda</item>
+        <item>Kanar orollari</item>
+        <item>Kabo-Verder</item>
+        <item>Reykyavik</item>
+        <item>Stenli</item>
+        <item>Adelaida</item>
+        <item>Brisben</item>
+        <item>Kanberra</item>
+        <item>Darvin</item>
+        <item>Melburn</item>
+        <item>Yangi Janubiy Uels</item>
+        <item>Pert</item>
+        <item>Kvinslend</item>
+        <item>Sidney</item>
+        <item>Viktoriya</item>
+        <item>Nyufaundlend</item>
+        <item>Saskachevan</item>
+        <item>Pasxa oroli</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Afina</item>
+        <item>Belfast</item>
+        <item>Belgrad</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Bryussel</item>
+        <item>Buxarest</item>
+        <item>Budapesht</item>
+        <item>Kishenyov</item>
+        <item>Kopengagen</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Xelsinki</item>
+        <item>Men oroli</item>
+        <item>Istanbul</item>
+        <item>Kiyev</item>
+        <item>Lissabon</item>
+        <item>London</item>
+        <item>Lyuksemburg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monako</item>
+        <item>Moskva</item>
+        <item>Oslo</item>
+        <item>Parij</item>
+        <item>Praga</item>
+        <item>Riga</item>
+        <item>Rim</item>
+        <item>San-Marino</item>
+        <item>Sarayevo</item>
+        <item>Simferopol</item>
+        <item>Skopye</item>
+        <item>Sofiya</item>
+        <item>Stokgolm</item>
+        <item>Tallin</item>
+        <item>Vatikan</item>
+        <item>Vena</item>
+        <item>Vilnyus</item>
+        <item>Varshava</item>
+        <item>Zagreb</item>
+        <item>Syurix</item>
+        <item>Antananarivu</item>
+        <item>Maldiv orollari</item>
+        <item>Mavrikiy</item>
+        <item>Oklend</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Gonolulu</item>
+        <item>Kiritimati</item>
+        <item>Numea</item>
+        <item>Samoa</item>
+        <item>Taiti</item>
+        <item>Antigua</item>
+        <item>Ostin</item>
+        <item>Boston</item>
+        <item>Kalgari</item>
+        <item>Kolambus</item>
+        <item>Dallas</item>
+        <item>Noksvill</item>
+        <item>Memfis</item>
+        <item>Mayami</item>
+        <item>Minneapolis</item>
+        <item>Ottava</item>
+        <item>Filadelfiya</item>
+        <item>Portlend</item>
+        <item>San-Diyego</item>
+        <item>San-Fransisko</item>
+        <item>Solt-Leyk-Siti</item>
+        <item>San-Xose</item>
+        <item>San-Salvador</item>
+        <item>Sietl</item>
+        <item>Sent-Luis</item>
+        <item>Vashington, Kolumbiya okrugi</item>
+        <item>Xyuston</item>
+        <item>San-Antonio</item>
+        <item>Jeksonvill</item>
+        <item>Baltimor</item>
+        <item>Neshvill</item>
+        <item>Miluoki</item>
+        <item>Oklaxoma-siti</item>
+        <item>Las-Vegas</item>
+        <item>Albukurke</item>
+        <item>Tuson</item>
+        <item>Sakramento</item>
+        <item>Atlanta</item>
+        <item>Klivlend</item>
+        <item>Nyu-Orlean</item>
+        <item>Tampa</item>
+        <item>Pittsburg</item>
+        <item>Sinsinnati</item>
+        <item>Mauntin-Vyu</item>
+        <item>Rino</item>
+        <item>Blek-Rok-Siti</item>
+        <item>Doxa</item>
+        <item>Pekin</item>
+        <item>Mumbay</item>
+        <item>Dehli</item>
+        <item>Osaka</item>
+        <item>Lahor</item>
+        <item>Sana</item>
+        <item>Barselona</item>
+        <item>Myunxen</item>
+        <item>Milan</item>
+        <item>Frankfurt</item>
+        <item>Xanoy</item>
+        <item>Anqara</item>
+        <item>Bangalor</item>
+        <item>Brazilia</item>
+        <item>Keyptaun</item>
+        <item>Islomobod</item>
+        <item>Rio-de-Janeyro</item>
+        <item>Enn-Arbor</item>
+        <item>Boulder</item>
+        <item>Kembrij</item>
+        <item>Kirklend</item>
+        <item>Medison</item>
+        <item>Guanjou</item>
+        <item>Haydarobod</item>
+        <item>Reston</item>
+        <item>Belu-Orizonti</item>
+        <item>Santyago</item>
+        <item>Monroviya</item>
+        <item>Kolombo</item>
+        <item>Chixuaxua</item>
+        <item>Salvador</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kiyev</item>
+        <item>Sankt-Peterburg</item>
+        <item>Krakov</item>
+        <item>Vrotslav</item>
+        <item>Gamburg</item>
+        <item>Oulu</item>
+        <item>Xayfa</item>
+        <item>San-Xuan</item>
+        <item>Tegusigalpa</item>
+        <item>Paramaribo</item>
+        <item>Kito</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>Bir daqiqadan kamroq vaqt qoldi</item>
+        <item>%1$s qoldi</item>
+        <item>%2$s qoldi</item>
+        <item>%1$su %2$s qoldi</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Uyg‘otkich 1 daqiqadan kamroq vaqtdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %1$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %2$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %1$su %2$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %3$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %1$su %3$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %2$su %3$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %1$s %2$su %3$sdan so‘ng chalinadi.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 daqiqa</item>
+        <item>10 daqiqa</item>
+        <item>15 daqiqa</item>
+        <item>20 daqiqa</item>
+        <item>25 daqiqa</item>
+        <item>30 daqiqa</item>
+        <item>Hech qachon</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Kechiktirish</item>
+        <item>Yopish</item>
+        <item>Hech narsa qilinmasin</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Siz haqiqatdan ham Shumaxer ekansiz!</item>
+        <item>Siz juda yaxshi mehnat qildingiz.</item>
+        <item>Siz Androiddan ham tezkor ekansiz!</item>
+        <item>Uff!</item>
+        <item>L33t marta.</item>
+        <item>Mana buni tezlik desa bo‘ladi!</item>
+        <item>Vaqtdan og‘ish – shu bizga kerak!</item>
+        <item>Chapga sakrash.</item>
+        <item>Siz vaqtingizni behuda sarflamas ekansiz.</item>
+        <item>Yorug‘likdan ham tezroq.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Ko‘rsatkichli</item>
+        <item>Raqamli</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall orollari</item>
+        <item>Midvey oroli</item>
+        <item>Gavayi</item>
+        <item>Alyaska</item>
+        <item>Tinch okeani vaqti</item>
+        <item>Tixuana</item>
+        <item>Arizona</item>
+        <item>Chixuaxua</item>
+        <item>Tog‘ vaqti</item>
+        <item>Markaziy Amerika</item>
+        <item>Markaziy vaqt</item>
+        <item>Mexiko</item>
+        <item>Saskachevan</item>
+        <item>Bogota</item>
+        <item>Sharqiy vaqt</item>
+        <item>Venesuela</item>
+        <item>Atlan-ka vaqti (Barbados)</item>
+        <item>Atlantika vaqti (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santyago</item>
+        <item>Nyufaundlend</item>
+        <item>Brazilia</item>
+        <item>Buenos-Ayres</item>
+        <item>Grinlend</item>
+        <item>Montevideo</item>
+        <item>Markaziy Atlantika vaqti</item>
+        <item>Azor orollari</item>
+        <item>Kabo-Verde orollari</item>
+        <item>Kasablanka</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Bryussel</item>
+        <item>Sarayevo</item>
+        <item>Vindxuk</item>
+        <item>G‘arbiy Afrika vaqti</item>
+        <item>Amman, Iordaniya</item>
+        <item>Afina, Istanbul</item>
+        <item>Bayrut, Livan</item>
+        <item>Qohira</item>
+        <item>Xelsinki</item>
+        <item>Quddus</item>
+        <item>Minsk</item>
+        <item>Xarare</item>
+        <item>Bag‘dod</item>
+        <item>Moskva</item>
+        <item>Quvayt</item>
+        <item>Nayrobi</item>
+        <item>Tehron</item>
+        <item>Boku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubay</item>
+        <item>Qobul</item>
+        <item>Islomobod, Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Shri-Lanka</item>
+        <item>Katmandu</item>
+        <item>Ostona</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Gonkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Pert</item>
+        <item>Taypey</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darvin</item>
+        <item>Brisben</item>
+        <item>Xobart</item>
+        <item>Sidney, Kanberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Oklend</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+        <item>Jakarta</item>
+    </string-array>
+</resources>

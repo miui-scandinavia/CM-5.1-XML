@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uppsetningarforrit fyrir vottorð</string>
+    <string name="pick_file_title">Veldu vottorð</string>
+    <string name="pkcs12_password_dialog_title">Draga út vottorð</string>
+    <string name="extracting_pkcs12">Dregur út…</string>
+    <string name="pkcs12_file_password_dialog_title">Draga út úr %s</string>
+    <string name="name_credential_dialog_title">Gefa vottorði heiti</string>
+    <string name="credential_name">Heiti vottorðs:</string>
+    <string name="credential_password">Sláðu inn aðgangsorðið til að sækja vottorðin.</string>
+    <string name="credential_info">Pakkinn inniheldur:</string>
+    <string name="p12_description">Vottorð í PKCS12-lyklageymslu.</string>
+    <string name="one_userkey">einn notandalykill</string>
+    <string name="one_usercrt">eitt notandavottorð</string>
+    <string name="one_cacrt">eitt CA-vottorð</string>
+    <string name="n_cacrts">%d CA-vottorð</string>
+    <string name="password_error">Sláðu inn rétt aðgangsorð.</string>
+    <string name="password_empty_error">Sláðu inn aðgangsorðið.</string>
+    <string name="name_empty_error">Sláðu inn heiti.</string>
+    <string name="name_char_error">Sláðu inn heiti með bókstöfum og tölustöfum eingöngu.</string>
+    <string name="storage_error">Ekki tókst að vista vottorðið. Veldu Í lagi til að reyna aftur.</string>
+    <string name="unable_to_save_cert">Ekki tókst að vista vottorðið. Skilríkjageymslan hefur ekki verið gerð virk eða er rangt frumstillt.</string>
+    <string name="cert_not_saved">Vottorðið er ekki uppsett.</string>
+    <string name="no_cert_to_saved">Ekkert vottorð til að setja upp.</string>
+    <string name="invalid_cert">Vottorðið er ógilt.</string>
+    <string name="cert_is_added">%s er uppsett.</string>
+    <string name="cert_too_large_error">Uppsetning mistókst því að vottorðsskráin er of stór.</string>
+    <string name="cert_missing_error">Uppsetning mistókst því að vottorðsskráin fannst ekki.</string>
+    <string name="cert_read_error">Uppsetning mistókst því að ekki tókst að lesa vottorðsskrána.</string>
+    <string name="no_cert_file_found">Engin vottorðaskrá fannst í USB-geymslu.</string>
+    <string name="sdcard_not_present">USB-geymsla ekki tiltæk.</string>
+    <string name="only_primary_user_allowed">Aðeins eigandi þessa tækis má setja upp vottorð.</string>
+    <string name="credential_usage_label">Notkun skilríkja:</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сүрөттүү экран көшөгөлөрү</string>
+    <string name="table_screensaver_name">Сүрөттөрдөн жадыбал</string>
+    <string name="flipper_screensaver_name">Сүрөттүн алкагы</string>
+    <string name="posts_album_name">Билдирүүлөрдүн сүрөттөрү</string>
+    <string name="unknown_album_name">Аты жок альбом</string>
+    <string name="stock_photo_album_name">Кампадагы сүрөттөр</string>
+    <string name="local_source_name">Түзмөктөгү сүрөттөр</string>
+    <string name="need_to_configure">Сүрөт тандалган жок.</string>
+    <string name="photodream_select_all">Бардыгын тандоо</string>
+    <string name="photodream_select_none">Баарын бошотуу</string>
+    <string name="no_photos">Түзмөктө сүрөт табылган жок.</string>
+</resources>

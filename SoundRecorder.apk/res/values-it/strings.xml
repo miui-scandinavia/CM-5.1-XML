@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recording_paused">In pausa</string>
+    <string name="error_app_unsupported">Formato non supportato.</string>
+    <string name="error_mediadb_incall">Questa opzione non è disponibile durante una chiamata.</string>
+    <string name="error_mediadb_aacincall">La registrazione della chiamata in formato AAC non è supportata.</string>
+    <string name="in_call_record_error">Errore registrazione della chiamata.</string>
+    <string name="format_setting">Tipo file</string>
+    <string name="storage_setting">Posizione di memorizzazione</string>
+    <string name="storage_setting_sdcard_item">Scheda SD</string>
+    <string name="storage_setting_local_item">Memoria del dispositivo</string>
+    <string name="no_phonestorage">Memoria del dispositivo non montata</string>
+    <string name="keyboard">Tastiera</string>
+    <string name="file_deleted">Il file è stato eliminato</string>
+    <string name="app_name">Registratore suoni</string>
+    <string name="record_your_message">Registra il messaggio</string>
+    <string name="message_recorded">Messaggio registrato</string>
+    <string name="review_message">Controlla messaggio</string>
+    <string name="recording">Registrazione...</string>
+    <string name="recording_stopped">Registrazione interrotta</string>
+    <string name="storage_is_full">La memoria è piena</string>
+    <string name="max_length_reached">Lunghezza massima raggiunta</string>
+    <string name="insert_sd_card">Monta archivio USB</string>
+    <string name="min_available">%d min a disposizione</string>
+    <string name="sec_available">%d s a disposizione</string>
+    <string name="accept">Fine</string>
+    <string name="discard">Ignora</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Registrazioni</string>
+    <string name="audio_db_album_name">Registrazioni audio</string>
+    <string name="audio_db_playlist_name">Registrazioni personali</string>
+    <string name="error_sdcard_access">"Impossibile accedere all'archivio USB."</string>
+    <string name="error_app_internal">"Errore interno dell'applicazione."</string>
+    <string name="error_mediadb_new_record">"Impossibile salvare l'audio registrato."</string>
+</resources>

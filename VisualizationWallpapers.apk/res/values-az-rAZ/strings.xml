@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Görüntüləyici</string>
+    <string name="wallpaper_vis2">Dalğa forması</string>
+    <string name="wallpaper_vis3">Spektor</string>
+    <string name="wallpaper_vis4">VU ölçən</string>
+    <string name="wallpaper_vis5">Çox</string>
+    <string name="wallpapers">Musiqili Görüntü Divar kağızları</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">İstənilən vaxt çalınan musiqi parçasının səs dalğalarını çəkir.</string>
+    <string name="vis3_desc">İstənilən vaxt çalınan musiqi parçasının tezlik spektorunu göstərir.</string>
+    <string name="vis4_desc">Analoq səsölçən kimi göstərilir.</string>
+    <string name="vis5_desc">Bütün musiqi görüntüləri birlikdə asta-asta 3D formatına keçir.</string>
+</resources>

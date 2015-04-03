@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_forward" android:id="@id/forward" android:title="@string/menu_forward" android:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_menu_delete" android:id="@id/delete" android:title="@string/menu_delete_msg" android:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_reply" android:id="@id/reply" android:title="@string/menu_reply" android:showAsAction="ifRoom|withText" />
+    <item android:id="@id/copy_to_phone" android:title="@string/sim_copy_to_phone_memory" android:showAsAction="withText" />
+    <item android:id="@id/selection_toggle" android:title="@string/selected_all" android:showAsAction="withText" />
+</menu>

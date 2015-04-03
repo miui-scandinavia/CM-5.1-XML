@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>无主题</item>
+    </string-array>
+    <string-array name="pre_define_message_template">
+        <item>我过会儿打给您。</item>
+        <item>我在开会，稍后打给您。</item>
+        <item>过会儿再打给我。</item>
+        <item>请回拨我，好吗？</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 秒</item>
+        <item>2 秒</item>
+        <item>3 秒</item>
+        <item>4 秒</item>
+        <item>5 秒</item>
+        <item>6 秒</item>
+        <item>7 秒</item>
+        <item>8 秒</item>
+        <item>9 秒</item>
+        <item>10 秒</item>
+        <item>其他</item>
+    </string-array>
+</resources>

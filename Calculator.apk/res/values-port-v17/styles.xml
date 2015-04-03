@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PadLayoutStyle.Operator" parent="@style/PadLayoutStyle">
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">24.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">96.0</item>
+        <item name="android:paddingStart">4.0dip</item>
+        <item name="android:paddingEnd">28.0dip</item>
+    </style>
+</resources>

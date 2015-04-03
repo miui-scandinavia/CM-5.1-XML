@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">విజువలైజర్</string>
+    <string name="wallpaper_vis2">తరంగాల ఆకారం</string>
+    <string name="wallpaper_vis3">స్పెక్ట్రమ్</string>
+    <string name="wallpaper_vis4">VU మీటర్</string>
+    <string name="wallpaper_vis5">అనేకం</string>
+    <string name="wallpapers">మ్యూజిక్ విజువలైజేషన్‌ వాల్‌పేపర్‌లు</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">ప్రస్తుతం ప్లే అవుతున్న సంగీత ట్రాక్ యొక్క ధ్వని తరంగాన్ని గీస్తుంది.</string>
+    <string name="vis3_desc">ప్రస్తుతం ప్లే అవుతున్న సంగీత ట్రాక్ యొక్క పౌనఃపున్య స్పెక్ట్రమ్‌ను చూపుతుంది.</string>
+    <string name="vis4_desc">అనలాగ్ ధ్వని మీటర్‌ను అనుకరిస్తుంది.</string>
+    <string name="vis5_desc">అన్ని మ్యూజిక్ విజువలైజేషన్‌లు కలిసికట్టుగా 3Dలో నెమ్మదిగా పరిభ్రమించడం.</string>
+</resources>

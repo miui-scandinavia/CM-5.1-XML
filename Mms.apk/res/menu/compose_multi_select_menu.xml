@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_forward" android:id="@id/forward" android:title="@string/menu_forward" android:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_menu_delete" android:id="@id/delete" android:title="@string/menu_delete_msg" android:showAsAction="always|withText" />
+    <item android:icon="@drawable/ic_menu_copy" android:id="@id/copy" android:title="@string/menu_copy_to" android:showAsAction="ifRoom|withText" />
+    <item android:id="@id/lock" android:title="@string/menu_lock" android:showAsAction="withText" />
+    <item android:id="@id/copy_to_sim" android:title="@string/operation_to_card_memory" android:showAsAction="withText" />
+    <item android:id="@id/detail" android:title="@string/message_detail" android:showAsAction="withText" />
+    <item android:id="@id/share" android:title="@string/message_share" android:showAsAction="withText" />
+    <item android:id="@id/report" android:title="@string/view_delivery_report" android:showAsAction="withText" />
+    <item android:id="@id/save_attachment" android:title="@string/copy_to_sdcard" android:showAsAction="withText" />
+    <item android:id="@id/selection_toggle" android:title="@string/selected_all" android:showAsAction="withText" />
+</menu>

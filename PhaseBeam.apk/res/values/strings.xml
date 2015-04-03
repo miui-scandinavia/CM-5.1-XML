@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_recoloring">Adjust beam colors</string>
+    <string name="color_label">Color</string>
+    <string name="saturation_label">Saturation</string>
+    <string name="brightness_label">Brightness</string>
+    <item type="string" name="hue">0.0</item>
+    <item type="string" name="saturation">1.0</item>
+    <item type="string" name="brightness">1.0</item>
+    <string name="wallpaper_label">Phase Beam</string>
+    <string name="wallpaper_author">Google</string>
+</resources>

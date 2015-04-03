@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+            <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="3.0">
+                <TextView android:gravity="center|right" android:id="@id/display" android:visibility="gone" android:longClickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/Theme.Calculator.Display.Widget" />
+                <TextView android:gravity="center|right" android:id="@id/display_long_clickable" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/Theme.Calculator.Display.Widget" />
+            </LinearLayout>
+            <ImageButton android:id="@id/delete" android:background="@drawable/menu_bg" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/widget_delete" android:layout_weight="1.0" android:contentDescription="@string/del" />
+            <ImageButton android:id="@id/clear" android:background="@drawable/menu_bg" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/widget_clear" android:layout_weight="1.0" android:contentDescription="@string/clear" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <Button android:id="@id/digit7" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit7" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/digit8" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit8" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/digit9" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit9" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/div" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/op_div" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <Button android:id="@id/digit4" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit4" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/digit5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit5" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/digit6" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit6" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/mul" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/op_mul" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <Button android:id="@id/digit1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit1" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/digit2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit2" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/digit3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit3" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/minus" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/op_sub" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <Button android:id="@id/dot" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/dec_point" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/digit0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/digit0" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/equal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/eq" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+                <Button android:id="@id/plus" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/op_add" android:layout_weight="1.0" style="@style/Theme.Calculator.ButtonStyle.Widget" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

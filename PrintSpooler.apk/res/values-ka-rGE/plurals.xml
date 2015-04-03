@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">ნაპოვნია %1$s პრინტერი</item>
+        <item quantity="one">ნაპოვნია %1$s პრინტერი</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">ბეჭდვის %1$d დავალება</item>
+        <item quantity="one">ბეჭდვის %1$d დავალება</item>
+    </plurals>
+</resources>

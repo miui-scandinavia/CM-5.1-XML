@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/today_icon" android:id="@id/action_today" android:orderInCategory="1" android:title="@string/goto_today" android:alphabeticShortcut="t" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_menu_refresh_holo_light" android:id="@id/action_refresh" android:orderInCategory="3" android:title="@string/calendar_refresh" android:alphabeticShortcut="r" android:showAsAction="never" />
+    <item android:icon="@drawable/ic_menu_search_holo_light" android:id="@id/action_search" android:orderInCategory="4" android:title="@string/search" android:alphabeticShortcut="f" android:imeOptions="actionSearch" android:showAsAction="collapseActionView" android:actionViewClass="android.widget.SearchView" />
+    <item android:id="@id/action_delete_events" android:orderInCategory="5" android:title="@string/events_delete" android:alphabeticShortcut="d" android:showAsAction="never" />
+    <item android:id="@id/action_goto" android:orderInCategory="6" android:title="@string/go_to" android:showAsAction="never" />
+    <item android:icon="@drawable/ic_menu_select_visible_calendars_holo_light" android:id="@id/action_select_visible_calendars" android:orderInCategory="7" android:title="@string/menu_select_visible_calendars" android:showAsAction="never" />
+    <item android:icon="@drawable/ic_menu_settings_holo_light" android:id="@id/action_settings" android:orderInCategory="8" android:title="@string/menu_preferences" android:alphabeticShortcut="s" android:showAsAction="never" />
+    <item android:icon="@drawable/ic_menu_export" android:id="@id/action_import" android:orderInCategory="9" android:title="@string/cal_import_menu_title" android:alphabeticShortcut="i" android:showAsAction="never" />
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?android:colorControlActivated"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/base_layer">
+        <selector android:autoMirrored="true">
+            <item android:state_selected="true">
+                <nine-patch android:src="@drawable/msg_bubble_outgoing_mask" android:tint="?android:colorControlActivated" />
+            </item>
+            <item>
+                <nine-patch android:src="@drawable/msg_bubble_outgoing_mask" />
+            </item>
+        </selector>
+    </item>
+    <item android:id="@android:id/mask">
+        <nine-patch android:src="@drawable/msg_bubble_outgoing_mask" android:autoMirrored="true" />
+    </item>
+</ripple>

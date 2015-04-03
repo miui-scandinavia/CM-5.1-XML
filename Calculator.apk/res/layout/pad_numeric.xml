@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.CalculatorPadLayout android:id="@id/pad_numeric" android:background="@color/pad_numeric_background_color" android:rowCount="4" android:columnCount="3" style="@style/PadLayoutStyle.Numeric"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/digit_7" android:text="@string/digit7" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_8" android:text="@string/digit8" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_9" android:text="@string/digit9" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_4" android:text="@string/digit4" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_5" android:text="@string/digit5" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_6" android:text="@string/digit6" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_1" android:text="@string/digit1" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_2" android:text="@string/digit2" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_3" android:text="@string/digit3" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/dec_point" android:text="@string/dec_point" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <Button android:id="@id/digit_0" android:text="@string/digit0" android:onClick="onButtonClick" style="@style/PadButtonStyle.Numeric" />
+    <include android:id="@id/equals_graph" style="@style/EqualsMultiButton" layout="@layout/equals_graph_button" />
+</com.android.calculator2.CalculatorPadLayout>

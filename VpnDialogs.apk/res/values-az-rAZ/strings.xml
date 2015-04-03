@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">VPN bağlantısı yaratmaq üçün %s cəhdləri.</string>
+    <string name="warning">Bunu həyata keçirməklə, siz tətbiqə bütün şəbəkə hərəkətinə qarışmağa icazə verirsiniz. <b> Tətbiqə güvənmirsizsə qəbul etməyin. </b> Əks halda, datanızın təhlükəli proqramlar tərəfindən ələ keçirilmə riskini alırsınız.</string>
+    <string name="legacy_title">VPN qoşuludur</string>
+    <string name="configure">Konfiqurasiya edin</string>
+    <string name="disconnect">Əlaqəni kəs</string>
+    <string name="session">Sessiya:</string>
+    <string name="duration">Müddət:</string>
+    <string name="data_transmitted">Göndərilən:</string>
+    <string name="data_received">Qəbul edilən:</string>
+    <string name="data_value_format">%1$s bayt / %2$s paket</string>
+    <string name="accept">Bu tətbiqə güvənirəm.</string>
+</resources>

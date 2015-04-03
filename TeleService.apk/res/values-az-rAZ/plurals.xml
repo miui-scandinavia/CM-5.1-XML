@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s dəqiqə ərzində heç bir data bağlantısı yoxdur.</item>
+        <item quantity="one">%s dəqiqəlik heç bir data bağlantısı yoxdur</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon %s dəqiqəlik Təcili Geriyə Zəng rejimində olacaq. Bu rejimdə data bağlantısı işlədən heç bir tətbiq istifadə oluna bilməz. İndi çıxmaq istəyirsiniz?</item>
+        <item quantity="one">Telefon %s dəqiqəlik Təcili Geriyə Zəng rejimində olacaq. Bu rejimdə data bağlantısı işlədən heç bir tətbiq istifadə oluna bilməz. İndi çıxmaq istəyirsiniz?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Seçilmiş fəaliyyət geriyə zəng rejimində əlçatımlı deyil. Telefon %s dəqiqəlik bu rejimdə olacaq. İndi çıxmaq istəyirsiniz?</item>
+        <item quantity="one">Seçilmiş fəaliyyət geriyə zəng rejimində əlçatımlı deyil. Telefon %s dəqiqəlik bu rejimdə olacaq. İndi çıxmaq istəyirsiniz?</item>
+    </plurals>
+</resources>

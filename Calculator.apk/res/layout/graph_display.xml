@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/graphLayout" android:layout_width="fill_parent" android:layout_height="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.calculator2.view.GraphView android:id="@id/graphView" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="@dimen/graph_margin" android:layout_marginTop="@dimen/graph_margin" android:layout_marginRight="@dimen/graph_margin" android:layout_weight="1.0" />
+    <RelativeLayout android:id="@id/closeGraphHandle" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/exitGraph" android:src="@drawable/btn_close" android:layout_alignParentStart="true" style="@style/Control.Graph" />
+        <ImageView android:id="@id/minusZoom" android:src="@drawable/btn_zoomout" android:layout_alignParentEnd="true" style="@style/Control.Graph" />
+        <ImageView android:id="@id/plusZoom" android:src="@drawable/btn_zoomin" android:layout_toStartOf="@id/minusZoom" style="@style/Control.Graph" />
+        <ImageView android:id="@id/resetZoom" android:src="@drawable/btn_reset" android:layout_toStartOf="@id/plusZoom" style="@style/Control.Graph" />
+    </RelativeLayout>
+</LinearLayout>

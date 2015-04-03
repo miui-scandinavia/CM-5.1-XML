@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="timerViewLayout">false</item>
+    <item type="id" name="timerView">false</item>
+    <item type="id" name="stateMessage2Layout">false</item>
+    <item type="id" name="stateLED">false</item>
+    <item type="id" name="stateMessage2">false</item>
+    <item type="id" name="stateMessage1">false</item>
+    <item type="id" name="stateProgressBar">false</item>
+    <item type="id" name="uvMeter">false</item>
+    <item type="id" name="exitButtons">false</item>
+    <item type="id" name="discardButton">false</item>
+    <item type="id" name="acceptButton">false</item>
+    <item type="id" name="recordButton">false</item>
+    <item type="id" name="playButton">false</item>
+    <item type="id" name="stopButton">false</item>
+    <item type="id" name="menu_item_filetype">false</item>
+    <item type="id" name="menu_item_storage">false</item>
+    <item type="id" name="menu_item_view_recordings">false</item>
+    <item type="id" name="menu_item_keyboard">false</item>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Mover %1$d conversas</item>
+        <item quantity="one">Mover conversa</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Borradores</item>
+        <item quantity="one">Borrador</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eliminar estas %1$d conversas?</item>
+        <item quantity="one">Eliminar esta conversa?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arquivar estas %1$d conversas?</item>
+        <item quantity="one">Arquivar esta conversa?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Queres descartar estas %1$d mensaxes?</item>
+        <item quantity="one">Queres descartar esta mensaxe?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Eliminando estrela %1$d conversas.</item>
+        <item quantity="one">Desmarcando con estrela %1$d conversa.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Silenciáronse &lt;b>%1$d&lt;/b> conversas.</item>
+        <item quantity="one">Silenciouse &lt;b>%1$d&lt;/b> conversa.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Informouse de que &lt;b>%1$d&lt;/b> conversas son spam.</item>
+        <item quantity="one">Informouse de que &lt;b>%1$d&lt;/b> conversa é spam.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Informouse de que &lt;b>%1$d&lt;/b> conversas non son spam.</item>
+        <item quantity="one">Informouse de que &lt;b>%1$d&lt;/b> conversa non é spam.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Marcáronse &lt;b>%1$d&lt;/b> conversas como non importantes.</item>
+        <item quantity="one">Marcouse &lt;b>%1$d&lt;/b> conversa como non importante.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Informouse de que &lt;b>%1$d&lt;/b> conversa é phishing.</item>
+        <item quantity="one">Informouse de que &lt;b>%1$d&lt;/b> conversa non é phishing.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Arquiváronse &lt;b>%1$d&lt;/b> conversas.</item>
+        <item quantity="one">Arquivouse &lt;b>%1$d&lt;/b> conversa.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Elimináronse &lt;b>%1$d&lt;/b> conversas.</item>
+        <item quantity="one">Eliminouse &lt;b>%1$d&lt;/b> conversa.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Cartafoles cambiados</item>
+        <item quantity="one">Cartafol cambiado</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Mostrar %1$d mensaxes novas.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d mensaxes máis antigas</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d non lidas</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mensaxes novas</item>
+        <item quantity="one">%1$d mensaxe nova</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Eliminaranse %1$d mensaxes permanentemente.</item>
+        <item quantity="one">Eliminarase %1$d mensaxe permanentemente.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mensaxes</item>
+        <item quantity="one">%1$d mensaxe</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d anexos</item>
+        <item quantity="one">%1$d anexo</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mover mensaxes</item>
+        <item quantity="one">Mover mensaxe</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d kB</item>
+        <item quantity="one">%d kB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Calculator.Display.Main.Formula" parent="@style/Theme.Calculator.Display.Main">
+        <item name="android:paddingLeft">44.0dip</item>
+        <item name="android:paddingTop">58.0dip</item>
+        <item name="android:paddingRight">44.0dip</item>
+        <item name="android:paddingBottom">14.0dip</item>
+        <item name="minTextSize">48.0sp</item>
+        <item name="maxTextSize">80.0sp</item>
+        <item name="stepTextSize">8.0sp</item>
+    </style>
+    <style name="Theme.Calculator.Display.Main.Result" parent="@style/Theme.Calculator.Display.Main">
+        <item name="android:paddingLeft">44.0dip</item>
+        <item name="android:paddingTop">14.0dip</item>
+        <item name="android:paddingRight">44.0dip</item>
+        <item name="android:paddingBottom">90.0dip</item>
+        <item name="textSize">48.0sp</item>
+    </style>
+    <style name="PadButtonStyle.Advanced" parent="@style/PadButtonStyle">
+        <item name="android:textSize">27.0sp</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:layout_marginTop">8.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+    </style>
+    <style name="PadButtonStyle.Numeric" parent="@style/PadButtonStyle">
+        <item name="android:textSize">36.0sp</item>
+        <item name="android:layout_margin">8.0dip</item>
+    </style>
+    <style name="EqualsMultiButton">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="PadButtonStyle.Operator" parent="@style/PadButtonStyle">
+        <item name="android:textSize">36.0sp</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginTop">8.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+    </style>
+    <style name="PadButtonStyle.Operator.Text" parent="@style/PadButtonStyle.Operator">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="PadLayoutStyle.Advanced" parent="@style/PadLayoutStyle">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:rowCount">3</item>
+        <item name="android:columnCount">5</item>
+    </style>
+    <style name="PadLayoutStyle.Hex" parent="@style/PadLayoutStyle.Advanced">
+        <item name="android:rowCount">2</item>
+        <item name="android:columnCount">6</item>
+    </style>
+    <style name="PadLayoutStyle.Matrix" parent="@style/PadLayoutStyle.Advanced" />
+    <style name="PadLayoutStyle.Numeric" parent="@style/PadLayoutStyle">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">532.0</item>
+    </style>
+    <style name="PadLayoutStyle.Operator" parent="@style/PadLayoutStyle">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">240.0</item>
+    </style>
+    <style name="PadLayoutStyle.Card" parent="@style/PadLayoutStyle" />
+    <style name="PadLinearLayoutStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+</resources>

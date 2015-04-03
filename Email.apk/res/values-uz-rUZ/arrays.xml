@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Javob berish</item>
+        <item>Barchasiga</item>
+        <item>Yo‘naltirish</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Bajarildi</item>
+        <item>Internetga ulanmagan.</item>
+        <item>Tizimga kirib bo‘lmadi.</item>
+        <item>Xavfsizlik xatosi.</item>
+        <item>Sinxronlab bo‘lmadi.</item>
+        <item>Ichki xatolik</item>
+        <item>Server xatosi</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Yangiroq</item>
+        <item>Eskiroq</item>
+        <item>Suhbatlar ro‘yxati</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>O‘chirgandan so‘ng yangiroq suhbatni ko‘rsatish</item>
+        <item>O‘chirgandan so‘ng eskiroq suhbatni ko‘rsatish</item>
+        <item>O‘chirgandan so‘ng suhbatlar ro‘yxatini ko‘rsatish</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Faqat arxivni ko‘rsatish</item>
+        <item>Faqat o‘chirish</item>
+        <item>Arxivlash yoki o‘chirish</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Faqat arxivni ko‘rsatish</item>
+        <item>Faqat o‘chirish</item>
+        <item>Arxivlash yoki o‘chirish</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Xabar harakatlari doim ekranning yuqorisida ko‘rsatilsin</item>
+        <item>Xabar harakatlari faqat bo‘yiga rejimiga o‘tilganda ekranning yuqorisida ko‘rsatilsin</item>
+        <item>Xabar harakatlari xabar sarlavhasidan tashqarida ko‘rsatilmasin</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Har doim ko‘rsatilsin</item>
+        <item>Faqat bo‘yiga rejimida ko‘rsatilsin</item>
+        <item>Ko‘rsatilmasin</item>
+    </string-array>
+</resources>

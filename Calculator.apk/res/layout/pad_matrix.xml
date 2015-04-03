@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.CalculatorPadLayout android:id="@id/pad_matrix" android:background="@color/pad_advanced_background_color" style="@style/PadLayoutStyle.Matrix"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/matrix" android:text="@string/matrix_new" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/det" android:text="@string/det" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/matrix_transpose" android:text="@string/matrix_transpose" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/matrix_inverse" android:text="@string/matrix_inverse" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/plus_row" android:text="@string/plus_row" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/minus_row" android:text="@string/minus_row" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/plus_col" android:text="@string/plus_col" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/minus_col" android:text="@string/minus_col" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+</com.android.calculator2.CalculatorPadLayout>

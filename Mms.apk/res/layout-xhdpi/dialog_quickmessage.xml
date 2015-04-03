@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom|center" android:orientation="vertical" android:id="@id/QuickMessageMainlayout" android:layout_width="340.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.view.ViewPager android:gravity="center" android:id="@id/message_pager" android:layout_width="fill_parent" android:layout_height="@dimen/qm_message_height" />
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/pager_arrow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/line_divider_arrow" android:scaleType="fitXY" />
+    <TextView android:textSize="12.0sp" android:textColor="?android:textColorTertiary" android:gravity="center" android:autoLink="all" android:id="@id/message_counter" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="vertical" android:id="@id/buttonPanel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="?android:dividerHorizontal" android:minHeight="@dimen/qm_dialog_button_bar_height" android:showDividers="beginning" android:dividerPadding="0.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:measureWithLargestChild="true" style="?android:attr/buttonBarStyle">
+            <Button android:textSize="14.0sp" android:layout_gravity="left" android:id="@id/button_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/qm_dialog_button_bar_height" android:text="@string/button_close" android:maxLines="2" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+            <Button android:textSize="14.0sp" android:layout_gravity="right" android:id="@id/button_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/qm_dialog_button_bar_height" android:text="@string/button_view" android:maxLines="2" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

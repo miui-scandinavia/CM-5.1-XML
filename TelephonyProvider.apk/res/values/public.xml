@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="mipmap" name="ic_launcher_phone" id="0x7f020000" />
+    <public type="xml" name="hbpcd_lookup_tables" id="0x7f030000" />
+    <public type="string" name="config_preferred_apn" id="0x7f040000" />
+    <public type="string" name="app_label" id="0x7f040001" />
+</resources>

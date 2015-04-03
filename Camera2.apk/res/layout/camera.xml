@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/camera_app_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextureView android:id="@id/preview_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.FocusOverlay android:id="@id/focus_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.CaptureAnimationOverlay android:id="@id/capture_overlay" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.PreviewOverlay android:id="@id/preview_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.FaceView android:id="@id/face_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.GridLines android:layout_gravity="center_horizontal" android:id="@id/grid_lines" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/intent_review_imageview" android:background="@android:color/black" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <FrameLayout android:id="@id/module_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/mode_options_bottombar" />
+    <FrameLayout android:id="@id/tutorials_placeholder_wrapper" android:background="@color/fullscreen_dialog_background_color" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/mode_list_layout" />
+    <LinearLayout android:layout_gravity="center|left|top" android:orientation="horizontal" android:id="@id/accessibility_affordances" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:id="@id/accessibility_mode_toggle_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/btn_mode_list_toggle" android:contentDescription="@string/accessibility_mode_list_toggle" />
+        <Button android:id="@id/accessibility_filmstrip_toggle_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/btn_filmstrip_toggle" android:contentDescription="@string/accessibility_filmstrip_toggle" />
+    </LinearLayout>
+    <View android:id="@id/leftLetterBoxer1" android:background="@android:color/black" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:id="@id/leftLetterBoxer2" android:background="@android:color/black" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

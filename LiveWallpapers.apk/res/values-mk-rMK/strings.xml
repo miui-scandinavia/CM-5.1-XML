@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Раздвижени тапети за Android</string>
+    <string name="wallpaper_walkaround">Проѕирен тапет</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Гледајте преку телефонот и шетајте без опасност од несреќи.</string>
+    <string name="wallpaper_clock">Поларен часовник</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Ги прикажува датумот и времето како лакови во насока на движење на стрелките на часовникот: месец, ден, час, минута, и секунда.</string>
+    <string name="clock_settings">Подесувања за поларен часовник</string>
+    <string name="show_seconds">Прикажи секунди</string>
+    <string name="variable_line_width">Прстени со различна широчина</string>
+    <string name="palette">Палета на бои</string>
+    <string name="palette_gray">Железо</string>
+    <string name="palette_violet">Полноќ</string>
+    <string name="palette_matrix">Зелен екран</string>
+    <string name="palette_white_c">Поларна мечка (динамичен)</string>
+    <string name="palette_black_c">Црна дупка (динамичен)</string>
+    <string name="palette_halloween">Пита од тиква</string>
+    <string name="palette_zenburn">Овошна салата на вонземјанин</string>
+    <string name="palette_oceanic">Син ласер</string>
+</resources>

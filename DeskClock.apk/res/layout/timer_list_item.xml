@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.deskclock.timer.TimerListItem android:gravity="center_vertical" android:layout_gravity="center" android:orientation="vertical" android:paddingBottom="@dimen/timer_list_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.deskclock.CircleButtonsLayout android:layout_gravity="center" android:id="@id/timer_circle" android:layout_width="@dimen/circle_size" android:layout_height="@dimen/circle_size" android:layout_marginStart="@dimen/timer_circle_margin" android:layout_marginEnd="@dimen/timer_circle_margin">
+        <com.android.deskclock.CircleTimerView android:id="@id/timer_time" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.android.deskclock.timer.CountingTimerView android:id="@id/timer_time_text" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:layout_gravity="center|top" android:id="@id/timer_label" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:contentDescription="@string/label">
+            <TextView android:enabled="false" android:textAppearance="@style/SecondaryLabelTextAppearance" android:ellipsize="end" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/timer_label_text" android:layout_width="wrap_content" android:layout_height="56.0dip" android:text="@string/label_unlabeled" android:singleLine="true" />
+            <TextView android:enabled="false" android:textAppearance="@style/SecondaryLabelTextAppearance" android:layout_gravity="center_horizontal" android:id="@id/timer_label_placeholder" android:layout_width="wrap_content" android:layout_height="56.0dip" android:src="@drawable/ic_label" android:text="@string/label" android:contentDescription="@string/label" />
+        </FrameLayout>
+        <ImageButton android:gravity="center" android:layout_gravity="bottom|center" android:id="@id/reset_add" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_plusone" android:contentDescription="@string/timer_plus_one" />
+    </com.android.deskclock.CircleButtonsLayout>
+</com.android.deskclock.timer.TimerListItem>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android Animasyonlu Duvar Kağıtları</string>
+    <string name="wallpaper_walkaround">Şeffaf</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Telefonunuzun içini görün ve kaza riski olmadan gezinin.</string>
+    <string name="wallpaper_clock">Kutup saati</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Saat yönünde dönen kavislerle tarihi ve saati gösterir: ay, gün, saat, dakika ve saniye.</string>
+    <string name="clock_settings">Kutup saati ayarları</string>
+    <string name="show_seconds">Saniyeyi göster</string>
+    <string name="variable_line_width">Değişken halka genişlikleri</string>
+    <string name="palette">Renk paleti</string>
+    <string name="palette_gray">Demir</string>
+    <string name="palette_violet">Gece Yarısı</string>
+    <string name="palette_matrix">Yeşil Ekran</string>
+    <string name="palette_white_c">Kutup Ayısı (dinamik)</string>
+    <string name="palette_black_c">Kara Delik (dinamik)</string>
+    <string name="palette_halloween">Balkabağı Turtası</string>
+    <string name="palette_zenburn">Yaratık Meyve Salatası</string>
+    <string name="palette_oceanic">Mavi Lazer</string>
+</resources>

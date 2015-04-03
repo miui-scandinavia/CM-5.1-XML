@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Ζωντανές ταπετσαρίες στο Android</string>
+    <string name="wallpaper_walkaround">Διαφανές</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Δείτε εικόνα μέσα από την οθόνη του τηλεφώνου σας και κάντε τη βόλτα σας αποφεύγοντας τυχόν ατυχήματα.</string>
+    <string name="wallpaper_clock">Πολικό ρολόι</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Δείχνει την ημερομηνία και την ώρα σαν αψίδες με δεξιόστροφη φορά: μήνας, ημέρα, ώρα, λεπτό και δευτερόλεπτο.</string>
+    <string name="clock_settings">Ρυθμίσεις πολικού ρολογιού</string>
+    <string name="show_seconds">Εμφάνιση δευτερολέπτων</string>
+    <string name="variable_line_width">Ποικίλα μεγέθη δακτυλίων</string>
+    <string name="palette">Παλέτα χρωμάτων</string>
+    <string name="palette_gray">Σίδηρος</string>
+    <string name="palette_violet">Μεσάνυχτα</string>
+    <string name="palette_matrix">Πράσινη οθόνη</string>
+    <string name="palette_white_c">Πολική αρκούδα (δυναμική)</string>
+    <string name="palette_black_c">Μαύρη τρύπα (δυναμική)</string>
+    <string name="palette_halloween">Κολοκυθόπιτα</string>
+    <string name="palette_zenburn">Εξωγήινη φρουτοσαλάτα</string>
+    <string name="palette_oceanic">Μπλε λέιζερ</string>
+</resources>

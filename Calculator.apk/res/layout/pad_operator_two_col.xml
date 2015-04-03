@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.CalculatorPadLayout android:id="@id/pad_operator" android:background="@color/pad_operator_background_color" android:rowCount="4" android:columnCount="2" style="@style/PadLayoutStyle.Operator"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/op_div" android:text="@string/op_div" android:onClick="onButtonClick" android:contentDescription="@string/desc_op_div" style="@style/PadButtonStyle.Operator" />
+    <Button android:id="@id/del" android:text="@string/del" android:onClick="onButtonClick" android:contentDescription="@string/desc_del" style="@style/PadButtonStyle.Operator.Text" />
+    <Button android:id="@id/clr" android:visibility="gone" android:text="@string/clr" android:onClick="onButtonClick" android:contentDescription="@string/desc_clr" style="@style/PadButtonStyle.Operator.Text" />
+    <Button android:id="@id/op_mul" android:text="@string/op_mul" android:onClick="onButtonClick" android:contentDescription="@string/op_mul" style="@style/PadButtonStyle.Operator" />
+    <Space style="@style/PadButtonStyle.Operator" />
+    <Button android:id="@id/op_sub" android:text="@string/op_sub" android:onClick="onButtonClick" android:contentDescription="@string/desc_op_sub" style="@style/PadButtonStyle.Operator" />
+    <Space style="@style/PadButtonStyle.Operator" />
+    <Button android:id="@id/op_add" android:text="@string/op_add" android:onClick="onButtonClick" android:contentDescription="@string/desc_op_add" style="@style/PadButtonStyle.Operator" />
+    <include android:id="@id/equals_graph" layout="@layout/equals_graph_button" />
+</com.android.calculator2.CalculatorPadLayout>

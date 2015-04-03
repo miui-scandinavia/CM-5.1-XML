@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.CalculatorPadLayout android:id="@id/pad_hex" android:background="@color/pad_advanced_background_color" style="@style/PadLayoutStyle.Hex"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/A" android:text="@string/A" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/B" android:text="@string/B" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/C" android:text="@string/C" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/D" android:text="@string/D" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/E" android:text="@string/E" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/F" android:text="@string/F" android:onClick="onButtonClick" style="@style/PadButtonStyle.Advanced" />
+    <Button android:id="@id/dec" android:text="@string/dec" android:onClick="onButtonClick" android:contentDescription="@string/desc_dec" style="@style/PadButtonStyle.Advanced.Toggle" />
+    <Button android:id="@id/hex" android:text="@string/hex" android:onClick="onButtonClick" android:contentDescription="@string/desc_hex" style="@style/PadButtonStyle.Advanced.Toggle" />
+    <Button android:id="@id/bin" android:text="@string/bin" android:onClick="onButtonClick" android:contentDescription="@string/desc_bin" style="@style/PadButtonStyle.Advanced.Toggle" />
+</com.android.calculator2.CalculatorPadLayout>

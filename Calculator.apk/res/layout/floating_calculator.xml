@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/floating_calc_background" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ui="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/display_wrapper" android:background="@drawable/white_card" android:layout_width="280.0dip" android:layout_height="wrap_content" android:minHeight="65.0dip">
+        <com.android.calculator2.view.display.AdvancedDisplay android:id="@id/display" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" ui:textSize="23.0sp" ui:textColor="@color/display_formula_text_color" />
+        <ImageButton android:id="@id/delete" android:layout_width="@dimen/floating_window_button_height" android:layout_height="fill_parent" android:src="@drawable/widget_delete" android:contentDescription="@string/del" />
+        <ImageButton android:id="@id/clear" android:visibility="gone" android:layout_width="@dimen/floating_window_button_height" android:layout_height="fill_parent" android:src="@drawable/widget_clear" android:contentDescription="@string/clear" />
+    </LinearLayout>
+    <android.support.v4.view.ViewPager android:id="@id/panelswitch" android:layout_width="280.0dip" android:layout_height="280.0dip" android:layout_marginTop="@dimen/below_display_margin" android:layout_below="@id/display_wrapper" />
+</RelativeLayout>

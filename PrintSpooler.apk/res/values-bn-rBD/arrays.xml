@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>কালো এবং সাদা</item>
+        <item>রঙ</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>প্রতিকৃতি</item>
+        <item>ভূদৃশ্য</item>
+    </string-array>
+</resources>

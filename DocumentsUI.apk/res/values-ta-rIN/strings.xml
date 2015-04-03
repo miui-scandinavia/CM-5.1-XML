@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ஆவணங்கள்</string>
+    <string name="title_open">இதிலிருந்து திற</string>
+    <string name="title_save">இதில் சேமி</string>
+    <string name="menu_create_dir">கோப்புறையை உருவாக்கு</string>
+    <string name="menu_grid">கட்டக் காட்சி</string>
+    <string name="menu_list">பட்டியல்</string>
+    <string name="menu_sort">இதன்படி வரிசைப்படுத்து</string>
+    <string name="menu_search">தேடு</string>
+    <string name="menu_settings">அமைப்பு</string>
+    <string name="menu_open">திற</string>
+    <string name="menu_save">சேமி</string>
+    <string name="menu_share">பகிர்</string>
+    <string name="menu_delete">நீக்கு</string>
+    <string name="menu_select">\"^1\" ஐத் தேர்ந்தெடு</string>
+    <string name="menu_advanced_show">அகச் சேமிப்பகத்தைக் காட்டு</string>
+    <string name="menu_advanced_hide">அகச் சேமிப்பகத்தை மறை</string>
+    <string name="menu_file_size_show">கோப்பு அளவைக் காட்டு</string>
+    <string name="menu_file_size_hide">கோப்பு அளவை மறை</string>
+    <string name="mode_selected_count">%1$d தேர்ந்தெடுக்கப்பட்டன</string>
+    <string name="sort_name">பெயரின்படி</string>
+    <string name="sort_date">தேதியின்படி திருத்தப்பட்டது</string>
+    <string name="sort_size">அளவின்படி</string>
+    <string name="drawer_open">வழிகளைக் காட்டு</string>
+    <string name="drawer_close">வழிகளை மறை</string>
+    <string name="save_error">ஆவணத்தைச் சேமிப்பதில் தோல்வி</string>
+    <string name="create_error">கோப்புறையை உருவாக்குவதில் தோல்வி</string>
+    <string name="query_error">ஆவணங்களை வினவுவதில் தோல்வி</string>
+    <string name="root_recent">சமீபத்தியவை</string>
+    <string name="root_available_bytes">%1$s இலவசம்</string>
+    <string name="root_type_service">சேமிப்பிட சாதனங்கள்</string>
+    <string name="root_type_shortcut">குறுக்குவழிகள்</string>
+    <string name="root_type_device">சாதனங்கள்</string>
+    <string name="root_type_apps">மேலும் பயன்பாடுகள்</string>
+    <string name="empty">உருப்படிகள் இல்லை</string>
+    <string name="toast_no_application">கோப்பைத் திறக்க முடியவில்லை</string>
+    <string name="toast_failed_delete">சில ஆவணங்களை நீக்க முடியவில்லை</string>
+    <string name="share_via">இதன் வழியாகப் பகிர்</string>
+</resources>

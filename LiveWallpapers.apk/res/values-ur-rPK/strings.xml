@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">‏Android لائیو وال پیپرز</string>
+    <string name="wallpaper_walkaround">آر پار دیکھیں</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">اپنے فون کے آر پار دیکھیں اور حادثوں کے خطرات کے بغیر آس پاس چہل قدمی کریں۔</string>
+    <string name="wallpaper_clock">قطبی گھڑی</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">گھڑی وار آرکس کے بطور تاریخ اور وقت پیش کرتا ہے: ماہ، دن، منٹ اور سیکنڈ۔</string>
+    <string name="clock_settings">قطبی گھڑی کی ترتیبات</string>
+    <string name="show_seconds">سیکنڈ دکھائیں</string>
+    <string name="variable_line_width">حلقہ کی مختلف چوڑائیاں</string>
+    <string name="palette">رنگ کا پیلیٹ</string>
+    <string name="palette_gray">آئرن</string>
+    <string name="palette_violet">آدھی رات</string>
+    <string name="palette_matrix">سبز اسکرین</string>
+    <string name="palette_white_c">قطبی ریچھ (ڈائنیمک)</string>
+    <string name="palette_black_c">بلیک ہول (ڈائنیمک)</string>
+    <string name="palette_halloween">پمپکن پائی</string>
+    <string name="palette_zenburn">غیر ملکی پھل کا سلاد</string>
+    <string name="palette_oceanic">نیلا لیزر</string>
+</resources>

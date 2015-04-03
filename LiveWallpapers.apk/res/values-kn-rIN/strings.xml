@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android ಲೈವ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
+    <string name="wallpaper_walkaround">ಮತ್ತೊಂದರ ಮೂಲಕ ನೋಟ</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ಗಮನಿಸಿ ಹಾಗೂ ಅಪಘಾತಗಳ ಆತಂಕವಿಲ್ಲದೇ ಸುತ್ತ-ಮುತ್ತ ಓಡಾಡಿ.</string>
+    <string name="wallpaper_clock">ಪೋಲಾರ್ ಗಡಿಯಾರ</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">ದಿನಾಂಕ ಮತ್ತು ಸಮಯವನ್ನು ಪ್ರದಕ್ಷಿಣ ಕಮಾನುಗಳಾಗಿ ಪ್ರಸ್ತುತಪಡಿಸುತ್ತದೆ: ತಿಂಗಳು, ದಿನ, ಸಮಯ ಮತ್ತು ಸೆಕೆಂಡ್.</string>
+    <string name="clock_settings">ಪೋಲಾರ್ ಗಡಿಯಾರದ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="show_seconds">ಸೆಕೆಂಡ್‌ಗಳನ್ನು ತೋರಿಸು</string>
+    <string name="variable_line_width">ಸುತ್ತುಗಳ ಅಳತೆಯಲ್ಲಿ ವ್ಯತ್ಯಯ</string>
+    <string name="palette">ಬಣ್ಣದ ತಟ್ಟೆ</string>
+    <string name="palette_gray">ಐರನ್</string>
+    <string name="palette_violet">ಮಿಡ್‌ನೈಟ್</string>
+    <string name="palette_matrix">ಗ್ರೀನ್ ಸ್ಕ್ರೀನ್</string>
+    <string name="palette_white_c">ಪೋಲಾರ್ ಬೀರ್ (ಡೈನಾಮಿಕ್)</string>
+    <string name="palette_black_c">ಕಪ್ಪು ರಂಧ್ರ (ಡೈನಾಮಿಕ್)</string>
+    <string name="palette_halloween">ಪಂಪ್ಕಿನ್‌ ಪೈ</string>
+    <string name="palette_zenburn">ಏಲಿಯನ್ ಫ್ರೂಟ್ ಸಲಾಡ್</string>
+    <string name="palette_oceanic">ಬ್ಲ್ಯೂ ಲೇಸರ್</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Визуализатор</string>
+    <string name="wallpaper_vis2">Толқынды</string>
+    <string name="wallpaper_vis3">Спектр</string>
+    <string name="wallpaper_vis4">Дыбыс деңгейін өлшегіш</string>
+    <string name="wallpaper_vis5">Көп</string>
+    <string name="wallpapers">Саздың визуалдық көріністері кескінделген артқы фондар</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Ойнап тұрған саз жолының дыбыс толқындарын кескіндейді.</string>
+    <string name="vis3_desc">Ойнап тұрған саз жолының жиілік аумағын көрсетеді.</string>
+    <string name="vis4_desc">Аналогтық дыбыс метріне еліктейді.</string>
+    <string name="vis5_desc">Саздың барлық визуалдық көріністері бірге, баяу 3D режимінде айналады.</string>
+</resources>

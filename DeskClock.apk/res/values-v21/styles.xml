@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DeskClockParentTheme" parent="@android:style/Theme.Material">
+        <item name="android:buttonStyle">?android:borderlessButtonStyle</item>
+        <item name="android:popupMenuStyle">?android:actionOverflowMenuStyle</item>
+        <item name="android:colorControlNormal">@color/white</item>
+        <item name="android:colorControlActivated">@color/white</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+    </style>
+    <style name="AlarmSwitchTheme">
+        <item name="android:colorControlActivated">@color/hot_pink</item>
+    </style>
+    <style name="TimePickerTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:textColorPrimaryInverse">@color/hot_pink</item>
+        <item name="android:background">@color/time_picker_gray</item>
+        <item name="android:colorAccent">@color/hot_pink</item>
+        <item name="android:timePickerStyle">@style/TimePickerStyle</item>
+    </style>
+    <style name="TimePickerStyle" parent="@android:style/Widget.Material.TimePicker">
+        <item name="android:headerBackground">@color/time_picker_gray</item>
+        <item name="android:headerTimeTextAppearance">@style/TimeLabelTextAppearance</item>
+        <item name="android:headerAmPmTextAppearance">@style/AmPmTextAppearance</item>
+        <item name="android:numbersTextColor">@color/white</item>
+        <item name="android:numbersBackgroundColor">@color/time_picker_gray</item>
+        <item name="android:amPmTextColor">@color/white</item>
+    </style>
+    <style name="CitiesTheme" parent="@style/DeskClockParentTheme">
+        <item name="android:actionBarStyle">@style/CitiesTheme.ActionBar</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/red_fastscroll_thumb</item>
+        <item name="android:fastScrollStyle">@style/FastScrollStyle</item>
+    </style>
+    <style name="TimerAlertFullScreenTheme" parent="@android:style/Theme.Material.Wallpaper.NoTitleBar">
+        <item name="android:statusBarColor">@color/status_bar</item>
+    </style>
+    <style name="ScreensaverActivityTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+    </style>
+</resources>

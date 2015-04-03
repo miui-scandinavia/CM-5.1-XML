@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s ಮುದ್ರಕಗಳು ಕಂಡುಬಂದಿವೆ</item>
+        <item quantity="one">%1$s ಮುದ್ರಕ ಕಂಡುಬಂದಿದೆ</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d ಮುದ್ರಣ ಕಾರ್ಯಗಳು</item>
+        <item quantity="one">%1$d ಮುದ್ರಣ ಕಾರ್ಯ</item>
+    </plurals>
+</resources>

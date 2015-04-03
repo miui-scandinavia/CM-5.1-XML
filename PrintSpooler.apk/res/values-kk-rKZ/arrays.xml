@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>Қара &amp; Ақ</item>
+        <item>Түс</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Портреттік</item>
+        <item>Ландшафт</item>
+    </string-array>
+</resources>

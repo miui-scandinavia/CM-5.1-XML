@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="dec_separator_distance">3</integer>
+    <integer name="bin_separator_distance">4</integer>
+    <integer name="hex_separator_distance">2</integer>
+</resources>

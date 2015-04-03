@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingTop="?android:actionBarSize" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/cities" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/clock_side_padding" android:paddingEnd="@dimen/clock_side_padding_reduced" />
+    <FrameLayout android:layout_gravity="end|bottom|center" android:layout_width="@dimen/footer_button_size" android:layout_height="@dimen/footer_button_size" android:layout_marginBottom="@dimen/footer_button_layout_margin">
+        <ImageButton android:layout_gravity="end|center" android:id="@id/menu_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/button_menu" style="?android:attr/actionOverflowButtonStyle" />
+    </FrameLayout>
+</FrameLayout>

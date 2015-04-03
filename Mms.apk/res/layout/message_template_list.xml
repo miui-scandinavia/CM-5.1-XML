@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/listViewTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="12.0dip" android:paddingEnd="12.0dip" />
+    <TextView android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip" />
+    <ListView android:id="@id/listViewContent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="12.0dip" android:paddingEnd="12.0dip" />
+</LinearLayout>

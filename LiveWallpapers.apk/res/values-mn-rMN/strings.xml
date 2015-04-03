@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Андройд хөдөлгөөнт ханын зураг</string>
+    <string name="wallpaper_walkaround">Харах</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Утсаараа шалгаад осол эрсдэлгүй салхинд зугаалах.</string>
+    <string name="wallpaper_clock">Туйлын цаг</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Огноо болон цаг цагийн зүүний эсрэг нумаар үзүүлнэ: сар, өдөр, цаг, минум болон секунд.</string>
+    <string name="clock_settings">Туйлын цагний тохиргоо</string>
+    <string name="show_seconds">Секунд харуулна</string>
+    <string name="variable_line_width">Цагирагийн өргөн янз бүр</string>
+    <string name="palette">Өнгөний самбар</string>
+    <string name="palette_gray">Төмөр</string>
+    <string name="palette_violet">Шөнө дунд</string>
+    <string name="palette_matrix">Ногоон дэлгэц</string>
+    <string name="palette_white_c">Цагаан баавгай (динамик)</string>
+    <string name="palette_black_c">Хар нүх(динамик)</string>
+    <string name="palette_halloween">Хулуутай боов</string>
+    <string name="palette_zenburn">Харь гаригийн жимсний салат</string>
+    <string name="palette_oceanic">Цэнхэр лазер</string>
+</resources>

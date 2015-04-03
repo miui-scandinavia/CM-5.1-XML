@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.view.MultiButton android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/eq" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/eq" android:onClick="onButtonClick" android:contentDescription="@string/desc_eq" style="@style/PadButtonStyle.Numeric" />
+    <FrameLayout android:id="@id/graph" android:background="@drawable/pad_button_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:onClick="onButtonClick">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_graph" />
+    </FrameLayout>
+</com.android.calculator2.view.MultiButton>

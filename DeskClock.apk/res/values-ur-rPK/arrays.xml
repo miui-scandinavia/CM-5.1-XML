@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>عابدجان</item>
+        <item>اکرا</item>
+        <item>ادیس ابابا</item>
+        <item>الجائرز</item>
+        <item>بلنٹائر</item>
+        <item>برازاویلے</item>
+        <item>قاہرہ</item>
+        <item>کاسا بلنکا</item>
+        <item>کونا کری</item>
+        <item>ڈاکر</item>
+        <item>دار السلام</item>
+        <item>جبوتی</item>
+        <item>فری ٹاؤن</item>
+        <item>گیبورون</item>
+        <item>ہرارے</item>
+        <item>جوہانسبرگ</item>
+        <item>کمپالا</item>
+        <item>خرطوم</item>
+        <item>کیگالی</item>
+        <item>کنشاسا</item>
+        <item>لاگوس</item>
+        <item>مسیرو</item>
+        <item>موگادیشو</item>
+        <item>نیروبی</item>
+        <item>ساؤ ٹوم</item>
+        <item>ٹمبکٹو</item>
+        <item>طرابلس</item>
+        <item>تیونس</item>
+        <item>اینکریج</item>
+        <item>مینڈوزا</item>
+        <item>اروبا</item>
+        <item>اسنسیئن</item>
+        <item>بار باڈوس</item>
+        <item>بیلیز</item>
+        <item>بوگوٹا</item>
+        <item>بیونوس ائیرز</item>
+        <item>کنکیون</item>
+        <item>کراکاس</item>
+        <item>کیمن</item>
+        <item>شکاگو</item>
+        <item>کوسٹا ریکا</item>
+        <item>کیورا کاؤ</item>
+        <item>ڈاؤسن کریک</item>
+        <item>ڈینور</item>
+        <item>ڈیٹرائٹ</item>
+        <item>ڈومینیکا</item>
+        <item>ایڈمونٹن</item>
+        <item>ایلسلواڈور</item>
+        <item>فورٹیلیزا</item>
+        <item>گرانڈ ٹرک</item>
+        <item>غرناطہ</item>
+        <item>گوئٹے مالا</item>
+        <item>گیانا</item>
+        <item>ہیلیفیکس</item>
+        <item>ہوانا</item>
+        <item>انڈیاناپولس</item>
+        <item>ناکس</item>
+        <item>میرنگو</item>
+        <item>پیٹرز برگ</item>
+        <item>ٹیل سٹی</item>
+        <item>ویوے</item>
+        <item>ونسینز</item>
+        <item>وینامیک</item>
+        <item>کنگسٹن</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>لیما</item>
+        <item>لاس اینجلس</item>
+        <item>لوئس ویلے</item>
+        <item>مناگوا</item>
+        <item>مارٹنیک</item>
+        <item>مینڈوزا</item>
+        <item>میٹلاکاٹلا</item>
+        <item>میکسیکو سٹی</item>
+        <item>مونٹیری</item>
+        <item>مونٹی ویڈیو</item>
+        <item>مونٹریال</item>
+        <item>ناساؤ</item>
+        <item>نیو یارک</item>
+        <item>بیولہہ</item>
+        <item>سینٹر</item>
+        <item>نیا سلیم</item>
+        <item>پانامہ</item>
+        <item>فینکس</item>
+        <item>اسپین کی بندرگاہ</item>
+        <item>پورٹ-او-پرنس</item>
+        <item>پورٹو ریکو</item>
+        <item>سانتو ڈومنگو</item>
+        <item>ساؤ پاؤلو</item>
+        <item>سینٹ جانز</item>
+        <item>سینٹ۔ کٹس</item>
+        <item>سینٹ لوسیا</item>
+        <item>سینٹ تھامس</item>
+        <item>تیجوآنا</item>
+        <item>ٹورنٹو</item>
+        <item>وینکوور</item>
+        <item>ونّیپیگ</item>
+        <item>قطب جنوبی</item>
+        <item>لانگ ایئر بین</item>
+        <item>الماٹی</item>
+        <item>عمان</item>
+        <item>انیدر</item>
+        <item>اکتاؤ</item>
+        <item>بغداد</item>
+        <item>بحرین</item>
+        <item>باکو</item>
+        <item>بینکاک</item>
+        <item>بیروت</item>
+        <item>کلکتہ</item>
+        <item>دمشق</item>
+        <item>ڈھاکہ</item>
+        <item>دبئی</item>
+        <item>غزہ</item>
+        <item>الخلیل</item>
+        <item>ہو چی منہ</item>
+        <item>ہانگ کانگ</item>
+        <item>استنبول</item>
+        <item>جکارتہ</item>
+        <item>یروشلم</item>
+        <item>کابل</item>
+        <item>کراچی</item>
+        <item>کاٹھمانڈو</item>
+        <item>کوالالمپور</item>
+        <item>کویت</item>
+        <item>مکاؤ</item>
+        <item>منیلا</item>
+        <item>مسقط</item>
+        <item>پنوم پن</item>
+        <item>پیونگ یانگ</item>
+        <item>قطر</item>
+        <item>رنگون</item>
+        <item>ریاض</item>
+        <item>سائگون</item>
+        <item>سیول</item>
+        <item>شنگھائی</item>
+        <item>سنگاپور</item>
+        <item>تائی پے</item>
+        <item>تہران</item>
+        <item>تل ابیب</item>
+        <item>ٹوکیو</item>
+        <item>اولان باتر</item>
+        <item>برمودہ</item>
+        <item>کینری</item>
+        <item>کیپ ورڈی</item>
+        <item>ریکجاوک</item>
+        <item>اسٹینلی</item>
+        <item>ایڈیلیڈ</item>
+        <item>برسبین</item>
+        <item>کینبرا</item>
+        <item>ڈارون</item>
+        <item>ملبورن</item>
+        <item>نیو ساؤتھ ویلز</item>
+        <item>پرتھ</item>
+        <item>کوئینزلینڈ</item>
+        <item>سڈنی</item>
+        <item>وکٹوریہ</item>
+        <item>نیو فاؤنڈ لینڈ</item>
+        <item>ساسکچیوان</item>
+        <item>ایسٹر جزیرہ</item>
+        <item>ایمسٹرڈیم</item>
+        <item>انڈورا</item>
+        <item>ایتھنز</item>
+        <item>بیلفاسٹ</item>
+        <item>بلغراد</item>
+        <item>برلن</item>
+        <item>بریٹسلاوا</item>
+        <item>برسلز</item>
+        <item>بخاریسٹ</item>
+        <item>بوداپیسٹ</item>
+        <item>چیسینو</item>
+        <item>کوپن ہیگن</item>
+        <item>ڈبلن</item>
+        <item>جبرالٹر</item>
+        <item>ہلسنکی</item>
+        <item>Isle of Man</item>
+        <item>استنبول</item>
+        <item>کیو</item>
+        <item>لسبن</item>
+        <item>لندن</item>
+        <item>لیگزمبرگ</item>
+        <item>میڈرڈ</item>
+        <item>مالٹا</item>
+        <item>منسک</item>
+        <item>موناکو</item>
+        <item>ماسکو</item>
+        <item>اوسلو</item>
+        <item>پیرس</item>
+        <item>پراگ</item>
+        <item>ریگا</item>
+        <item>روم</item>
+        <item>سان میرینو</item>
+        <item>سراجیوو</item>
+        <item>سمفروپول</item>
+        <item>اسکوپجے</item>
+        <item>صوفیا</item>
+        <item>اسٹاک ہوم</item>
+        <item>تالن</item>
+        <item>ویٹیکن</item>
+        <item>وی اینا</item>
+        <item>ویلنیس</item>
+        <item>وارسا</item>
+        <item>زیگریب</item>
+        <item>زیورخ</item>
+        <item>اینٹانانیریو</item>
+        <item>مالدیپ</item>
+        <item>ماریشس</item>
+        <item>آکلینڈ</item>
+        <item>فجی</item>
+        <item>گوام</item>
+        <item>ہونولولو</item>
+        <item>کریٹیماٹی</item>
+        <item>نومیا</item>
+        <item>ساموا</item>
+        <item>تاہیٹی</item>
+        <item>اینٹی گوا</item>
+        <item>آسٹن</item>
+        <item>بوسٹن</item>
+        <item>کیلگری</item>
+        <item>کولمبس</item>
+        <item>ڈلاس</item>
+        <item>نوکس ولے</item>
+        <item>ممپھس</item>
+        <item>میامی</item>
+        <item>مینی پولس</item>
+        <item>اوٹاوا</item>
+        <item>فلاڈیلفیا</item>
+        <item>پورٹلینڈ</item>
+        <item>سان ڈیاگو</item>
+        <item>سان فرانسسکو</item>
+        <item>سالٹ لیک سٹی</item>
+        <item>سان جوز</item>
+        <item>سان سلواڈور</item>
+        <item>سی ایٹل</item>
+        <item>سینٹ لوئس</item>
+        <item>واشنگٹن ڈی سی</item>
+        <item>ہیوسٹن</item>
+        <item>سان انٹونیو</item>
+        <item>جیکسن ولے</item>
+        <item>بالٹیمور</item>
+        <item>نیش ولے</item>
+        <item>ملواکی</item>
+        <item>اوکلاہوما سٹی</item>
+        <item>لاس ویگاس</item>
+        <item>البقرق</item>
+        <item>ٹکسن</item>
+        <item>سیکرامینٹو</item>
+        <item>اٹلانٹا</item>
+        <item>کلیولینڈ</item>
+        <item>نیو اورلینز</item>
+        <item>ٹمپا</item>
+        <item>پٹسبرگ</item>
+        <item>سنسناٹی</item>
+        <item>مائونٹین ویو</item>
+        <item>رینو</item>
+        <item>بلیک راک شہر</item>
+        <item>دوحہ</item>
+        <item>بیجنگ</item>
+        <item>ممبئی</item>
+        <item>دہلی</item>
+        <item>اوساکا</item>
+        <item>لاہور</item>
+        <item>صنعا</item>
+        <item>بارسلونا</item>
+        <item>میونخ</item>
+        <item>ملان</item>
+        <item>فرینکفرٹ</item>
+        <item>ہنوئی</item>
+        <item>انقرہ</item>
+        <item>بنگلور</item>
+        <item>براسیلیا</item>
+        <item>کیپ ٹاؤن</item>
+        <item>اسلام آباد</item>
+        <item>ریو ڈی جنیرو</item>
+        <item>این آربر</item>
+        <item>بولڈر</item>
+        <item>کیمبرج</item>
+        <item>کرک لینڈ</item>
+        <item>میڈیسن</item>
+        <item>گوانگزو</item>
+        <item>حیدرآباد</item>
+        <item>ریسٹن</item>
+        <item>بیلو ہوریزینٹو</item>
+        <item>سینٹیاگو</item>
+        <item>مونرویا</item>
+        <item>کولمبو</item>
+        <item>چیہوآہوآ</item>
+        <item>سلواڈور</item>
+        <item>گڑگاؤں</item>
+        <item>مانچسٹر</item>
+        <item>کیف</item>
+        <item>سینٹ پیٹرز برگ</item>
+        <item>کارکو</item>
+        <item>راکلا</item>
+        <item>ہیمبرگ</item>
+        <item>اولو</item>
+        <item>حیفا</item>
+        <item>سان جوآن</item>
+        <item>ٹیگوسیگالپے</item>
+        <item>پیرامیروبی</item>
+        <item>کویٹو</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>ایک منٹ سے کم باقی ہے</item>
+        <item>%1$s باقی</item>
+        <item>%2$s باقی</item>
+        <item>%1$s %2$s باقی</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>الارم اب سے 1 منٹ سے کم کیلئے سیٹ کیا گیا ہے۔</item>
+        <item>الارم اب سے %1$s کیلئے سیٹ کیا گیا ہے۔</item>
+        <item>الارم اب سے %2$s کیلئے سیٹ کیا گیا ہے۔</item>
+        <item>الارم اب سے %1$s اور %2$s کیلئے سیٹ کیا گیا ہے۔</item>
+        <item>الارم اب سے %3$s کیلئے سیٹ کیا گیا ہے۔</item>
+        <item>الارم اب سے %1$s اور %3$s کیلئے سیٹ کیا گیا ہے۔</item>
+        <item>الارم اب سے %2$s اور %3$s کیلئے سیٹ کیا گیا ہے۔</item>
+        <item>الارم اب سے %1$s, %2$s اور %3$s کیلئے سیٹ کیا گیا ہے۔</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>15 منٹ</item>
+        <item>20 منٹ</item>
+        <item>25 منٹ</item>
+        <item>30 منٹ</item>
+        <item>کبھی نہیں</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>اسنوز کریں</item>
+        <item>کالعدم کریں</item>
+        <item>کچھ نہ کریں</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>آپ کی رفتار بہت زیادہ ہے۔</item>
+        <item>اپنی محنت کا پھل کھائیں۔</item>
+        <item>‏Androids کو تیزی کیلئے جانا جاتا ہے، لیکن آپ کے جتنا تیز نہیں!</item>
+        <item>اوہ۔</item>
+        <item>‏L33t اوقات۔</item>
+        <item>اتنی زبردست رفتار۔</item>
+        <item>آئیے وقت دوبارہ ترتیب دیں۔</item>
+        <item>بس بائیں طرف ایک چھلانگ۔</item>
+        <item>جلدی کیلئے آپ کے پاس ایک پیلٹ ہے۔</item>
+        <item>روشنی کی رفتار۔</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>اینالاگ</item>
+        <item>ڈیجیٹل</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزائر مارشل</item>
+        <item>مڈوے آئیلینڈ</item>
+        <item>ہوائی</item>
+        <item>الاسکا</item>
+        <item>پیسیفک ٹائم</item>
+        <item>تیجوآنا</item>
+        <item>ایریزونا</item>
+        <item>چیہوآہوآ</item>
+        <item>ماؤنٹین ٹائم</item>
+        <item>وسطی امریکہ</item>
+        <item>سینٹرل ٹائم</item>
+        <item>میکسیکو سٹی</item>
+        <item>ساسکچیوان</item>
+        <item>بگوٹا</item>
+        <item>ایسٹر ٹائم</item>
+        <item>وینزولا</item>
+        <item>اٹلانٹک ٹائم (بارباڈوس)</item>
+        <item>اٹلانٹک ٹائم (کینیڈا)</item>
+        <item>مناؤس</item>
+        <item>سینٹیاگو</item>
+        <item>نیو فاؤنڈ لینڈ</item>
+        <item>براسیلیا</item>
+        <item>بیونوس ائیرز</item>
+        <item>گرین لینڈ</item>
+        <item>مونٹی ویڈیو</item>
+        <item>وسطی اوقیانوس</item>
+        <item>ازورس</item>
+        <item>کیپ ورڈی جزائر</item>
+        <item>کاسا بلنکا</item>
+        <item>لندن، ڈبلن</item>
+        <item>ایمسٹرڈیم، برلن</item>
+        <item>بلغراد</item>
+        <item>برسلز</item>
+        <item>سراجیوو</item>
+        <item>ونڈہوک</item>
+        <item>ساؤتھ افریقہ ٹائم</item>
+        <item>عمان، اردن</item>
+        <item>ایتھنز، استنبول</item>
+        <item>بیروت، لبنان</item>
+        <item>قاہرہ</item>
+        <item>ہلسنکی</item>
+        <item>یروشلم</item>
+        <item>منسک</item>
+        <item>ہرارے</item>
+        <item>بغداد</item>
+        <item>ماسکو</item>
+        <item>کویت</item>
+        <item>نیروبی</item>
+        <item>تہران</item>
+        <item>باکو</item>
+        <item>ٹیبیلیسی</item>
+        <item>یاریوان</item>
+        <item>دبئی</item>
+        <item>کابل</item>
+        <item>اسلام آباد، کراچی</item>
+        <item>"Ural'sk"</item>
+        <item>یکاٹیرِنبرگ</item>
+        <item>کلکتہ</item>
+        <item>سری لنکا</item>
+        <item>کاٹھمانڈو</item>
+        <item>آستانہ</item>
+        <item>رنگون</item>
+        <item>کریسنویارسک</item>
+        <item>بینکاک</item>
+        <item>بیجنگ</item>
+        <item>ہانگ کانگ</item>
+        <item>ارکتسک</item>
+        <item>کوالالمپور</item>
+        <item>پرتھ</item>
+        <item>تائی پے</item>
+        <item>سیول</item>
+        <item>ٹوکیو، اوساکا</item>
+        <item>یکوتسک</item>
+        <item>ایڈیلیڈ</item>
+        <item>ڈارون</item>
+        <item>برسبین</item>
+        <item>ہوبارٹ</item>
+        <item>سڈنی، کینبرا</item>
+        <item>ولادی ووستک</item>
+        <item>گوام</item>
+        <item>میگیدن</item>
+        <item>آکلینڈ</item>
+        <item>فجی</item>
+        <item>تونگا</item>
+        <item>جکارتہ</item>
+    </string-array>
+</resources>

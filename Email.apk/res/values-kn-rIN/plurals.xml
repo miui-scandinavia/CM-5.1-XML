@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d ಸಂವಾದಗಳನ್ನು ಸರಿಸು</item>
+        <item quantity="one">ಸಂವಾದವನ್ನು ಸರಿಸು</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ಡ್ರಾಫ್ಟ್‌‌ಗಳು</item>
+        <item quantity="one">ಡ್ರಾಫ್ಟ್‌</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ಈ %1$d ಸಂವಾದಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+        <item quantity="one">ಈ ಸಂವಾದವನ್ನು ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ಈ %1$d ಸಂವಾದಗಳನ್ನು ಆರ್ಕೈವ್ ಮಾಡುವುದೇ?</item>
+        <item quantity="one">ಈ ಸಂವಾದವನ್ನು ಆರ್ಕೈವ್ ಮಾಡುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ಈ %1$d ಸಂದೇಶಗಳನ್ನು ತ್ಯಜಿಸುವುದೇ?</item>
+        <item quantity="one">ಈ ಸಂದೇಶವನ್ನು ತಿರಸ್ಕರಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d ನಕ್ಷತ್ರ ತೆಗೆದುಹಾಕಿರುವ ಸಂವಾದಗಳು.</item>
+        <item quantity="one">%1$d ಸಂವಾದದಲ್ಲಿ ನಕ್ಷತ್ರವನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ಅನ್ನು ಮ್ಯೂಟ್ ಮಾಡಲಾಗಿದೆ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ಅನ್ನು ಮ್ಯೂಟ್ ಮಾಡಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ಅನ್ನು ಸ್ಪ್ಯಾಮ್ ಎಂದು ವರದಿ ಮಾಡಲಾಗಿದೆ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ಅನ್ನು ಸ್ಪ್ಯಾಮ್ ಎಂದು ವರದಿ ಮಾಡಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ಅನ್ನು ಸ್ಪ್ಯಾಮ್ ಅಲ್ಲ ಎಂದು ವರದಿ ಮಾಡಲಾಗಿದೆ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ಅನ್ನು ಸ್ಪ್ಯಾಮ್ ಅಲ್ಲ ಎಂದು ವರದಿ ಮಾಡಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ಅನ್ನು ಮುಖ್ಯವಾದುದಲ್ಲ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ಮುಖ್ಯವಾದುದಲ್ಲ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ಅನ್ನು ಫಿಶಿಂಗ್ ಎಂದು ವರದಿ ಮಾಡಲಾಗಿದೆ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ಅನ್ನು ಫಿಶಿಂಗ್ ಎಂದು ವರದಿ ಮಾಡಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ಅನ್ನು ಆರ್ಕೈವ್‌‌ ಮಾಡಲಾಗಿದೆ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ಅನ್ನು ಆರ್ಕೈವ್‌‌ ಮಾಡಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ಅನ್ನು ಅಳಿಸಲಾಗಿದೆ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ಅನ್ನು ಅಳಿಸಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ಫೋಲ್ಡರ್‍ಗಳನ್ನು ಬದಲಿಸಲಾಗಿದೆ.</item>
+        <item quantity="one">ಫೋಲ್ಡರ್ ಬದಲಿಸಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d ಹೊಸ ಸಂದೇಶಗಳನ್ನು ತೋರಿಸು.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ಹಳೆಯ ಸಂದೇಶಗಳು</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ಓದದಿರುವುದು</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ಹೊಸ ಸಂದೇಶಗಳು</item>
+        <item quantity="one">%1$d ಹೊಸ ಸಂದೇಶ</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d ಸಂದೇಶಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</item>
+        <item quantity="one">%1$d ಸಂದೇಶವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ಸಂದೇಶಗಳು</item>
+        <item quantity="one">%1$d ಸಂದೇಶ</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ಲಗತ್ತುಗಳು</item>
+        <item quantity="one">%1$d ಲಗತ್ತು</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">ಸಂದೇಶಗಳನ್ನು ಸರಿಸು</item>
+        <item quantity="one">ಸಂದೇಶ ಸರಿಸು</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

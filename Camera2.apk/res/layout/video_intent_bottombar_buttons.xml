@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:camera="http://schemas.android.com/apk/res/com.android.camera2">
+    <ImageButton android:id="@id/cancel_button" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_cancel" />
+    <View android:visibility="invisible" android:layout_width="1.0dip" android:layout_height="1.0dip" />
+    <com.android.camera.MultiToggleImageButton android:id="@id/flash_toggle_button" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" camera:imageIds="@array/video_flashmode_icons" />
+    <com.android.camera.MultiToggleImageButton android:id="@id/camera_toggle_button" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" camera:imageIds="@array/camera_id_icons" />
+</merge>

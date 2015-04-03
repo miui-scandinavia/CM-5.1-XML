@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.calculator2.view.HistoryLine android:orientation="horizontal" android:paddingLeft="16.0dip" android:paddingTop="8.0dip" android:paddingRight="16.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="start" android:gravity="right" android:id="@id/historyExpr" android:layout_width="0.0dip" android:layout_weight="1.0" style="@style/HistoryText" />
+    <TextView android:layout_width="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:text="@string/history_line_equals" style="@style/HistoryText" />
+    <TextView android:id="@id/historyResult" android:layout_width="wrap_content" style="@style/HistoryText.Result" />
+</com.android.calculator2.view.HistoryLine>

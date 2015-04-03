@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Færa %1$d samtöl</item>
+        <item quantity="one">Færa samtal</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Drög</item>
+        <item quantity="one">Drög</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eyða þessum %1$d samtölum?</item>
+        <item quantity="one">Eyða þessu samtali?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Setja þessi %1$d samtöl í geymslu?</item>
+        <item quantity="one">Setja þetta samtal í geymslu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Fleygja þessum %1$d skeytum?</item>
+        <item quantity="one">Fleygja þessu skeyti?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Stjörnur fjarlægðar af %1$d samtölum.</item>
+        <item quantity="one">Fjarlægir stjörnu af %1$d samtali.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> þögguð.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> þaggað.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> tilkynnt sem ruslpóstur.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> tilkynnt sem ruslpóstur.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> merkt sem ekki ruslpóstur.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> merkt sem ekki ruslpóstur.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> merkt sem léttvæg.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> merkt sem léttvægt.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> tilkynnt sem vefveiðar.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> tilkynnt sem vefveiðar.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> í geymslu.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> sett í geymslu.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> eytt.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> eytt.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Möppum breytt.</item>
+        <item quantity="one">Möppu breytt.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Sýna %1$d ný skeyti.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d eldri skeyti</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ólesin</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ný skeyti</item>
+        <item quantity="one">%1$d nýtt skeyti</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d skeytum verður eytt fyrir fullt og allt.</item>
+        <item quantity="one">%1$d skeyti verður eytt fyrir fullt og allt.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d skeyti</item>
+        <item quantity="one">%1$d skeyti</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d viðhengi</item>
+        <item quantity="one">%1$d viðhengi</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Færa skeyti</item>
+        <item quantity="one">Færa skeyti</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d kB</item>
+        <item quantity="one">%d kB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>

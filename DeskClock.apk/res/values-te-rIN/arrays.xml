@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>అబిడ్జాన్</item>
+        <item>అక్రా</item>
+        <item>అడ్డిస్ అబాబా</item>
+        <item>అల్జియర్స్</item>
+        <item>బ్లాన్‌టైర్</item>
+        <item>బ్రాజావిల్లి</item>
+        <item>కైరో</item>
+        <item>కాసాబ్లాంకా</item>
+        <item>కోనాక్రీ</item>
+        <item>డకార్</item>
+        <item>దార్ ఎస్ సలామ్</item>
+        <item>డిజ్బౌటి</item>
+        <item>ఫ్రీటౌన్</item>
+        <item>గబోరోన్</item>
+        <item>హరారే</item>
+        <item>జోహాన్స్‌బర్గ్</item>
+        <item>కంపాలా</item>
+        <item>ఖార్టోమ్</item>
+        <item>కిగాలి</item>
+        <item>కిన్షాసా</item>
+        <item>లాగోస్</item>
+        <item>మసేరు</item>
+        <item>మోగాదిషు</item>
+        <item>నైరోబీ</item>
+        <item>సావో టోమ్</item>
+        <item>టింబక్టు</item>
+        <item>ట్రిపోలి</item>
+        <item>ట్యూనిస్</item>
+        <item>ఎంకొరేజ్</item>
+        <item>మెండోజా</item>
+        <item>అరుబా</item>
+        <item>అసున్సియోన్</item>
+        <item>బార్బాడోస్</item>
+        <item>బెలిజ్</item>
+        <item>బోగోటా</item>
+        <item>బ్యూనస్ ఎయిర్స్</item>
+        <item>కన్‌కూన్</item>
+        <item>కారాకస్</item>
+        <item>కేమాన్</item>
+        <item>చికాగో</item>
+        <item>కోస్టారికా</item>
+        <item>కురాకో</item>
+        <item>డాసన్ క్రీక్</item>
+        <item>డెన్వర్</item>
+        <item>డెట్రాయిట్</item>
+        <item>డొమినికా</item>
+        <item>ఎడ్మోంటన్</item>
+        <item>ఎల్ సాల్వడార్</item>
+        <item>ఫార్ట్‌లెజా</item>
+        <item>గ్రాండ్ టర్క్</item>
+        <item>గ్రెనడా</item>
+        <item>గ్వాటిమాలా</item>
+        <item>గయానా</item>
+        <item>హాలిఫాక్స్</item>
+        <item>హవానా</item>
+        <item>ఇండియానాపోలిస్</item>
+        <item>నాక్స్</item>
+        <item>మరెంగో</item>
+        <item>పీటర్స్‌బర్గ్</item>
+        <item>టెల్ నగరం</item>
+        <item>వెవయ్</item>
+        <item>విన్‌సెన్నెస్</item>
+        <item>వినిమాక్</item>
+        <item>కింగ్‌స్టన్</item>
+        <item>న్యూస్ట్రా సెనొరా డి లా పాజ్</item>
+        <item>లిమా</item>
+        <item>లాస్ ఏంజిల్స్</item>
+        <item>లూయిస్‌విల్లె</item>
+        <item>మనాగువా</item>
+        <item>మార్టినిక్</item>
+        <item>మెండోజా</item>
+        <item>మెట్లకట్ల</item>
+        <item>మెక్సికో నగరం</item>
+        <item>మోన్‌టురెయ్</item>
+        <item>మోంటెవీడియో</item>
+        <item>మాంట్రియల్</item>
+        <item>నాస్సావ్</item>
+        <item>న్యూయార్క్</item>
+        <item>బ్యూలా</item>
+        <item>మధ్య</item>
+        <item>న్యూ సేలం</item>
+        <item>పనామా</item>
+        <item>ఫోనిక్స్</item>
+        <item>పోర్ట్ ఆఫ్ స్పెయిన్</item>
+        <item>పోర్ట్-అవ్-ప్రిన్స్</item>
+        <item>ప్యూర్టోరికో</item>
+        <item>శాంటో డోమింగో</item>
+        <item>సావో పాలో</item>
+        <item>సెయింట్ జాన్స్</item>
+        <item>సెయింట్ కిట్స్</item>
+        <item>సెయింట్ లూసియా</item>
+        <item>సెయింట్ థామస్</item>
+        <item>టియువానా</item>
+        <item>టొరంటో</item>
+        <item>వాంకోవర్</item>
+        <item>విన్నిపెగ్</item>
+        <item>దక్షిణ ధ్రువం</item>
+        <item>లాంగ్‌యియర్‌బైయన్</item>
+        <item>ఆల్మాటి</item>
+        <item>అమ్మన్</item>
+        <item>అనడైర్</item>
+        <item>అక్‌టావ్</item>
+        <item>బాగ్దాద్</item>
+        <item>బహ్రెయిన్</item>
+        <item>బాకు</item>
+        <item>బ్యాంకాక్</item>
+        <item>బీరట్</item>
+        <item>కలకత్తా</item>
+        <item>డమాస్కస్</item>
+        <item>ఢాకా</item>
+        <item>దుబాయ్</item>
+        <item>గాజా</item>
+        <item>హెబ్రోన్</item>
+        <item>హో చి మిన్హ్</item>
+        <item>హాంకాంగ్</item>
+        <item>ఇస్తాంబుల్</item>
+        <item>జకార్తా</item>
+        <item>జెరూసలేం</item>
+        <item>కాబూల్</item>
+        <item>కరాచీ</item>
+        <item>ఖాట్మండు</item>
+        <item>కౌలాలంపూర్</item>
+        <item>కువైట్</item>
+        <item>మకావ్</item>
+        <item>మనీలా</item>
+        <item>మస్కట్</item>
+        <item>నమ్ పెన్</item>
+        <item>ప్యోంగ్యాంగ్</item>
+        <item>ఖతార్</item>
+        <item>రంగూన్</item>
+        <item>రియాధ్</item>
+        <item>సైగాన్</item>
+        <item>సియోల్</item>
+        <item>షాంఘై</item>
+        <item>సింగపూర్</item>
+        <item>తైపీ</item>
+        <item>టెహ్రాన్</item>
+        <item>టెల్ అవీవ్</item>
+        <item>టోక్యో</item>
+        <item>ఉలాన్బాటర్</item>
+        <item>బెర్ముడా</item>
+        <item>కెనరీ</item>
+        <item>కేప్ వెర్డి</item>
+        <item>రెక్జావిక్</item>
+        <item>స్టాన్లీ</item>
+        <item>అడిలైడ్</item>
+        <item>బ్రిస్బేన్</item>
+        <item>కాన్‌బెర్రా</item>
+        <item>డార్విన్</item>
+        <item>మెల్బోర్న్</item>
+        <item>న్యూ సౌత్ వేల్స్</item>
+        <item>పెర్త్</item>
+        <item>క్వీన్స్‌లాండ్</item>
+        <item>సిడ్నీ</item>
+        <item>విక్టోరియా</item>
+        <item>న్యూఫౌండ్‌లాండ్</item>
+        <item>సస్కాచెవన్</item>
+        <item>ఈస్టర్ దీవి</item>
+        <item>ఆమ్‌స్టర్‌డామ్</item>
+        <item>అండోరా</item>
+        <item>ఏథెన్స్</item>
+        <item>బెల్‌ఫాస్ట్</item>
+        <item>బెల్‌గ్రేడ్</item>
+        <item>బెర్లిన్</item>
+        <item>బ్రాటిస్లావా</item>
+        <item>బ్రస్సెల్స్</item>
+        <item>బుకారెస్ట్</item>
+        <item>బుడాపెస్ట్</item>
+        <item>చిసినౌ</item>
+        <item>కోపెన్‌హాగన్</item>
+        <item>డబ్లిన్</item>
+        <item>జిబ్రాల్టర్</item>
+        <item>హెల్‌సింకి</item>
+        <item>ఐల్ ఆఫ్ మాన్</item>
+        <item>ఇస్తాంబుల్</item>
+        <item>కీవ్</item>
+        <item>లిస్బన్</item>
+        <item>లండన్</item>
+        <item>లక్సెంబర్గ్</item>
+        <item>మాడ్రిడ్</item>
+        <item>మాల్టా</item>
+        <item>మిన్‌స్క్</item>
+        <item>మొనాకో</item>
+        <item>మాస్కో</item>
+        <item>ఓస్లో</item>
+        <item>ప్యారిస్</item>
+        <item>ప్రేగ్</item>
+        <item>రీగా</item>
+        <item>రోమ్</item>
+        <item>శాన్‌ మారినో</item>
+        <item>సరాజెవో</item>
+        <item>సిమ్‌ఫెరోపోల్</item>
+        <item>స్కోప్‌యే</item>
+        <item>సోఫియా</item>
+        <item>స్టాక్‌హోమ్</item>
+        <item>తాల్లిన్</item>
+        <item>వాటికన్</item>
+        <item>వియన్నా</item>
+        <item>విల్నియస్</item>
+        <item>వార్సా</item>
+        <item>జాగ్రెబ్</item>
+        <item>జ్యూరిచ్</item>
+        <item>అంటానానారివో</item>
+        <item>మాల్దీవులు</item>
+        <item>మారిషస్</item>
+        <item>ఆక్లాండ్</item>
+        <item>ఫిజి</item>
+        <item>గ్వామ్</item>
+        <item>హోనోలులు</item>
+        <item>కిరీటిమాటి</item>
+        <item>నౌమియా</item>
+        <item>సమోవా</item>
+        <item>తహితి</item>
+        <item>ఆంటిగ్వా</item>
+        <item>ఆస్టిన్</item>
+        <item>బోస్టన్</item>
+        <item>కాల్గారీ</item>
+        <item>కొలంబస్</item>
+        <item>డల్లాస్</item>
+        <item>నాక్స్‌విల్లె</item>
+        <item>మెంఫిస్</item>
+        <item>మయామి</item>
+        <item>మిన్నియాపాలిస్</item>
+        <item>ఒట్టావా</item>
+        <item>ఫిలడెల్ఫియా</item>
+        <item>పోర్ట్‌లాండ్</item>
+        <item>శాన్ డియాగో</item>
+        <item>శాన్ ఫ్రాన్సిస్కో</item>
+        <item>సాల్ట్ లేక్ నగరం</item>
+        <item>శాన్ జోస్</item>
+        <item>శాన్ సాల్వడార్</item>
+        <item>సీటెల్</item>
+        <item>సెయింట్ లూయిస్</item>
+        <item>వాషింగ్టన్ డి.సి.</item>
+        <item>హౌస్టన్</item>
+        <item>శాన్ ఆంటోనియో</item>
+        <item>జాక్సన్‌విల్లె</item>
+        <item>బాల్టీమోర్</item>
+        <item>నష్విల్లె</item>
+        <item>మిల్వాకీ</item>
+        <item>ఓక్లహోమా నగరం</item>
+        <item>లాస్ వెగాస్</item>
+        <item>అల్బుకెర్‌కీ</item>
+        <item>టక్సన్</item>
+        <item>శాక్రమెంటో</item>
+        <item>అట్లాంటా</item>
+        <item>క్లేవ్‌లాండ్</item>
+        <item>న్యూ ఓర్లీన్స్</item>
+        <item>టంపా</item>
+        <item>పిట్స్‌బర్గ్</item>
+        <item>సిన్సినాటి</item>
+        <item>మౌంటెయిన్ వ్యూ</item>
+        <item>రెనో</item>
+        <item>బ్లాక్ రాక్ నగరం</item>
+        <item>దోహా</item>
+        <item>బీజింగ్</item>
+        <item>ముంబై</item>
+        <item>ఢిల్లీ</item>
+        <item>ఒసాకా</item>
+        <item>లాహోర్</item>
+        <item>సనా</item>
+        <item>బార్సిలోనా</item>
+        <item>మ్యూనిచ్</item>
+        <item>మిలన్</item>
+        <item>ఫ్రాంక్‌ఫర్ట్</item>
+        <item>హనోయి</item>
+        <item>అంకారా</item>
+        <item>బెంగుళూరు</item>
+        <item>బ్రసీలియా</item>
+        <item>కేప్ టౌన్</item>
+        <item>ఇస్లామాబాద్</item>
+        <item>రియో డి జనీరో</item>
+        <item>ఆన్ ఆర్బర్</item>
+        <item>బౌల్డర్</item>
+        <item>కేంబ్రిడ్జ్</item>
+        <item>కిర్క్‌లాండ్</item>
+        <item>మాడిసన్</item>
+        <item>గ్వంగ్స్యూ</item>
+        <item>హైదరాబాద్</item>
+        <item>రెస్టన్</item>
+        <item>బెలో హారిజాంటే</item>
+        <item>శాంటియాగో</item>
+        <item>మోన్రోవియా</item>
+        <item>కొలంబో</item>
+        <item>చువావా</item>
+        <item>సాల్వడార్</item>
+        <item>గుర్‌గావ్</item>
+        <item>మాంచెస్టర్</item>
+        <item>క్యివ్</item>
+        <item>సెయింట్ పీటర్స్‌బర్గ్</item>
+        <item>క్రకౌ</item>
+        <item>వ్రోక్లా</item>
+        <item>హాంబర్గ్</item>
+        <item>ఔలు</item>
+        <item>హైఫా</item>
+        <item>శాన్ జువాన్</item>
+        <item>తెగుసిగల్పా</item>
+        <item>పరామారిబో</item>
+        <item>క్విటో</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>నిమిషం కంటే తక్కువ సమయం మిగిలి ఉంది</item>
+        <item>%1$s మిగిలి ఉంది</item>
+        <item>%2$s మిగిలి ఉంది</item>
+        <item>%1$s %2$s మిగిలి ఉంది</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>అలారం ఇప్పటి నుండి 1 నిమిషం కంటే తక్కువ సేపటికి సెట్ చేయబడింది.</item>
+        <item>అలారం ఇప్పటి నుండి %1$sకు సెట్ చేయబడింది.</item>
+        <item>అలారం ఇప్పటి నుండి %2$sకు సెట్ చేయబడింది.</item>
+        <item>అలారం ఇప్పటి నుండి %1$s మరియు %2$sకు సెట్ చేయబడింది.</item>
+        <item>అలారం ఇప్పటి నుండి %3$sకు సెట్ చేయబడింది.</item>
+        <item>అలారం ఇప్పటి నుండి %1$s మరియు %3$sకు సెట్ చేయబడింది.</item>
+        <item>అలారం ఇప్పటి నుండి %2$s మరియు %3$sకు సెట్ చేయబడింది.</item>
+        <item>అలారం ఇప్పటి నుండి %1$s, %2$s మరియు %3$sకు సెట్ చేయబడింది.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 నిమిషాలు</item>
+        <item>10 నిమిషాలు</item>
+        <item>15 నిమిషాలు</item>
+        <item>20 నిమిషాలు</item>
+        <item>25 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>ఎప్పటికీ వద్దు</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>తాత్కాలిక ఆపివేత</item>
+        <item>తీసివేయి</item>
+        <item>ఏమీ చేయవద్దు</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>మీరు చాలా వేగంగా ఉన్నారు.</item>
+        <item>మీ శ్రమ యొక్క ఫలితాలను ఆస్వాదించండి.</item>
+        <item>Androidలు వేగంగా ఉంటాయని లోకోక్తి, కానీ అవి మీ అంత వేగవంతంగా ఉండవు!</item>
+        <item>అయ్యో.</item>
+        <item>L33t సార్లు.</item>
+        <item>అటువంటి అసాధారణ వేగం.</item>
+        <item>మళ్లీ సమయ మార్పు చేద్దాం.</item>
+        <item>ఎడమవైపుకు జరిపితే సరిపోతుంది.</item>
+        <item>మీకు శీఘ్రంగా చేయడం కోసం రంగులు కలిపే ఫలకం ఉంటుంది.</item>
+        <item>తేజఃఖండముల వేగం.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>అనలాగ్</item>
+        <item>డిజిటల్</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>మార్షల్ దీవులు</item>
+        <item>మిడ్‌వే దీవి</item>
+        <item>హవాయి</item>
+        <item>అలాస్కా</item>
+        <item>పసిఫిక్ సమయం</item>
+        <item>టియువానా</item>
+        <item>ఆరిజోనా</item>
+        <item>చువావా</item>
+        <item>మౌంటెయిన్ సమయం</item>
+        <item>మధ్య అమెరికా</item>
+        <item>సెంట్రల్ సమయం</item>
+        <item>మెక్సికో నగరం</item>
+        <item>సస్కతచేవన్</item>
+        <item>బగోటా</item>
+        <item>తూర్పు సమయం</item>
+        <item>వెనిజులా</item>
+        <item>అట్లాంటిక్ సమయం (బార్బడోస్)</item>
+        <item>అట్లాంటిక్ సమయం (కెనడా)</item>
+        <item>మనాస్</item>
+        <item>శాంటియాగో</item>
+        <item>న్యూఫౌండ్‌లాండ్</item>
+        <item>బ్రెసిలియా</item>
+        <item>బ్యూనస్ ఎయిర్స్</item>
+        <item>గ్రీన్‌లాండ్</item>
+        <item>మోంటెవీడియో</item>
+        <item>మిడ్-అట్లాంటిక్</item>
+        <item>అజోర్స్</item>
+        <item>కేప్ వెర్డి దీవులు</item>
+        <item>కాసాబ్లాంకా</item>
+        <item>లండన్, డబ్లిన్</item>
+        <item>ఆమ్‌స్టర్‌డామ్, బెర్లిన్</item>
+        <item>బెల్‌గ్రేడ్</item>
+        <item>బ్రస్సెల్స్</item>
+        <item>సరాజెవో</item>
+        <item>విండ్‌హోక్</item>
+        <item>పశ్చిమ ఆఫ్రికా సమయం</item>
+        <item>అమ్మన్, జోర్డాన్</item>
+        <item>ఏథెన్స్, ఇస్తాంబుల్</item>
+        <item>బీరూట్, లెబనాన్</item>
+        <item>కైరో</item>
+        <item>హెల్‌సింకి</item>
+        <item>జెరూసలేం</item>
+        <item>మిన్‌స్క్</item>
+        <item>హరారే</item>
+        <item>బాగ్దాద్</item>
+        <item>మాస్కో</item>
+        <item>కువైట్</item>
+        <item>నైరోబీ</item>
+        <item>టెహ్రాన్</item>
+        <item>బాకు</item>
+        <item>టిబ్లీసి</item>
+        <item>యెరెవాన్</item>
+        <item>దుబాయ్</item>
+        <item>కాబూల్</item>
+        <item>ఇస్లామాబాద్, కరాచీ</item>
+        <item>ఉరల్స్క్</item>
+        <item>యెకటెరింగ్‌బర్గ్</item>
+        <item>కోల్‌కతా</item>
+        <item>శ్రీలంక</item>
+        <item>ఖాట్మండు</item>
+        <item>అస్టానా</item>
+        <item>యాంగాన్</item>
+        <item>క్రస్నోయార్స్క్</item>
+        <item>బ్యాంకాక్</item>
+        <item>బీజింగ్</item>
+        <item>హాంకాంగ్</item>
+        <item>ఇర్కుట్స్క్</item>
+        <item>కౌలాలంపూర్</item>
+        <item>పెర్త్</item>
+        <item>తైపీ</item>
+        <item>సియోల్</item>
+        <item>టోక్యో, ఒసాకా</item>
+        <item>యాకుట్స్క్</item>
+        <item>అడిలైడ్</item>
+        <item>డార్విన్</item>
+        <item>బ్రిస్బేన్</item>
+        <item>హోబర్ట్</item>
+        <item>సిడ్నీ, కాన్‌బెర్రా</item>
+        <item>వ్లాడివోస్టోక్</item>
+        <item>గ్వామ్</item>
+        <item>మగడాన్</item>
+        <item>ఆక్లాండ్</item>
+        <item>ఫిజి</item>
+        <item>టోంగా</item>
+        <item>జకార్తా</item>
+    </string-array>
+</resources>

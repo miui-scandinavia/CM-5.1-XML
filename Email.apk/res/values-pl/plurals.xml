@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Przenieś %1$d wątki(ów)</item>
+        <item quantity="one">Przenieś wątek</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Wersje robocze</item>
+        <item quantity="one">Wersja robocza</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Usunąć wątki (%1$d)?</item>
+        <item quantity="one">Usunąć wątek?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Zarchiwizować wątki (%1$d)?</item>
+        <item quantity="one">Zarchiwizować wątek?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Odrzucić %1$d wiadomości?</item>
+        <item quantity="one">Odrzucić tę wiadomość?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Cofanie oznaczenia gwiazdką %1$d wątków.</item>
+        <item quantity="one">Cofanie oznaczenia gwiazdką %1$d wątku.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> zignorowano.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> zignorowano.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> zgłoszono jako spam.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> zgłoszono jako spam.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Zgłoszone jako nie spam: &lt;b>%1$d&lt;/b>.</item>
+        <item quantity="one">Zgłoszone jako nie spam: &lt;b>%1$d&lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> oznaczono jako mało ważny.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> oznaczono jako mało ważny.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Zgłoszone jako wyłudzanie informacji: &lt;b>%1$d&lt;/b>.</item>
+        <item quantity="one">Zgłoszone jako wyłudzanie informacji: &lt;b>%1$d&lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> zarchiwizowane(ych).</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> zarchiwizowany.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> usunięte(ych).</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> usunięty.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Zmieniono foldery.</item>
+        <item quantity="one">Zmieniono folder.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Pokaż nowe wiadomości (%1$d).</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Starsze wiadomości: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Nieprzeczytane: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Nowe wiadomości: %1$d</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Liczba wiadomości, które zostaną trwale usunięte: %1$d.</item>
+        <item quantity="one">%1$d wiadomość zostanie trwale usunięta.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d wiadomości</item>
+        <item quantity="one">%1$d wiadomość</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d załączniki(ów)</item>
+        <item quantity="one">%1$d załącznik</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Przenieś wiadomości</item>
+        <item quantity="one">Przenieś wiadomość</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>

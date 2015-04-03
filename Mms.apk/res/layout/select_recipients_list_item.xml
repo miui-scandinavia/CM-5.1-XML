@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.ui.SelectRecipientsListItem android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight" android:paddingEnd="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/SectionHeaderStyle" android:layout_gravity="center_vertical" android:id="@id/section_header" android:layout_width="@dimen/contact_list_section_header_width" android:layout_height="wrap_content" />
+    <com.android.contacts.common.widget.CheckableQuickContactBadge android:layout_gravity="center_vertical" android:id="@id/avatar" android:layout_width="@dimen/avatar_width_height" android:layout_height="@dimen/avatar_width_height" android:layout_marginEnd="16.0dip" style="?android:attr/quickContactBadgeStyleWindowLarge" />
+    <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@android:style/TextAppearance.Material.Subhead" android:ellipsize="marquee" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentStart="true" />
+        <TextView android:textAppearance="@android:style/TextAppearance.Material.Small" android:ellipsize="end" android:id="@id/number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/name" android:layout_alignParentStart="true" />
+        <TextView android:textAppearance="@android:style/TextAppearance.Material.Caption" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignBaseline="@id/number" android:textAllCaps="true" android:layout_marginStart="8.0dip" android:layout_toEndOf="@id/number" />
+    </RelativeLayout>
+</com.android.mms.ui.SelectRecipientsListItem>

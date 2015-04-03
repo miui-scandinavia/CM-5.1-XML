@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/updating_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <PreferenceScreen android:title="@string/phone_account_settings" android:key="phone_account_settings_preference_screen">
+        <intent android:targetPackage="com.android.phone" android:targetClass="com.android.phone.settings.PhoneAccountSettingsActivity" />
+    </PreferenceScreen>>
+<PreferenceScreen android:persistent="false" android:title="@string/voicemail" android:key="button_voicemail_category_key">
+        <ListPreference android:persistent="true" android:title="@string/voicemail_provider" android:key="button_voicemail_provider_key" android:summary="@string/sum_voicemail_choose_provider" android:defaultValue="" />
+        <PreferenceScreen android:persistent="false" android:title="@string/voicemail_settings" android:key="button_voicemail_setting_key">
+            <com.android.phone.EditPhoneNumberPreference android:persistent="false" android:singleLine="true" android:autoText="false" android:title="@string/voicemail_settings_number_label" android:key="button_voicemail_key" android:dialogTitle="@string/voicemail" phone:confirmMode="confirm" />
+        </PreferenceScreen>
+        <RingtonePreference android:persistent="true" android:title="@string/voicemail_notification_ringtone_title" android:key="button_voicemail_notification_ringtone_key" android:defaultValue="content://settings/system/notification_sound" android:ringtoneType="notification" />
+        <CheckBoxPreference android:persistent="true" android:title="@string/voicemail_notification_vibrate_when_title" android:key="button_voicemail_notification_vibrate_key" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/fdn" android:key="button_fdn_key">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.FdnSetting" />
+    </PreferenceScreen>
+    <CheckBoxPreference android:persistent="false" android:title="@string/auto_retry_mode_title" android:key="button_auto_retry_key" android:summary="@string/auto_retry_mode_summary" />
+    <ListPreference android:persistent="false" android:entries="@array/tty_mode_entries" android:title="@string/tty_mode_option_title" android:key="button_tty_mode_key" android:summary="@string/tty_mode_option_summary" android:entryValues="@array/tty_mode_values" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/hac_mode_title" android:key="button_hac_key" android:summary="@string/hac_mode_summary" />
+    <ListPreference android:entries="@array/dtmf_tone_entries" android:title="@string/dtmf_tones_title" android:key="button_dtmf_settings" android:summary="@string/dtmf_tones_summary" android:entryValues="@array/dtmf_tone_values" />
+    <PreferenceScreen android:persistent="false" android:title="@string/labelGSMMore" android:key="button_gsm_more_expand_key" android:summary="@string/sum_gsm_call_settings">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.GsmUmtsCallOptions" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/labelCDMAMore" android:key="button_cdma_more_expand_key" android:summary="@string/sum_cdma_call_settings">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.CdmaCallOptions" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/ims_accounts_title" android:key="ims_account_settings_key">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.ims.ImsEditor" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/ipcall_sub_title" android:key="button_ipprefix_key" android:summary="@string/ipcall_sub_summery" />
+    <PreferenceCategory android:persistent="false" android:title="@string/videocall_settings" android:key="button_videocall_settings_key" />
+    <PreferenceScreen android:title="@string/vt_fallback_setting" android:key="videocall_setting_fb_key" android:summary="@string/vt_fallback_setting_sum">
+        <intent android:targetPackage="com.borqs.videocall" android:action="android.intent.action.MAIN" android:targetClass="com.borqs.videocall.FallBackSetting" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/vt_forward_setting" android:key="videocall_setting_fw_key" android:summary="@string/vt_forward_setting_sum">
+        <intent android:targetPackage="com.borqs.videocall" android:action="android.intent.action.MAIN" android:targetClass="com.borqs.videocall.VTCallForwardOptions" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/vt_imagereplace_setting" android:key="vt_imageplacer" android:summary="@string/vt_imagereplace_setting_sum">
+        <intent android:targetPackage="com.borqs.videocall" android:action="android.intent.action.MAIN" android:targetClass="com.borqs.videocall.VTImageReplaceSetting" />
+    </PreferenceScreen>
+    <PreferenceCategory android:title="@string/advanced_settings" android:key="pref_advanced_settings">
+        <PreferenceScreen android:persistent="false" android:title="@string/blacklist_title" android:key="button_blacklist">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.Settings$BlacklistSettingsActivity" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

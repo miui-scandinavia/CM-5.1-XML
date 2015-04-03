@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android நேரலை வால்பேப்பர்கள்</string>
+    <string name="wallpaper_walkaround">கேமரா காட்சி</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">உங்கள் மொபைல் வழியாகப் பார்க்கவும், மேலும் விபத்துகளின் பாதிப்பு இல்லாமல் நடந்து செல்லவும்.</string>
+    <string name="wallpaper_clock">போலார் கடிகாரம்</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">தேதி மற்றும் நேரத்தை கடிகாரத் திசையில் வழங்குகிறது: மாதம், நாள், மணிநேரம், நிமிடம் மற்றும் வினாடி.</string>
+    <string name="clock_settings">போலார் கடிகார அமைப்பு</string>
+    <string name="show_seconds">வினாடிகளைக் காட்டு</string>
+    <string name="variable_line_width">மாறுபடும் வளைவு அகலங்கள்</string>
+    <string name="palette">வண்ணத் தட்டு</string>
+    <string name="palette_gray">இரும்பு</string>
+    <string name="palette_violet">நள்ளிரவு</string>
+    <string name="palette_matrix">பச்சைத் திரை</string>
+    <string name="palette_white_c">போலார் பியர் (டைனமிக்)</string>
+    <string name="palette_black_c">கருந்துளை (டைனமிக்)</string>
+    <string name="palette_halloween">பம்ப்கின் பை</string>
+    <string name="palette_zenburn">ஏலியன் ஃபுரூட் சாலட்</string>
+    <string name="palette_oceanic">நீல லேசர்</string>
+</resources>

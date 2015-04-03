@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">[νîšûåļîžéŕ one two]</string>
+    <string name="wallpaper_vis2">[ŴåVéƒöŕḿ one two]</string>
+    <string name="wallpaper_vis3">[Šþéçţŕûḿ one two]</string>
+    <string name="wallpaper_vis4">[νÛ ḿéţéŕ one two]</string>
+    <string name="wallpaper_vis5">[Ḿåñý one]</string>
+    <string name="wallpapers">[Ḿûšîç νîšûåļîžåţîöñ Ŵåļļþåþéŕš one two three four]</string>
+    <string name="author">[Ĝööĝļé one two]</string>
+    <string name="vis2_desc">[Ðŕåŵš ţĥé šöûñð ŵåVé öƒ åñý çûŕŕéñţļý þļåýîñĝ ḿûšîç ţŕåçķ. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="vis3_desc">[Šĥöŵš ţĥé ƒŕéQûéñçý šþéçţŕûḿ öƒ åñý çûŕŕéñţļý þļåýîñĝ ḿûšîç ţŕåçķ. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="vis4_desc">[Šîḿûļåţéš åñ åñåļöĝ šöûñð ḿéţéŕ. one two three four five six seven eight]</string>
+    <string name="vis5_desc">[Åļļ ḿûšîç Vîšûåļîžåţîöñš ţöĝéţĥéŕ, šļöŵļý ŕéVöļVîñĝ îñ 3Ð. one two three four five six seven eight nine ten eleven twelve]</string>
+</resources>

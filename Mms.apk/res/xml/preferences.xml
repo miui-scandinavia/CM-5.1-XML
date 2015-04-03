@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_key_root"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:persistent="false" android:title="@string/pref_title_sms_disabled" android:key="pref_key_sms_disabled" android:summary="@string/pref_summary_sms_disabled">
+        <intent android:targetPackage="com.android.settings" android:action="android.provider.Telephony.ACTION_CHANGE_DEFAULT">
+            <extra android:name="package" android:value="com.android.mms" />
+        </intent>
+    </Preference>
+    <Preference android:persistent="false" android:title="@string/pref_title_sms_enabled" android:key="pref_key_sms_enabled" android:summary="@string/pref_summary_sms_enabled">
+        <intent android:targetPackage="com.android.settings" android:action="android.settings.WIRELESS_SETTINGS" />
+    </Preference>
+    <PreferenceCategory android:title="@string/pref_sms_storage_title" android:key="pref_key_storage_settings">
+        <SwitchPreference android:title="@string/pref_title_auto_delete" android:key="pref_key_auto_delete" android:summary="@string/pref_summary_auto_delete" android:defaultValue="true" />
+        <Preference android:persistent="false" android:title="@string/pref_title_sms_delete" android:key="pref_key_sms_delete_limit" android:summary="@string/pref_summary_delete_limit" android:dependency="pref_key_auto_delete" />
+        <Preference android:persistent="false" android:title="@string/pref_title_mms_delete" android:key="pref_key_mms_delete_limit" android:summary="@string/pref_summary_delete_limit" android:dependency="pref_key_auto_delete" />
+        <ListPreference android:entries="@array/entries_sms_store" android:title="@string/pref_title_sms_store" android:key="pref_key_sms_store" android:defaultValue="@string/def_sms_store_value" android:dialogTitle="@string/pref_title_sms_store" android:entryValues="@array/entries_sms_store_value" />
+        <ListPreference android:entries="@array/entries_sms_store" android:title="@string/pref_title_sms_store_card1" android:key="pref_key_sms_store_card1" android:defaultValue="@string/def_sms_store_card1_value" android:dialogTitle="@string/pref_title_sms_store" android:entryValues="@array/entries_sms_store_value" />
+        <ListPreference android:entries="@array/entries_sms_store" android:title="@string/pref_title_sms_store_card2" android:key="pref_key_sms_store_card2" android:defaultValue="@string/def_sms_store_card2_value" android:dialogTitle="@string/pref_title_sms_store" android:entryValues="@array/entries_sms_store_value" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_sms_settings_title" android:key="pref_key_sms_settings">
+        <ListPreference android:persistent="true" android:entries="@array/send_delay_duration_entries" android:title="@string/pref_title_send_delay" android:key="pref_key_send_delay" android:defaultValue="0" android:dialogTitle="@string/pref_title_send_delay" android:entryValues="@array/send_delay_duration_values" />
+        <SwitchPreference android:title="@string/pref_title_sms_delivery_reports" android:key="pref_key_sms_delivery_reports" android:summary="@string/pref_summary_sms_delivery_reports" android:defaultValue="@bool/def_sms_delivery_reports" />
+        <SwitchPreference android:title="@string/pref_title_sms_delivery_reports_slot1" android:key="pref_key_sms_delivery_reports_slot1" android:summary="@string/pref_summary_sms_delivery_reports" android:defaultValue="@bool/def_sms_delivery_reports_slot1" />
+        <SwitchPreference android:title="@string/pref_title_sms_delivery_reports_slot2" android:key="pref_key_sms_delivery_reports_slot2" android:summary="@string/pref_summary_sms_delivery_reports" android:defaultValue="@bool/def_sms_delivery_reports_slot2" />
+        <Preference android:title="@string/pref_title_message_template" android:key="pref_key_message_template" android:summary="@string/pref_summary_message_template" />
+        <Preference android:title="@string/pref_title_manage_sim_messages" android:key="pref_key_manage_sim_messages" />
+        <Preference android:title="@string/pref_title_manage_sim_messages_slot1" android:key="pref_key_manage_sim_messages_slot1" />
+        <Preference android:title="@string/pref_title_manage_sim_messages_slot2" android:key="pref_key_manage_sim_messages_slot2" />
+        <Preference android:title="@string/manage_sdcard_messages" android:key="pref_key_manage_sdcard_messages" />
+        <ListPreference android:entries="@array/entries_sms_validity_period" android:title="@string/pref_title_sms_validity_period" android:key="pref_key_sms_validity_period" android:defaultValue="-1" android:dialogTitle="@string/pref_title_sms_validity_period" android:entryValues="@array/entries_sms_validity_period_value" />
+        <ListPreference android:entries="@array/entries_sms_validity_period" android:title="@string/pref_title_sms_validity_period_slot1" android:key="pref_key_sms_validity_period_slot1" android:defaultValue="-1" android:dialogTitle="@string/pref_title_sms_validity_period" android:entryValues="@array/entries_sms_validity_period_value" />
+        <ListPreference android:entries="@array/entries_sms_validity_period" android:title="@string/pref_title_sms_validity_period_slot2" android:key="pref_key_sms_validity_period_slot2" android:defaultValue="-1" android:dialogTitle="@string/pref_title_sms_validity_period" android:entryValues="@array/entries_sms_validity_period_value" />
+    </PreferenceCategory>
+    <ListPreference android:entries="@array/entries_cdma_priority" android:title="@string/pref_title_cdma_priority" android:key="pref_key_sms_cdma_priority" android:summary="@string/pref_summary_cdma_priority" android:defaultValue="@string/default_cdma_priority" android:dialogTitle="@string/prefDialogTitle_cdma_priority" android:entryValues="@array/values_cdma_priority" />
+    <PreferenceCategory android:title="@string/pref_sms_signature_title" android:key="pref_key_sms_signature">
+        <SwitchPreference android:title="@string/pref_title_enable_signature" android:key="pref_key_enable_signature" android:summaryOn="@string/pref_summary_enable_signature" android:summaryOff="@string/pref_summary_disable_signature" />
+        <EditTextPreference android:maxLength="64" android:title="@string/pref_title_edit_signature" android:key="pref_key_edit_signature" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_mms_settings_title" android:key="pref_key_mms_settings">
+        <SwitchPreference android:title="@string/pref_title_mms_group_mms" android:key="pref_key_mms_group_mms" android:summary="@string/pref_summary_mms_group_mms" android:defaultValue="true" />
+        <SwitchPreference android:title="@string/pref_title_mms_delivery_reports" android:key="pref_key_mms_delivery_reports" android:summary="@string/pref_summary_mms_delivery_reports" android:defaultValue="@bool/def_mms_delivery_reports" />
+        <SwitchPreference android:title="@string/pref_title_mms_read_reports" android:key="pref_key_mms_read_reports" android:summary="@string/pref_summary_mms_read_reports" android:defaultValue="false" />
+        <SwitchPreference android:title="@string/pref_title_mms_auto_retrieval" android:key="pref_key_mms_auto_retrieval" android:summary="@string/pref_summary_mms_auto_retrieval" android:defaultValue="@bool/def_sms_auto_retrieval" />
+        <SwitchPreference android:layout="?android:preferenceLayoutChild" android:title="@string/pref_title_mms_retrieval_during_roaming" android:key="pref_key_mms_retrieval_during_roaming" android:summary="@string/pref_summary_mms_retrieval_during_roaming" android:dependency="pref_key_mms_auto_retrieval" android:defaultValue="false" />
+        <ListPreference android:entries="@array/save_time" android:title="@string/pref_title_mms_save_time" android:key="pref_key_mms_expiry" android:defaultValue="0" android:dialogTitle="@string/pref_title_mms_save_time" android:entryValues="@array/save_time_values" />
+        <ListPreference android:entries="@array/save_time" android:title="@string/pref_title_mms_save_time_slot1" android:key="pref_key_mms_expiry_slot1" android:defaultValue="0" android:dialogTitle="@string/pref_title_mms_save_time_slot1" android:entryValues="@array/save_time_values" />
+        <ListPreference android:entries="@array/save_time" android:title="@string/pref_title_mms_save_time_slot2" android:key="pref_key_mms_expiry_slot2" android:defaultValue="0" android:dialogTitle="@string/pref_title_mms_save_time_slot2" android:entryValues="@array/save_time_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_notification_settings_title" android:key="pref_key_notification_settings">
+        <SwitchPreference android:title="@string/pref_title_notification_enabled" android:key="pref_key_enable_notifications" android:defaultValue="true" />
+        <RingtonePreference android:title="@string/pref_title_notification_ringtone" android:key="pref_key_ringtone" android:dependency="pref_key_enable_notifications" android:defaultValue="content://settings/system/notification_sound" android:ringtoneType="notification" />
+        <SwitchPreference android:title="@string/pref_title_notification_vibrateWhen" android:key="pref_key_vibrate" android:dependency="pref_key_enable_notifications" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_smsc_title" android:key="pref_key_smsc" />
+    <PreferenceCategory android:title="@string/pref_wap_push_title">
+        <SwitchPreference android:title="@string/pref_title_wap_push_enabled" android:key="pref_key_enable_wap_push" android:summary="@string/pref_summary_wap_push_enabled" android:defaultValue="@bool/def_wap_push_enabled" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_quickmessage">
+        <SwitchPreference android:title="@string/pref_dark_theme_title" android:key="pref_dark_theme" android:summary="@string/pref_dark_theme_summary" android:defaultValue="false" />
+        <SwitchPreference android:title="@string/pref_quickmessage_title" android:key="pref_key_quickmessage" android:summary="@string/pref_quickmessage_summary" android:dependency="pref_key_enable_notifications" android:defaultValue="false" />
+        <SwitchPreference android:layout="?android:preferenceLayoutChild" android:title="@string/pref_wake_unlock_title" android:key="pref_key_qm_lockscreen" android:summary="@string/pref_wake_unlock_summary" android:dependency="pref_key_quickmessage" android:defaultValue="false" />
+        <SwitchPreference android:layout="?android:preferenceLayoutChild" android:title="@string/pref_close_all_title" android:key="pref_key_close_all" android:summary="@string/pref_close_all_summary" android:dependency="pref_key_quickmessage" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_extra_settings">
+        <PreferenceScreen android:persistent="false" android:title="@string/blacklist_title" android:key="pref_blacklist">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.Settings$BlacklistSettingsActivity" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

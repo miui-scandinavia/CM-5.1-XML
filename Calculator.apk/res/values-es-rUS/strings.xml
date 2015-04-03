@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_action_bar_home_description">Navegar a la página principal</string>
+    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Búsqueda</string>
+    <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+    <string name="abc_searchview_description_clear">Eliminar la consulta</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_activitychooserview_choose_application">Elige una aplicación.</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="text_copied_toast">Se ha copiado el texto.</string>
+    <string name="const_e">e</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="app_name">Calculadora</string>
+    <string name="error">Error</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_sin">sen</string>
+    <string name="fun_tan">tan</string>
+    <string name="del">ELIMINAR</string>
+    <string name="clear">CLR</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="basic">Panel básico</string>
+    <string name="advanced">Panel avanzado</string>
+    <string name="clear_history">Eliminar historial</string>
+</resources>

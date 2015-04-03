@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Bistaratzailea</string>
+    <string name="wallpaper_vis2">Uhin-forma</string>
+    <string name="wallpaper_vis3">Espektroa</string>
+    <string name="wallpaper_vis4">Bolumen-unitate neurgailua</string>
+    <string name="wallpaper_vis5">Asko</string>
+    <string name="wallpapers">Musika bistaratzeko horma-paperak</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Erreproduzitzen ari den musika-pistaren soinu-uhinak marrazten ditu.</string>
+    <string name="vis3_desc">Erreproduzitzen ari den musika-pistaren maiztasun-espektroa erakusten du.</string>
+    <string name="vis4_desc">Soinu-neurgailu analogikoa simulatzen du.</string>
+    <string name="vis5_desc">Musikaren bistaratze guztiak batera, pixkanaka hiru dimentsiotan bihurtzen dira.</string>
+</resources>

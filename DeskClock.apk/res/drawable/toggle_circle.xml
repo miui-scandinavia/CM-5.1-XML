@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/clock_white"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/bg_day_selected" android:tint="@color/bg_day_tint_color" />
+    </item>
+    <item android:id="@android:id/mask">
+        <bitmap android:gravity="center" android:src="@drawable/bg_day_selected" />
+    </item>
+</ripple>

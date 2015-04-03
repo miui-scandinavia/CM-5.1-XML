@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_up_description">Nenda juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Tafuta kwa kutamka</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki na %s</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na:</string>
+    <string name="text_copied_toast">Maandishi yamenakiliwa.</string>
+    <string name="const_e">e</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="app_name">Kikokotoo</string>
+    <string name="error">Hitilafu</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="del">FUTA</string>
+    <string name="clear">FUT</string>
+    <string name="ln">Kwenye</string>
+    <string name="lg">log</string>
+    <string name="basic">Paneli msingi</string>
+    <string name="advanced">Paneli pevu</string>
+    <string name="clear_history">Futa historia</string>
+</resources>

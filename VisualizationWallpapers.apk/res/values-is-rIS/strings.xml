@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Tónsjón</string>
+    <string name="wallpaper_vis2">Bylgjur</string>
+    <string name="wallpaper_vis3">Róf</string>
+    <string name="wallpaper_vis4">VU-mælir</string>
+    <string name="wallpaper_vis5">Margs konar</string>
+    <string name="wallpapers">Veggfóður með myndrænni framsetningu tónlistar</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Teiknar hljóðbylgju lagsins sem er í spilun.</string>
+    <string name="vis3_desc">Sýnir tíðniróf lags sem er í spilun.</string>
+    <string name="vis4_desc">Líkir eftir hliðrænum hljóðmæli.</string>
+    <string name="vis5_desc">Öll tónsjón saman og snýst hægt í þrívídd.</string>
+</resources>

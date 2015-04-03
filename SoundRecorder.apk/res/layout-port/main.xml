@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/timerViewLayout" android:layout_width="fill_parent" android:layout_height="242.0dip">
+        <TextView android:textSize="112.0dip" android:id="@id/timerView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="@android:style/TextAppearance.Large" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/stateMessage2Layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_above="@id/timerView" android:layout_centerHorizontal="true">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/stateLED" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:layout_gravity="center_vertical" android:id="@id/stateMessage2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0px" android:text="@string/recording" style="@android:style/TextAppearance.Medium" />
+        </LinearLayout>
+        <TextView android:id="@id/stateMessage1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/stateMessage2Layout" android:layout_centerHorizontal="true" style="@android:style/TextAppearance.Small" />
+        <ProgressBar android:orientation="horizontal" android:id="@id/stateProgressBar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:max="100" android:progress="0" android:layout_above="@id/timerView" style="?android:attr/progressBarStyleHorizontal" />
+    </RelativeLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.android.soundrecorder.VUMeter android:id="@id/uvMeter" android:layout_width="200.0dip" android:layout_height="80.0dip" />
+            <LinearLayout android:gravity="bottom" android:layout_gravity="bottom|center" android:orientation="horizontal" android:id="@id/exitButtons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <Button android:id="@id/discardButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="15.0dip" android:text="@string/discard" android:layout_weight="1.0" />
+                <Button android:id="@id/acceptButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="2.0dip" android:text="@string/save" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/bottom_bar_background" android:layout_width="fill_parent" android:layout_height="60.0dip" android:elevation="8.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip">
+            <ImageButton android:id="@id/recordButton" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/record" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" style="@style/MediaButton" />
+            <ImageButton android:id="@id/playButton" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/play" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" style="@style/MediaButton" />
+            <ImageButton android:id="@id/stopButton" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/stop" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" style="@style/MediaButton" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_requiresScreenSaver">true</bool>
+    <bool name="config_dockAppEnabled">true</bool>
+    <bool name="config_rotateAlarmAlert">false</bool>
+    <bool name="config_delayalarm">false</bool>
+    <bool name="config_ring_alarm_force">false</bool>
+    <bool name="config_silent_during_call">false</bool>
+    <bool name="config_poweron_alert">false</bool>
+</resources>

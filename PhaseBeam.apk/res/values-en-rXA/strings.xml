@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_recoloring">[Åðĵûšţ ɓéåḿ çöļöŕš one two three]</string>
+    <string name="color_label">[Çöļöŕ one two]</string>
+    <string name="saturation_label">[Šåţûŕåţîöñ one two]</string>
+    <string name="brightness_label">[βŕîĝĥţñéšš one two]</string>
+    <string name="wallpaper_label">[Þĥåšé βéåḿ one two]</string>
+    <string name="wallpaper_author">[Ĝööĝļé one two]</string>
+</resources>

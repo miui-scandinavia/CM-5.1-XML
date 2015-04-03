@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_primary">#fff44336</color>
+    <color name="material_dark">#ffe53935</color>
+    <color name="bottom_bar_background">@color/material_primary</color>
+    <color name="button_background_pressed_color">#1a000000</color>
+    <color name="button_background_focused_color">#77000000</color>
+</resources>

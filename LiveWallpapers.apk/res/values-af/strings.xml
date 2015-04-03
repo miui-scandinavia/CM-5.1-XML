@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android se aktiewe muurpapiere</string>
+    <string name="wallpaper_walkaround">Deursigtig</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Sien deur jou foon en stap rond sonder enige ongelukke.</string>
+    <string name="wallpaper_clock">Poolhorlosie</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Wys die datum en tyd as kloksgewyse boë: maand, dag, uur, minuut en sekonde.</string>
+    <string name="clock_settings">Poolhorlosie-instellings</string>
+    <string name="show_seconds">Wys sekondes</string>
+    <string name="variable_line_width">Wissel ringbreedtes</string>
+    <string name="palette">Kleurpalet</string>
+    <string name="palette_gray">Yster</string>
+    <string name="palette_violet">Middernag</string>
+    <string name="palette_matrix">Groenskerm</string>
+    <string name="palette_white_c">Ysbeer (dinamies)</string>
+    <string name="palette_black_c">Swart gat (dinamies)</string>
+    <string name="palette_halloween">Pampoentert</string>
+    <string name="palette_zenburn">Vreemde vrugteslaai</string>
+    <string name="palette_oceanic">Blou laser</string>
+</resources>

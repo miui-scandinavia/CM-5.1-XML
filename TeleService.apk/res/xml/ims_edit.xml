@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:persistent="false" android:title="@string/ims_edit_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:persistent="false" android:enabled="true" android:entries="@array/ims_vt_call_quality_entries" android:title="@string/ims_vt_call_quality_title" android:key="@string/ims_vt_call_quality" android:summary="@string/ims_vt_call_quality_unknown" android:dialogTitle="@string/ims_vt_call_quality_title" android:entryValues="@array/ims_vt_call_quality_values" />
+</PreferenceScreen>

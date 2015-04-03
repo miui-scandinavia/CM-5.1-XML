@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android සජීවී වෝල්පේපර</string>
+    <string name="wallpaper_walkaround">හරහා පෙනෙන</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">ඔබගේ දුරකථනය තුළින් බලා හදිසි අනතුරු අවදානමෙන් තොරව අවට ඇවිදින්න.</string>
+    <string name="wallpaper_clock">ධ්‍රැව හෝරා යන්ත්‍රය</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">දිනය සහ වේලාව දක්ෂිණාවර්ත වෘත්ත ලෙස ඉදිරිපත් කරයි: මාසය, දවස, පැය, මිනිත්තු, සහ තත්පර.</string>
+    <string name="clock_settings">ධ්‍රැව හෝරා යන්ත්‍ර සැකසීම්</string>
+    <string name="show_seconds">තත්පර පෙන්වන්න</string>
+    <string name="variable_line_width">මුදු පළල වෙනස් කරන්න</string>
+    <string name="palette">වර්ණ තැටිය</string>
+    <string name="palette_gray">යකඩ</string>
+    <string name="palette_violet">මධ්‍යම රාත්‍රිය</string>
+    <string name="palette_matrix">කොල පැහැ තිරය</string>
+    <string name="palette_white_c">ධ්‍රැව වලහා (ගතික)</string>
+    <string name="palette_black_c">කලු කුහරය (ගතික)</string>
+    <string name="palette_halloween">පම්ප්කින් පයි</string>
+    <string name="palette_zenburn">ඒලියන් පළතුරු සලාදය</string>
+    <string name="palette_oceanic">නිල් පැහැ ලේසර්</string>
+</resources>

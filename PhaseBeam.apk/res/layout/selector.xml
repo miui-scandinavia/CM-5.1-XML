@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/backgroundview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="20.0dip" android:layout_marginStart="15.0dip" android:layout_marginEnd="15.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/recolor" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="@string/enable_recoloring" android:layout_above="@id/hue_text" />
+    <TextView android:id="@id/hue_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="@string/color_label" android:layout_above="@id/hue" />
+    <SeekBar android:id="@id/hue" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:max="1000" android:layout_above="@id/saturation_text" android:layout_marginStart="5.0dip" />
+    <TextView android:id="@id/saturation_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="@string/saturation_label" android:layout_above="@id/saturation" />
+    <SeekBar android:id="@id/saturation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="1000" android:layout_above="@id/brightness_text" android:layout_marginStart="5.0dip" />
+    <TextView android:id="@id/brightness_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="@string/brightness_label" android:layout_above="@id/brightness" />
+    <SeekBar android:id="@id/brightness" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="1000" android:layout_alignParentBottom="true" android:layout_marginStart="5.0dip" />
+</RelativeLayout>

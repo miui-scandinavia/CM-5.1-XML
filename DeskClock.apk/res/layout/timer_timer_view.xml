@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:id="@id/timer_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="end|center" android:orientation="vertical" android:id="@id/page_indicators" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="24.0dip">
+        <ImageView android:id="@id/page_indicator0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:contentDescription="@null" />
+        <ImageView android:id="@id/page_indicator1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+        <ImageView android:id="@id/page_indicator2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+        <ImageView android:id="@id/page_indicator3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+        <Space android:layout_width="fill_parent" android:layout_height="@dimen/footer_button_size" android:layout_marginTop="@dimen/footer_button_layout_margin" android:layout_marginBottom="@dimen/footer_button_layout_margin" />
+    </LinearLayout>
+    <com.android.deskclock.VerticalViewPager android:id="@id/vertical_view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

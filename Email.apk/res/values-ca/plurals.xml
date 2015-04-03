@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Mou %1$d converses</item>
+        <item quantity="one">Mou la conversa</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Esborranys</item>
+        <item quantity="one">Esborrany</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vols suprimir aquestes %1$d converses?</item>
+        <item quantity="one">Vols suprimir aquesta conversa?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Vols arxivar aquestes %1$d converses?</item>
+        <item quantity="one">Vols arxivar aquesta conversa?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Vols descartar aquests %1$d missatges?</item>
+        <item quantity="one">Vols descartar aquest missatge?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">"S'estan anul·lant %1$d converses destacades."</item>
+        <item quantity="one">"S'està anul·lant %1$d conversa destacada."</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">"Se n'han silenciat &lt;b>%1$d&lt;/b>."</item>
+        <item quantity="one">"Se n'ha silenciat &lt;b>%1$d&lt;/b>."</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">"S'ha informat d'&lt;b>%1$d&lt;/b> converses com a activitat brossa."</item>
+        <item quantity="one">Converses notificades com a activitat brossa:&lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"S'ha informat que &lt;b>%1$d&lt;/b> converses no són activitat brossa."</item>
+        <item quantity="one">"S'ha informat que &lt;b>%1$d&lt;/b> converses no són activitat brossa."</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"Se n'han marcat &lt;b>%1$d&lt;/b> com a no importants."</item>
+        <item quantity="one">"Se n'ha marcat &lt;b>%1$d&lt;/b> com a no important."</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">"S'ha informat que &lt;b>%1$d&lt;/b> converses són pesca."</item>
+        <item quantity="one">"S'ha informat que &lt;b>%1$d&lt;/b> converses són pesca."</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">"Se n'ha arxivat &lt;b>%1$d&lt;/b>."</item>
+        <item quantity="one">"Se n'ha arxivat &lt;b>%1$d&lt;/b>."</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">"Se n'han suprimit &lt;b>%1$d&lt;/b>."</item>
+        <item quantity="one">"Se n'han suprimit &lt;b>%1$d&lt;/b>."</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">"S'han canviat les carpetes."</item>
+        <item quantity="one">"S'ha canviat la carpeta."</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Mostra %1$d missatges nous.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d missatges anteriors</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d no llegits</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d missatges nous</item>
+        <item quantity="one">%1$d missatge nou</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Se suprimiran %1$d missatges de manera permanent.</item>
+        <item quantity="one">Se suprimirà %1$d missatge de manera permanent.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d missatges</item>
+        <item quantity="one">%1$d missatge</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d fitxers adjunts</item>
+        <item quantity="one">%1$d fitxer adjunt</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mou els missatges</item>
+        <item quantity="one">Mou el missatge</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

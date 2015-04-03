@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">സർട്ടിഫിക്കറ്റ് ഇൻസ്‌റ്റാളർ</string>
+    <string name="pick_file_title">ഒരു സർട്ടിഫിക്കറ്റ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="pkcs12_password_dialog_title">സർട്ടിഫിക്കറ്റ് എക്‌സ്‌ട്രാക്റ്റുചെയ്യുക</string>
+    <string name="extracting_pkcs12">എക്‌സ്‌ട്രാക്റ്റുചെയ്യുന്നു…</string>
+    <string name="pkcs12_file_password_dialog_title">%s എന്നതിൽ നിന്ന് എക്‌സ്‌ട്രാക്റ്റുചെയ്യുക</string>
+    <string name="name_credential_dialog_title">സർട്ടിഫിക്കറ്റിന് പേര് നൽകുക</string>
+    <string name="credential_name">സർട്ടിഫിക്കറ്റ് പേര്:</string>
+    <string name="credential_password">സർട്ടിഫിക്കറ്റുകൾ എക്‌സ്‌ട്രാക്റ്റുചെയ്യുന്നതിന് പാസ്‌വേഡ് ടൈപ്പുചെയ്യുക.</string>
+    <string name="credential_info">പാക്കേജിൽ ഇവ അടങ്ങിയിരിക്കുന്നു:</string>
+    <string name="p12_description">PKCS12 കീസ്‌റ്റോറിലെ സർട്ടിഫിക്കറ്റുകൾ.</string>
+    <string name="one_userkey">ഒരു ഉപയോക്തൃ കീ</string>
+    <string name="one_usercrt">ഒരു ഉപയോക്തൃ സർട്ടിഫിക്കറ്റ്</string>
+    <string name="one_cacrt">ഒരു CA സർട്ടിഫിക്കറ്റ്</string>
+    <string name="n_cacrts">%d CA സർട്ടിഫിക്കറ്റുകൾ</string>
+    <string name="password_error">ശരിയായ പാസ്‌വേഡ് ടൈപ്പുചെയ്യുക.</string>
+    <string name="password_empty_error">പാസ്‌വേഡ് ടൈപ്പുചെയ്യുക.</string>
+    <string name="name_empty_error">ഒരു പേര് ടൈപ്പുചെയ്യുക.</string>
+    <string name="name_char_error">അക്ഷരങ്ങളും അക്കങ്ങളും മാത്രമടങ്ങിയ ഒരു പേര് ടൈപ്പുചെയ്യുക.</string>
+    <string name="storage_error">സർട്ടിഫിക്കറ്റ് സംരക്ഷിക്കാനായില്ല. വീണ്ടും ശ്രമിക്കാൻ സ്‌പർശിക്കുക.</string>
+    <string name="unable_to_save_cert">സർട്ടിഫിക്കറ്റ് സംരക്ഷിക്കാനായില്ല. ക്രെഡൻഷ്യൽ സംഭരണം പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ല അല്ലെങ്കിൽ ശരിയായി സമാരംഭിച്ചിട്ടില്ല.</string>
+    <string name="cert_not_saved">സർട്ടിഫിക്കറ്റ് ഇൻസ്‌റ്റാൾ ചെയ്‌തില്ല.</string>
+    <string name="no_cert_to_saved">ഇൻസ്‌റ്റാൾ ചെയ്യുന്നതിന് സർട്ടിഫിക്കറ്റ് ഒന്നുമില്ല.</string>
+    <string name="invalid_cert">സർട്ടിഫിക്കറ്റ് അസാധുവാണ്.</string>
+    <string name="cert_is_added">%s ഇൻസ്‌റ്റാൾ ചെയ്‌തു.</string>
+    <string name="cert_too_large_error">സർട്ടിഫിക്കറ്റ് വലുപ്പം വളരെ വലുതായതിനാൽ ഇൻസ്റ്റാളുചെയ്യാനായില്ല.</string>
+    <string name="cert_missing_error">സർട്ടിഫിക്കറ്റ് ഫയൽ കണ്ടെത്താൻ കഴിയാത്തതിനാൽ ഇൻസ്റ്റാളുചെയ്യാനായില്ല.</string>
+    <string name="cert_read_error">സർട്ടിഫിക്കറ്റ് ഫയൽ റീഡുചെയ്യാൻ കഴിയാത്തതിനാൽ ഇൻസ്റ്റാളുചെയ്യാനായില്ല.</string>
+    <string name="no_cert_file_found">USB സംഭരണത്തിൽ സർട്ടിഫിക്കറ്റ് ഫയലൊന്നും കണ്ടെത്തിയില്ല.</string>
+    <string name="sdcard_not_present">USB സംഭരണം ലഭ്യമല്ല.</string>
+    <string name="only_primary_user_allowed">ഈ ഉപകരണത്തിന്റെ ഉടമയ്‌ക്കുമാത്രമേ സർട്ടിഫിക്കറ്റുകൾ ഇൻസ്റ്റാളുചെയ്യാനാകൂ.</string>
+    <string name="credential_usage_label">ക്രെഡൻഷ്യൽ ഉപയോഗം:</string>
+</resources>

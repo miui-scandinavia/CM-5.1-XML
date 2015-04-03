@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Androidi liikuvad taustapildid</string>
+    <string name="wallpaper_walkaround">Läbipaistev</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Vaadake telefoni vahendusel ja kõndige õnnetusi põhjustamata.</string>
+    <string name="wallpaper_clock">Polaarkell</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Esitab kuupäeva ja kellaaja päripäeva kaartena: kuu, päev, tund, minut ja sekund.</string>
+    <string name="clock_settings">Polaarkella seaded</string>
+    <string name="show_seconds">Kuva sekundid</string>
+    <string name="variable_line_width">Erinevad ringi laiused</string>
+    <string name="palette">Värvipalett</string>
+    <string name="palette_gray">Raud</string>
+    <string name="palette_violet">Kesköö</string>
+    <string name="palette_matrix">Roheline ekraan</string>
+    <string name="palette_white_c">Jääkaru (dünaamiline)</string>
+    <string name="palette_black_c">Must auk (dünaamiline)</string>
+    <string name="palette_halloween">Kõrvitsapirukas</string>
+    <string name="palette_zenburn">Maaväline puuviljasalat</string>
+    <string name="palette_oceanic">Sinine laser</string>
+</resources>

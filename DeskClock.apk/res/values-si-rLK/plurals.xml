@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">මිනි %d</item>
+        <item quantity="one">මිනි 1</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">මිනිත්තු %d කින් යළි සිහි කැඳවන්න.</item>
+        <item quantity="one">මිනිත්තු 1 කින් යළි සිහි කැඳවන්න.</item>
+    </plurals>
+    <plurals name="snooze_duration">
+        <item quantity="other">මිනිත්තු %d</item>
+        <item quantity="one">මිනිත්තු 1</item>
+    </plurals>
+    <plurals name="snooze_picker_label">
+        <item quantity="other">මිනිත්තු</item>
+        <item quantity="one">මිනිත්තුව</item>
+    </plurals>
+    <plurals name="Nhours_description">
+        <item quantity="other">පැය %d</item>
+        <item quantity="one">පැය 1</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="other">මිනිත්තු %d</item>
+        <item quantity="one">මිනිත්තු 1</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="other">තත්පර %d</item>
+        <item quantity="one">තත්පර 1</item>
+    </plurals>
+    <plurals name="timers_num">
+        <item quantity="other">කාල ගැනීම් %d</item>
+        <item quantity="one">මිනිත්තු 1</item>
+    </plurals>
+    <plurals name="alarm_delete_confirmation">
+        <item quantity="other">තෝරාගන්නා ලද ඇඟවීම් මකන්නද?</item>
+        <item quantity="one">තෝරාගන්නා ලද ඇඟවීම මකන්නද?</item>
+    </plurals>
+</resources>

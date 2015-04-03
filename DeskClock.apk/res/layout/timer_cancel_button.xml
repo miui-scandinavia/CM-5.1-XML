@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/footer_button_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/timer_cancel" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_cancel" android:layout_weight="1.0" android:contentDescription="@string/timer_cancel" android:paddingEnd="20.0dip" style="@style/button" />
+    <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="2.0" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="32.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Space android:id="@id/start_space" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5" />
+    <com.android.deskclock.CircleButtonsLayout android:layout_gravity="center" android:id="@id/stopwatch_circle" android:layout_width="@dimen/circle_size" android:layout_height="@dimen/circle_size" android:layout_marginLeft="32.0dip" android:layout_marginRight="32.0dip" android:layout_marginBottom="32.0dip">
+        <com.android.deskclock.timer.CountingTimerView android:id="@id/stopwatch_time_text" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.android.deskclock.CircleTimerView android:id="@id/stopwatch_time" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.android.deskclock.CircleButtonsLayout>
+    <ListView android:layout_gravity="center" android:id="@id/laps_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="32.0dip" android:layout_marginBottom="48.0dip" android:layout_marginStart="@dimen/stopwatch_list_margin_start" android:layout_marginEnd="16.0dip" />
+    <Space android:id="@id/end_space" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">ພົບ %1$s ເຄື່ອງພິມ</item>
+        <item quantity="one">ພົບ %1$s ເຄື່ອງພິມ</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">ງານພິມ %1$d</item>
+        <item quantity="one">ງານພິມ %1$d</item>
+    </plurals>
+</resources>

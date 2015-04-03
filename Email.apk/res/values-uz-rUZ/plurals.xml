@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d ta suhbatni ko‘chirish</item>
+        <item quantity="one">Suhbatni ko‘chirish</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Qoralamalar</item>
+        <item quantity="one">Qoralama</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ushbu %1$d ta suhbat o‘chirib tashlansinmi?</item>
+        <item quantity="one">Ushbu suhbat o‘chirib tashlansinmi?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Ushbu %1$d ta suhbat arxivlansinmi?</item>
+        <item quantity="one">Ushbu suhbat arxivlansinmi?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Ushbu %1$d ta xabar bekor qilinsinmi?</item>
+        <item quantity="one">Ushbu xabar bekor qilinsinmi?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d ta suhbatdan yulduzcha olib tashlanmoqda.</item>
+        <item quantity="one">%1$d ta suhbatdagi yulduzcha olib tashlanmoqda.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ta suhbat ko‘rsatilmaydigan qilindi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ta suhbat ko‘rsatilmaydigan qilindi.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ta suhbat spam deb belgilandi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ta suhbat spam deb belgilandi.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ta suhbat spam emas deb belgilandi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ta suhbat spam emas deb belgilandi.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ta suhbat muhim emas deb belgilandi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ta suhbat muhim emas deb belgilandi.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ta suhbat fishing deb belgilandi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ta suhbat fishing deb belgilandi.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ta suhbat arxivlandi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ta suhbat arxivlandi.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ta suhbat o‘chirib tashlandi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ta suhbat o‘chirib tashlandi.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Jildlar o‘zgartirildi.</item>
+        <item quantity="one">Jild o‘zgartirildi.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Yangi xabarlarni ko‘rsatish (%1$d).</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ta eski xabar</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">O‘qilmagan: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ta yangi xabar</item>
+        <item quantity="one">%1$d ta yangi xabar</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d ta xabar butunlay o‘chirib tashlanadi.</item>
+        <item quantity="one">%1$d ta xabar butunlay o‘chirib tashlanadi.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ta xabar</item>
+        <item quantity="one">%1$d ta xabar</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ta biriktirma</item>
+        <item quantity="one">%1$d ta biriktirma</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Xabarlarni ko‘chirish</item>
+        <item quantity="one">Xabarni ko‘chirish</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

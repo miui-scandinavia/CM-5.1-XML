@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Živé tapety Android</string>
+    <string name="wallpaper_walkaround">Průhledné</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Změňte svůj telefon na průhledný a procházejte se, aniž byste riskovali nehodu.</string>
+    <string name="wallpaper_clock">Polární hodiny</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Ukazují datum a čas ve formě pravotočivých oblouků: měsíc, den, hodina, minuta a sekunda.</string>
+    <string name="clock_settings">Nastavení polárních hodin</string>
+    <string name="show_seconds">Zobrazit sekundy</string>
+    <string name="variable_line_width">Měnit šířku prstenců</string>
+    <string name="palette">Barevná paleta</string>
+    <string name="palette_gray">Železo</string>
+    <string name="palette_violet">Půlnoc</string>
+    <string name="palette_matrix">Zelená obrazovka</string>
+    <string name="palette_white_c">Lední medvěd (dynamické)</string>
+    <string name="palette_black_c">Černá díra (dynamické)</string>
+    <string name="palette_halloween">Dýňový koláč</string>
+    <string name="palette_zenburn">Ovocný salát mimozemšťanů</string>
+    <string name="palette_oceanic">Modrý laser</string>
+</resources>

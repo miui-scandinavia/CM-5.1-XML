@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.widget.FilmstripLayout android:id="@id/filmstrip_layout" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/camera_filmstrip_content_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.android.camera.widget.FilmstripView android:id="@id/filmstrip_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <include layout="@layout/filmstrip_bottom_controls" />
+</com.android.camera.widget.FilmstripLayout>

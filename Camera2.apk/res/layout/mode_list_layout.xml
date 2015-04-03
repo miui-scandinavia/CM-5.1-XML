@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.ModeListView android:id="@id/mode_list_layout" android:background="@null" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center|left|top" android:orientation="vertical" android:id="@id/mode_list" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:layout_gravity="center|left|top" android:id="@id/settings_button" android:background="@drawable/settings_gear_background" android:layout_width="@dimen/mode_list_settings_icon_size" android:layout_height="@dimen/mode_list_settings_icon_size" android:src="@drawable/ic_settings_normal" android:scaleType="center" android:contentDescription="@string/mode_settings" />
+</com.android.camera.ui.ModeListView>

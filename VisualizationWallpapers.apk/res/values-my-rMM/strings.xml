@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">ပုံဖော်စေနိုင်သော အရာ</string>
+    <string name="wallpaper_vis2">လှိုင်းပုံစံ</string>
+    <string name="wallpaper_vis3">အလင်းရောင်စုံတန်း</string>
+    <string name="wallpaper_vis4">VU မီတာ</string>
+    <string name="wallpaper_vis5">အများအပြား</string>
+    <string name="wallpapers">သံစဉ်ပုံဖော်မှုပြ နောက်ခံများ</string>
+    <string name="author">ဂူးဂဲလ်</string>
+    <string name="vis2_desc">လက်ရှိဖွင့်ထားသော သီချင်းပုဒ်ရဲ့ အသံလှိုင်းကို ရေးဆွဲခြင်း</string>
+    <string name="vis3_desc">လက်ရှိဖွင့်ထားသော သီချင်းပုဒ်ရဲ့ တုန်ခါမှု ရောင်စုံလိုင်းပြခြင်း</string>
+    <string name="vis4_desc">စဉ်ဆက်မပြတ် အသံမီတာကို အစမ်းပြုလုပ်ခြင်း</string>
+    <string name="vis5_desc">သံစဉ်ပုံဖော်ခြင်း အားလုံး စုပေါင်းပြီး, ၃ဖက်မြင်ပုံ အဖြစ် တဖြည်းဖြည်း ပြောင်းလဲလာခြင်း.</string>
+</resources>

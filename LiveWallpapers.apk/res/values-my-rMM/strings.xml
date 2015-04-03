@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android Live နောက်ခံများ</string>
+    <string name="wallpaper_walkaround">ဖောက်ထွင်းမြင်သည်</string>
+    <string name="wallpaper_walkaround_author">ဂူးဂဲလ်</string>
+    <string name="wallpaper_walkaround_desc">ဖုန်းထဲကနေ ဖောက်ထွင်းမြင်ပြီး အန္တရာယ်ကို ရှောင်လွဲပြီး လမ်းလျှောက်ခြင်း</string>
+    <string name="wallpaper_clock">အရောင်အသွေးစုံနာရီ</string>
+    <string name="wallpaper_clock_author">ဂူးဂဲလ်</string>
+    <string name="wallpaper_clock_desc">နေ့ရက် နှင့် အချိန်ကို နာရီလက်တံလှည့်သကဲ့သို့ ပြရန်: လ၊ နေ့၊ နာရီ၊ မိနစ်၊ နှင့် စက္ကန့်</string>
+    <string name="clock_settings">အရောင်အသွေးစုံနာရီ အပြင်အဆင်များ</string>
+    <string name="show_seconds">စက္ကန့်ပြရန်</string>
+    <string name="variable_line_width">အသံအတိုအရှည်အပြောင်းအလဲရှိသော မြည်သံ</string>
+    <string name="palette">အရောင်များ</string>
+    <string name="palette_gray">သံချေးရောင်</string>
+    <string name="palette_violet">ညသန်းခေါင်</string>
+    <string name="palette_matrix">ဖန်ပြင်စိမ်းရောင်</string>
+    <string name="palette_white_c">ပိုလာဝက်ဝံ (ပြင်းထန်သော)</string>
+    <string name="palette_black_c">အမည်းစက်ဝိုင်း (ပြင်းထန်သော)</string>
+    <string name="palette_halloween">ဖရုံးသီးမုန့်အရောင်</string>
+    <string name="palette_zenburn">ကြံကြံဖန်ဖန်သစ်သီးသုပ်</string>
+    <string name="palette_oceanic">လေဆာပြာရောင်</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SoundRecorder" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:colorPrimary">@color/material_primary</item>
+        <item name="android:colorPrimaryDark">@color/material_dark</item>
+    </style>
+    <style name="MediaButton" parent="@android:style/MediaButton">
+        <item name="android:background">@drawable/btn_round</item>
+    </style>
+</resources>

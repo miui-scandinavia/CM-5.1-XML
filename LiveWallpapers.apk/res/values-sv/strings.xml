@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Androids levande bakgrundsbilder</string>
+    <string name="wallpaper_walkaround">Genomskinlig</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Se igenom telefonen och gå omkring utan att riskera en olycka.</string>
+    <string name="wallpaper_clock">Polarklocka</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Presenterar dag och tid medurs i bågar: månad, dag, timme, minut och sekund.</string>
+    <string name="clock_settings">Inställningar för polarklocka</string>
+    <string name="show_seconds">Visa sekunder</string>
+    <string name="variable_line_width">Olika ringstorlekar</string>
+    <string name="palette">Färgpalett</string>
+    <string name="palette_gray">Järn</string>
+    <string name="palette_violet">Midnatt</string>
+    <string name="palette_matrix">Grön skärm</string>
+    <string name="palette_white_c">Isbjörn (dynamisk)</string>
+    <string name="palette_black_c">Svart hål (dynamisk)</string>
+    <string name="palette_halloween">Pumpapaj</string>
+    <string name="palette_zenburn">Annorlunda fruktsallad</string>
+    <string name="palette_oceanic">Blå laser</string>
+</resources>

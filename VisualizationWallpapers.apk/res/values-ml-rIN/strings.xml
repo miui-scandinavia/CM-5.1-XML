@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">വിഷ്വലൈസർ</string>
+    <string name="wallpaper_vis2">തരംഗരൂപം</string>
+    <string name="wallpaper_vis3">സ്പെക്ട്രം</string>
+    <string name="wallpaper_vis4">VU മീറ്റർ</string>
+    <string name="wallpaper_vis5">നിരവധി</string>
+    <string name="wallpapers">സംഗീത ദൃശ്യവൽക്കരണ വാൾപേപ്പറുകൾ</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">നിലവിൽ പ്ലേ ചെയ്യുന്ന ഏത് സംഗീത ട്രാക്കിന്റെയും ശബ്‌ദ തരംഗം വരയ്‌ക്കുന്നു.</string>
+    <string name="vis3_desc">നിലവിൽ പ്ലേ ചെയ്യുന്ന ഏത് സംഗീത ട്രാക്കിന്റെയും ആവൃത്തി സ്‌പെക്ട്രം കാണിക്കുന്നു.</string>
+    <string name="vis4_desc">ഒരു അനലോഗ് ശബ്‌ദ മീറ്ററിനെപ്പോലെ പ്രവർത്തിക്കുന്നു.</string>
+    <string name="vis5_desc">എല്ലാ ദൃശ്യവൽക്കരണങ്ങളും ഒരുമിച്ച് 3D-യിൽ പതുക്കെ തിരിയുന്നു.</string>
+</resources>

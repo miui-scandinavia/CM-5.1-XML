@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">[%d ƒöûñð one two]</item>
+        <item quantity="one">[1 ƒöûñð one two]</item>
+    </plurals>
+    <plurals name="remaining_delay_time">
+        <item quantity="other">[Šéñðîñĝ îñ »%1$d« šéçöñðš, ţöûçĥ ţö çåñçéļ. one two three four five six seven eight nine ten]</item>
+        <item quantity="one">[Šéñðîñĝ îñ 1 šéçöñð, ţöûçĥ ţö çåñçéļ. one two three four five six seven eight]</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">[%1$s ḿéššåĝéš ŵîļļ ɓé ðéļéţéð. one two three four five six seven]</item>
+        <item quantity="one">[Öñé ḿéššåĝé ŵîļļ ɓé ðéļéţéð. one two three four five six seven]</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">[%1$s çöñVéŕšåţîöñš ŵîļļ ɓé ðéļéţéð. one two three four five six seven eight]</item>
+        <item quantity="one">[Öñé çöñVéŕšåţîöñ ŵîļļ ɓé ðéļéţéð. one two three four five six seven eight]</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">[%s šéçš one two]</item>
+        <item quantity="one">[%s šéç one two]</item>
+        <item quantity="few">[%s šéçš one two]</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">[%1$s ŕéšûļţš ƒöŕ \"%2$s\" one two three]</item>
+        <item quantity="one">[%1$s ŕéšûļţ ƒöŕ \"%2$s\" one two three]</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">[+%1$s öţĥéŕ ḿéššåĝéš one two three]</item>
+        <item quantity="one">[+%1$s öţĥéŕ ḿéššåĝé one two three]</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">[%1$s þéöþļé one two]</item>
+    </plurals>
+</resources>

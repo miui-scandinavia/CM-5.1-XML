@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="jewelRadius" format="dimension" />
+    <attr name="jewelOffset" format="dimension" />
+    <attr name="jewelColor" format="color" />
+    <attr name="format12Hour" format="string" />
+    <attr name="format24Hour" format="string" />
+</resources>

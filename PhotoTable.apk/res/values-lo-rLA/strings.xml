@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ຮູບພາບສະກຣີນເຊບເວີ</string>
+    <string name="table_screensaver_name">ຕາຕາລາງຮູບ</string>
+    <string name="flipper_screensaver_name">ຂອບ​ຮູບ</string>
+    <string name="posts_album_name">ຮູບພາບຈາກໂພສຕ່າງໆ</string>
+    <string name="unknown_album_name">ອະລະບ້ຳບໍ່ມີຊື່</string>
+    <string name="stock_photo_album_name">ຮູບຖ່າຍສະຕັອກ</string>
+    <string name="local_source_name">ຮູບພາບໃນອຸປະກອນ</string>
+    <string name="need_to_configure">ບໍ່ໄດ້ເລືອກຮູບເທື່ອ.</string>
+    <string name="photodream_select_all">ເລືອກທັງຫມົດ</string>
+    <string name="photodream_select_none">ບໍ່ເລືອກທັງໝົດ</string>
+    <string name="no_photos">ບໍ່ມີຮູບໃນອຸປະກອນນີ້.</string>
+</resources>

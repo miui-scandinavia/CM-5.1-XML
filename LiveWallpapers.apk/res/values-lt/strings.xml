@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">„Android“ judantys darbalaukio fonai</string>
+    <string name="wallpaper_walkaround">„Permatomas“</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Matykite kiaurai savo telefono ir vaikščiokite nebijodami nelaimingų atsitikimų.</string>
+    <string name="wallpaper_clock">„Polar clock“</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Datą ir laiką pateikia kaip pagal rodyklę einančius lankus: mėnuo, diena, valanda, minutė ir sekundė.</string>
+    <string name="clock_settings">„Polar clock“ nustatymai</string>
+    <string name="show_seconds">Rodyti sekundes</string>
+    <string name="variable_line_width">Keisti žiedų plotį</string>
+    <string name="palette">Spalvų gama</string>
+    <string name="palette_gray">Geležis</string>
+    <string name="palette_violet">Vidurnaktis</string>
+    <string name="palette_matrix">Žalias ekranas</string>
+    <string name="palette_white_c">Baltasis lokys (dinaminis)</string>
+    <string name="palette_black_c">Juodoji skylė (dinaminis)</string>
+    <string name="palette_halloween">Moliūgų pyragas</string>
+    <string name="palette_zenburn">Ateivių vaisių salotos</string>
+    <string name="palette_oceanic">Mėlynas lazeris</string>
+</resources>

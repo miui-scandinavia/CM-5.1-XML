@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Eraman %1$d elkarrizketa</item>
+        <item quantity="one">Eraman elkarrizketa</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Zirriborroak</item>
+        <item quantity="one">Zirriborroa</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d elkarrizketa hauek ezabatu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketa ezabatu nahi duzu?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d elkarrizketa hauek artxibatu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketa artxibatu nahi duzu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d mezuak baztertu nahi dituzu?</item>
+        <item quantity="one">Mezua baztertu nahi duzu?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d elkarrizketari izarra kentzen.</item>
+        <item quantity="one">%1$d elkarrizketari izarra kentzen.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ezkutatu dira.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ezkutatu da.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> spam gisa markatu dira.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> spam gisa markatu da.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ez-spam gisa markatu dira.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ez-spam gisa markatu da.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ez-garrantzitsu gisa markatu dira.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ez-garrantzitsu gisa markatu da.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> phishing gisa markatu dira.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> phishing gisa markatu da.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> artxibatu dira.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> artxibatu da.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ezabatu dira.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ezabatu da.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Karpetak aldatu dira.</item>
+        <item quantity="one">Karpeta aldatu da.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Erakutsi %1$d mezu berri.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d mezu zaharrago</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d irakurri gabe</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mezu berri</item>
+        <item quantity="one">%1$d mezu berri</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mezu betiko ezabatuko dira.</item>
+        <item quantity="one">%1$d mezu betiko ezabatuko da.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mezu</item>
+        <item quantity="one">%1$d mezu</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d eranskin</item>
+        <item quantity="one">%1$d eranskin</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Eraman mezuak</item>
+        <item quantity="one">Eraman mezua</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>

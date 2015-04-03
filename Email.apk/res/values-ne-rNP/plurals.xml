@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d कुराकानीहरू सार्नुहोस्</item>
+        <item quantity="one">कुराकानी सार्नुहोस्</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ड्राफ्ट</item>
+        <item quantity="one">ड्राफ्ट</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">यी %1$d कुराकानीहरू मेटाउनु हुन्छ?</item>
+        <item quantity="one">यो कुराकानी मेटाउने हो?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">यी %1$d कुराकानीहरू अभिलेख गर्नुहुन्छ?</item>
+        <item quantity="one">यस कुराकानीको सङ्ग्रह राख्ने हो?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">यी %1$d सन्देशहरू खारेज गर्नुहुन्छ?</item>
+        <item quantity="one">यो सन्देश खारेज गर्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">ताराङ्कन हटाउँदै %1$d कुराकानीहरू।</item>
+        <item quantity="one">ताराङ्कन हटाउँदै %1$d कुराकानी।</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> मौन गरियो।</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> मौन गरियो।</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> स्प्यामको रूपमा रिपोर्ट गरियो।</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> स्प्यामको रूपमा रिपोर्ट गरियो।</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> स्प्याम होइन भनी रिपोर्ट गरियो।</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> स्प्याम होइन भनी रिपोर्ट गरियो।</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> महत्त्वपूर्ण होइन भनी चिनो लगाइयो।</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> महत्त्वपूर्ण होइन भनी चिनो लगाइयो।</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> फिशिंगको रूपमा रिपोर्ट गरियो।</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> फिशिंगको रूपमा रिपोर्ट गरियो।</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> सङ्ग्रहित।</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> सङ्ग्रहित।</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> मेटाइयो।</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> मेटाइयो।</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">फोल्डरहरु परिवर्तन भए।</item>
+        <item quantity="one">फोल्डर परिवर्तन भयो।</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d नयाँ सन्देशहरू देखाउनुहोस्।</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d पुरानो सन्देश</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d नपढेको</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d नयाँ सन्देशहरू</item>
+        <item quantity="one">%1$d नयाँ सन्देश</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d सन्देशहरू स्थायी रूपमा मेटाईनेछन्।</item>
+        <item quantity="one">%1$d सन्देश स्थायी रूपमा मेटाईनेछ।</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d सन्देशहरु</item>
+        <item quantity="one">%1$d सन्देश</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d एट्याच्मेन्टहरू</item>
+        <item quantity="one">%1$d एट्याच्मेन्ट</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">सन्देशहरू सार्नुहोस्</item>
+        <item quantity="one">सन्देश सार्नुहोस्</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

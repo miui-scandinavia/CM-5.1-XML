@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d маекти жылдыруу</item>
+        <item quantity="one">Маекти жылдыруу</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Сомолор</item>
+        <item quantity="one">Сомо</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Бул %1$d маек жок кылынсынбы?</item>
+        <item quantity="one">Бул маек жок кылынсынбы?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Бул %1$d маек архивделсинби?</item>
+        <item quantity="one">Бул маек архивделсинби?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Бул %1$d билдирүү жарактан чыгарылсынбы?</item>
+        <item quantity="one">Бул билдирүү жарактан чыгарылсынбы?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d маектин жылдызчалары алынууда.</item>
+        <item quantity="one">%1$d маектин жылдызчасы алынууда.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> үнү басылды.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> үнү басылды.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> спам деп кабарланды.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> спам деп кабарланды.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> спам эмес деп кабарланды.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> спам эмес деп кабарланды.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> маанилүү эмес деп белгиленди.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> маанилүү эмес деп белгиленди.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> фишинг деп кабарланды.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> фишинг деп кабарланды.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> архивделди.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> архивделди.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> жок кылынды.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> жок кылынды.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Өзгөртүлгөн папкалар.</item>
+        <item quantity="one">Өзгөртүлгөн папка.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d жаңы билдирүүнү көрсөтүү.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d мурунку билдирүү</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d окула элек</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d жаңы билдирүү</item>
+        <item quantity="one">%1$d жаңы билдирүү</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d билдирүү биротоло жок кылынат.</item>
+        <item quantity="one">%1$d билдирүү биротоло жок кылынат.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d билдирүү</item>
+        <item quantity="one">%1$d билдирүү</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d тиркеме</item>
+        <item quantity="one">%1$d тиркеме</item>
+    </plurals>
+</resources>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>আবিদজান</item>
+        <item>আক্রা</item>
+        <item>আদ্দিস আবাবা</item>
+        <item>আলজিয়ার্স</item>
+        <item>ব্ল্যানটায়ের</item>
+        <item>ব্রাজাভিল</item>
+        <item>কায়রো</item>
+        <item>কাসাব্লাঙ্কা</item>
+        <item>কনাক্রি</item>
+        <item>ডাকার</item>
+        <item>দার এস সালাম</item>
+        <item>জিবুতি</item>
+        <item>ফ্রীটাউন</item>
+        <item>গ্যাবুরনি</item>
+        <item>হারারে</item>
+        <item>জোহানেসবার্গ</item>
+        <item>কামপালা</item>
+        <item>খার্তুম</item>
+        <item>কিগালি</item>
+        <item>কিনসাসা</item>
+        <item>লাগোস</item>
+        <item>মাসুরু</item>
+        <item>মোগাদিসু</item>
+        <item>নাইরোবি</item>
+        <item>সাও তোমে</item>
+        <item>টিম্বাকটু</item>
+        <item>ত্রিপোলি</item>
+        <item>টিউনিস</item>
+        <item>এনকোরেজ</item>
+        <item>মেন্ডোজা</item>
+        <item>এরুবা</item>
+        <item>আসুনসিয়ন</item>
+        <item>বার্বাডোজ</item>
+        <item>বেলিজ</item>
+        <item>বোগোটা</item>
+        <item>বুয়েনস আইরাস</item>
+        <item>কানকুন</item>
+        <item>কারাকাস</item>
+        <item>কেম্যান</item>
+        <item>শিকাগো</item>
+        <item>কোস্টারিকা</item>
+        <item>কিউরাসো</item>
+        <item>ডসোন ক্রিক</item>
+        <item>ডেনভার</item>
+        <item>ডেট্রোয়েট</item>
+        <item>ডোমিনিকা</item>
+        <item>এডমন্টোন</item>
+        <item>এল সালভাদোর</item>
+        <item>ফোর্তালেজা</item>
+        <item>গ্র্যান্ড তুর্ক</item>
+        <item>গ্রেনাডা</item>
+        <item>গুয়াতেমালা</item>
+        <item>গায়ানা</item>
+        <item>হ্যালিফ্যাক্স</item>
+        <item>হাভানা</item>
+        <item>ইন্ডিয়ানাপোলিস</item>
+        <item>নক্স</item>
+        <item>মেরেঞ্জো</item>
+        <item>পিটসবার্গ</item>
+        <item>টেল সিটি</item>
+        <item>ভিভে</item>
+        <item>ভিনসেনিস</item>
+        <item>উইনাম্যাক</item>
+        <item>কিংসটন</item>
+        <item>নুয়েস্ট্রা সেনোরা দে লা পাজ</item>
+        <item>লিমা</item>
+        <item>লস এ্যাঞ্জেলেস</item>
+        <item>লুইসভিল</item>
+        <item>মানাগুয়া</item>
+        <item>মার্টিনিক</item>
+        <item>মেন্ডোজা</item>
+        <item>মেটলাকাটলা</item>
+        <item>মেক্সিকো সিটি</item>
+        <item>মন্টেরি</item>
+        <item>মন্টেভিডিও</item>
+        <item>মন্ট্রিয়াল</item>
+        <item>নাসাউ</item>
+        <item>নিউইয়র্ক</item>
+        <item>বেউলাহ</item>
+        <item>কেন্দ্র</item>
+        <item>নিউ সালেম</item>
+        <item>পানামা</item>
+        <item>ফিনিক্স</item>
+        <item>পোর্ট অফ স্পেন</item>
+        <item>পোর্ট-অহ-প্রিন্স</item>
+        <item>পুয়েরতো রিকো</item>
+        <item>স্যান্টো ডোমিংগো</item>
+        <item>সাউ পাওলো</item>
+        <item>সেন্ট. জনস</item>
+        <item>সেন্ট. কিটস</item>
+        <item>সেন্ট লুসিয়া</item>
+        <item>সেন্ট. থমাস</item>
+        <item>তিযুয়ানা</item>
+        <item>টরোন্টো</item>
+        <item>ভ্যাঙ্কুভার</item>
+        <item>উইনিপেগ</item>
+        <item>দক্ষিণ মেরু</item>
+        <item>লঞ্জিয়বিয়েঁন</item>
+        <item>আলমাটি</item>
+        <item>আম্মান</item>
+        <item>অ্যানাডির</item>
+        <item>অ্যাকটাউ</item>
+        <item>বাগদাদ</item>
+        <item>বাহরাইন</item>
+        <item>বাকু</item>
+        <item>ব্যাংকক</item>
+        <item>বৈরুত</item>
+        <item>কোলকাতা</item>
+        <item>দামেস্ক</item>
+        <item>ঢাকা</item>
+        <item>দুবাই</item>
+        <item>গাজা</item>
+        <item>হেব্রন</item>
+        <item>হো চি মিন</item>
+        <item>হংকং</item>
+        <item>ইস্তানবুল</item>
+        <item>জাকার্তা</item>
+        <item>জেরুজালেম</item>
+        <item>কাবুল</item>
+        <item>করাচি</item>
+        <item>কাঠমান্ডু</item>
+        <item>কুয়ালালামপুর</item>
+        <item>কুয়েত</item>
+        <item>ম্যাকাও</item>
+        <item>ম্যানিলা</item>
+        <item>মাসকাট</item>
+        <item>নম পেন</item>
+        <item>পিয়ংইয়ং</item>
+        <item>কাতার</item>
+        <item>রেঙ্গুন</item>
+        <item>রিয়াদ</item>
+        <item>সাইগন</item>
+        <item>সিউল</item>
+        <item>সাংহাই</item>
+        <item>সিঙ্গাপুর</item>
+        <item>তাইপেই</item>
+        <item>তেহরান</item>
+        <item>তেল আভিভ</item>
+        <item>টোকিও</item>
+        <item>উলানবাটোর</item>
+        <item>বারমুডা</item>
+        <item>ক্যানারি</item>
+        <item>কেপ ভার্দ</item>
+        <item>রিকজাভিক</item>
+        <item>স্টানলী</item>
+        <item>এ্যাডেলেইড</item>
+        <item>ব্রিসবেন</item>
+        <item>ক্যানবেরা</item>
+        <item>ডারউইন</item>
+        <item>মেলবোর্ন</item>
+        <item>নিউ সাউথ ওয়েলস</item>
+        <item>পার্থ</item>
+        <item>কুইন্সল্যান্ড</item>
+        <item>সিডনি</item>
+        <item>ভিক্টোরিয়া</item>
+        <item>নিউফাউন্ডল্যান্ড</item>
+        <item>সাসকাচেওয়ান</item>
+        <item>ইস্টার আইল্যান্ড</item>
+        <item>আমস্টারডাম</item>
+        <item>অ্যান্ডোরা</item>
+        <item>এথেন্স</item>
+        <item>বেলফাস্ট</item>
+        <item>বেলগ্রেড</item>
+        <item>বার্লিন</item>
+        <item>ব্রাতিস্লাভা</item>
+        <item>ব্রাসেলস</item>
+        <item>বুখারেস্ট</item>
+        <item>বুডাপেস্ট</item>
+        <item>কিসিনাউ</item>
+        <item>কোপেনহেগেন</item>
+        <item>ডাবলিন</item>
+        <item>জিব্রাল্টার</item>
+        <item>হেলসিঙ্কি</item>
+        <item>আইল অফ ম্যান</item>
+        <item>ইস্তানবুল</item>
+        <item>কিয়েভ</item>
+        <item>লিসবন</item>
+        <item>লন্ডন</item>
+        <item>লুক্সেমবার্গ</item>
+        <item>মাদ্রিদ</item>
+        <item>মাল্টা</item>
+        <item>মিন্সক</item>
+        <item>মোনাকো</item>
+        <item>মস্কো</item>
+        <item>অসলো</item>
+        <item>প্যারিস</item>
+        <item>প্রাগ</item>
+        <item>রিগা</item>
+        <item>রোম</item>
+        <item>সান মেরিনো</item>
+        <item>সারাজেভো</item>
+        <item>সিমফেরোপোল</item>
+        <item>স্কপয়ে</item>
+        <item>সোফিয়া</item>
+        <item>স্টকহোম</item>
+        <item>তাহলিন</item>
+        <item>ভ্যাটিকান</item>
+        <item>ভিয়েনা</item>
+        <item>ভিলনিওস</item>
+        <item>ওয়ারশ</item>
+        <item>জাগ্রেব</item>
+        <item>জুরিখ</item>
+        <item>আন্তুনানারিভো</item>
+        <item>মালদ্বীপ</item>
+        <item>মরিশাস</item>
+        <item>অকল্যান্ড</item>
+        <item>ফিজি</item>
+        <item>গুয়াম</item>
+        <item>হনোলুলু</item>
+        <item>কিরীতিমাতি</item>
+        <item>নুমিয়া</item>
+        <item>সামোয়া</item>
+        <item>তাহিতি</item>
+        <item>অ্যান্টিগা</item>
+        <item>অস্টিন</item>
+        <item>বস্টন</item>
+        <item>ক্যালগারি</item>
+        <item>কলম্বাস</item>
+        <item>ডালাস</item>
+        <item>নক্সভিল</item>
+        <item>মেম্ফিস</item>
+        <item>মিয়ামি</item>
+        <item>মিনিয়াপলিস</item>
+        <item>অটোয়া</item>
+        <item>ফিলাডেলফিয়া</item>
+        <item>পোর্টল্যান্ড</item>
+        <item>সান ডিয়েগো</item>
+        <item>সান ফ্রান্সিসকো</item>
+        <item>সল্ট লেক সিটি</item>
+        <item>সান জোসে</item>
+        <item>সান সালভাদোর</item>
+        <item>সিয়াটেল</item>
+        <item>সেন্ট লুইস</item>
+        <item>ওয়াশিংটন ডি.সি.</item>
+        <item>হাউস্টন</item>
+        <item>সান অ্যানটোনিও</item>
+        <item>জ্যাকসনভিল</item>
+        <item>বাল্টিমোর</item>
+        <item>ন্যাশভিল</item>
+        <item>মিলওয়াকি</item>
+        <item>ওকলাহোমা সিটি</item>
+        <item>লাস ভেগাস</item>
+        <item>আলবুকুয়ারক</item>
+        <item>টাস্কন</item>
+        <item>স্যাক্রামেন্টো</item>
+        <item>আটলান্টা</item>
+        <item>ক্লিভল্যান্ড</item>
+        <item>নিউ অর্লিন্স</item>
+        <item>টামপা</item>
+        <item>পিটসবুর্গ</item>
+        <item>সিনসিনাটি</item>
+        <item>মাউনটেন ভিউ</item>
+        <item>রেনো</item>
+        <item>ব্ল্যাক রক সিটি</item>
+        <item>দোহা</item>
+        <item>বেইজিং</item>
+        <item>মুম্বাই</item>
+        <item>দিল্লি</item>
+        <item>ওসাকা</item>
+        <item>লাহোর</item>
+        <item>সানা</item>
+        <item>বার্সেলোনা</item>
+        <item>মিউনিখ</item>
+        <item>মিলান</item>
+        <item>ফ্রাঙ্কফুর্ট</item>
+        <item>হ্যানয়</item>
+        <item>আংকারা</item>
+        <item>ব্যাঙ্গালোর</item>
+        <item>ব্রাসিলিয়া</item>
+        <item>কেপ টাউন</item>
+        <item>ইসলামাবাদ</item>
+        <item>রিও দে জেনিরো</item>
+        <item>এ্যান আরবোর</item>
+        <item>বোলডার</item>
+        <item>কেমব্রিজ</item>
+        <item>কির্কল্যান্ড</item>
+        <item>ম্যাডিসন</item>
+        <item>গুয়াংঝু</item>
+        <item>হাইদ্রাবাদ</item>
+        <item>রেস্টন</item>
+        <item>বেলো হরিজন্তে</item>
+        <item>সান্টিয়াগো</item>
+        <item>মনরোভিয়া</item>
+        <item>কলম্বো</item>
+        <item>চিহুয়াহুয়া</item>
+        <item>সালভাদোর</item>
+        <item>গুরগাঁও</item>
+        <item>ম্যানচেস্টার</item>
+        <item>কিয়েভ</item>
+        <item>সেন্ট পিটসবার্গ</item>
+        <item>ক্রাকো</item>
+        <item>রোক্ল</item>
+        <item>হ্যামবুর্গ</item>
+        <item>ওউলু</item>
+        <item>হাইফা</item>
+        <item>সান হুয়ান</item>
+        <item>তেগুসিগালপা</item>
+        <item>প্যারামেরিবো</item>
+        <item>কিটো</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>এক মিনিটেরও কম সময় বাকি আছে</item>
+        <item>%1$s বাকি</item>
+        <item>%2$s বাকি</item>
+        <item>%1$s %2$s বাকি</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>এখন থেকে ১ মিনিটের কম সময়ের জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s এর জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %2$s এর জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s ও %2$s এর জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %3$s এর জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s ও %3$s এর জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %2$s ও %3$s এর জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s, %2$s, ও %3$s এর জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 মিনিট</item>
+        <item>10 মিনিট</item>
+        <item>15 মিনিট</item>
+        <item>20 মিনিট</item>
+        <item>25 মিনিট</item>
+        <item>30 মিনিট</item>
+        <item>কখনই নয়</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>স্নুজ</item>
+        <item>খারিজ করুন</item>
+        <item>কিছু করবেন না</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>আপনি আসলেই এক গতিময় দৈত্য।</item>
+        <item>আপনার শ্রমের ফসল উপভোগ করুন।</item>
+        <item>অ্যান্ড্রয়েডগুলোকে গতিবান হিসেবে জানি, কিন্তু তারাও আপনার মত দ্রুতগতির নয়!</item>
+        <item>ফু:।</item>
+        <item>L33t গুণ।</item>
+        <item>এমন বিস্ময়কর গতি।</item>
+        <item>চলুন আমরা আবার সময়ের পাকে দৌড় দিই।</item>
+        <item>কেবল বাম দিকে এ লাফই যথেষ্ট।</item>
+        <item>তাড়াহুড়োর জন্য আপনার বিশেষ দক্ষতা আছে।</item>
+        <item>আলোর গতি।</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>অ্যানালগ</item>
+        <item>ডিজিটাল</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>মার্শাল আইল্যান্ডস</item>
+        <item>মিডওয়ে আইল্যান্ড</item>
+        <item>হাওয়াই</item>
+        <item>আলাস্কা</item>
+        <item>প্রশান্ত মহাসাগরীয় সময়</item>
+        <item>তিয়াওয়ানা</item>
+        <item>আরিজোনা</item>
+        <item>চিহুয়াহুয়া</item>
+        <item>পার্বত্য সময়</item>
+        <item>মধ্য আমেরিকা</item>
+        <item>কেন্দ্রীয় সময়</item>
+        <item>মেক্সিকো সিটি</item>
+        <item>সাসকাচেওয়ান</item>
+        <item>বোগোটা</item>
+        <item>পূর্বাঞ্চলীয় সময়</item>
+        <item>ভেনেজুয়েলা</item>
+        <item>আটলান্টিক সময় (বার্বাডোজ)</item>
+        <item>আটলান্টিক সময় (কানাডা)</item>
+        <item>মানাউস</item>
+        <item>সান্টিয়াগো</item>
+        <item>নিউফাউন্ডল্যান্ড</item>
+        <item>ব্রাসিলিয়া</item>
+        <item>বুয়েনস আইরাস</item>
+        <item>গ্রীনল্যান্ড</item>
+        <item>মন্টেভিডিও</item>
+        <item>মধ্য-আটলান্টিক</item>
+        <item>অ্যাজোরেস</item>
+        <item>কেপ ভার্দ আইল্যান্ডস</item>
+        <item>কাসাব্লাঙ্কা</item>
+        <item>লন্ডন, ডাবলিন</item>
+        <item>আমসটার্ডাম, বার্লিন</item>
+        <item>বেলগ্রেড</item>
+        <item>ব্রাসেলস</item>
+        <item>সারাজেভো</item>
+        <item>উইনধোক</item>
+        <item>প. আফ্রিকা সময়</item>
+        <item>আম্মান, জর্ডান</item>
+        <item>এথেনস, ইস্তানবুল</item>
+        <item>বৈরুত, লেবানন</item>
+        <item>কায়রো</item>
+        <item>হেলসিঙ্কি</item>
+        <item>জেরুজালেম</item>
+        <item>মিন্সক</item>
+        <item>হারারে</item>
+        <item>বাগদাদ</item>
+        <item>মস্কো</item>
+        <item>কুয়েত</item>
+        <item>নাইরোবি</item>
+        <item>তেহরান</item>
+        <item>বাকু</item>
+        <item>তিবলিসি</item>
+        <item>ইয়েরাভান</item>
+        <item>দুবাই</item>
+        <item>কাবুল</item>
+        <item>ইসলামাবাদ, করাচি</item>
+        <item>উরালস্ক</item>
+        <item>ইয়েকাটেরিনবার্গ</item>
+        <item>কোলকাতা</item>
+        <item>শ্রীলঙ্কা</item>
+        <item>কাঠমান্ডু</item>
+        <item>আসটানা</item>
+        <item>ইয়াংগন</item>
+        <item>ক্রাসনোইয়ার্স্ক</item>
+        <item>ব্যাংকক</item>
+        <item>বেইজিং</item>
+        <item>হংকং</item>
+        <item>ইর্কুট্স্ক</item>
+        <item>কুয়ালালামপুর</item>
+        <item>পার্থ</item>
+        <item>তাইপেই</item>
+        <item>সিউল</item>
+        <item>টোকিও, ওসাকা</item>
+        <item>ইয়াকুট্স্ক</item>
+        <item>এ্যাডেলেইড</item>
+        <item>ডারউইন</item>
+        <item>ব্রিসবেন</item>
+        <item>হোবার্ট</item>
+        <item>সিডনি, ক্যানবেরা</item>
+        <item>ভ্লাদিভস্তোক</item>
+        <item>গুয়াম</item>
+        <item>ম্যাগাডান</item>
+        <item>অকল্যান্ড</item>
+        <item>ফিজি</item>
+        <item>টোঙ্গা</item>
+        <item>জাকার্তা</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mms_config version="4">
+    <string name="userAgent">Nexus5</string>
+    <string name="uaProfUrl">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
+</mms_config>

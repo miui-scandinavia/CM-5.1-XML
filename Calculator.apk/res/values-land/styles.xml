@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Calculator.Display.Main.Formula" parent="@style/Theme.Calculator.Display.Main">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+        <item name="minTextSize">30.0sp</item>
+        <item name="maxTextSize">30.0sp</item>
+        <item name="stepTextSize">8.0sp</item>
+    </style>
+    <style name="Theme.Calculator.Display.Main.Result" parent="@style/Theme.Calculator.Display.Main">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">1.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="minTextSize">30.0sp</item>
+        <item name="maxTextSize">30.0sp</item>
+        <item name="stepTextSize">8.0sp</item>
+    </style>
+    <style name="PadButtonStyle.Advanced" parent="@style/PadButtonStyle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">4.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:layout_marginBottom">4.0dip</item>
+    </style>
+    <style name="PadButtonStyle.Numeric" parent="@style/PadButtonStyle">
+        <item name="android:textSize">23.0sp</item>
+        <item name="android:layout_margin">4.0dip</item>
+    </style>
+    <style name="EqualsMultiButton">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="PadButtonStyle.Operator" parent="@style/PadButtonStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">4.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:layout_marginBottom">4.0dip</item>
+    </style>
+    <style name="PadButtonStyle.Operator.Text" parent="@style/PadButtonStyle.Operator">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="PadLayoutStyle.Advanced" parent="@style/PadLayoutStyle">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:rowCount">4</item>
+        <item name="android:columnCount">4</item>
+    </style>
+    <style name="PadLayoutStyle.Hex" parent="@style/PadLayoutStyle.Advanced">
+        <item name="android:rowCount">3</item>
+        <item name="android:columnCount">3</item>
+    </style>
+    <style name="PadLayoutStyle.Matrix" parent="@style/PadLayoutStyle.Advanced" />
+    <style name="PadLayoutStyle.Numeric" parent="@style/PadLayoutStyle">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">240.0</item>
+    </style>
+    <style name="PadLayoutStyle.Operator" parent="@style/PadLayoutStyle">
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">144.0</item>
+    </style>
+    <style name="PadLayoutStyle.Card" parent="@style/PadLayoutStyle">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">208.0</item>
+    </style>
+</resources>
