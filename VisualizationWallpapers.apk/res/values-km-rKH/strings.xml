@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">រូបភាព​មើល​ឃើញ</string>
-    <string name="wallpaper_vis2">ទម្រង់​រលក</string>
-    <string name="wallpaper_vis3">វិសាលគម</string>
-    <string name="wallpaper_vis4">ម៉ែត្រ Vu</string>
-    <string name="wallpaper_vis5">ច្រើន</string>
-    <string name="wallpapers">ផ្ទាំង​រូបភាព​មើល​ឃើញ​តន្ត្រី</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">សញ្ញា​រលក​សំឡេង​នៃ​បទ​តន្ត្រី​ដែល​ចាក់​បច្ចុប្បន្ន។​</string>
-    <string name="vis3_desc">បង្ហាញ​វិសាល​គម​ប្រេកង់​នៃ​បទ​តន្ត្រី​ដែល​ចាក់​បច្ចុប្បន្ន។</string>
-    <string name="vis4_desc">ក្លែង​ធ្វើ​ម៉ែត្រ​សំឡេង​អាណាឡូក។</string>
-    <string name="vis5_desc">ឃើញ​តន្ត្រី​ទាំង​អស់​រួម​គ្នា ពាក់ព័ន្ធ​នឹង 3D យឺតៗ។</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">សញ្ញា​រលក​សំឡេង​នៃ​បទ​តន្ត្រី​ដែល​ចាក់​បច្ចុប្បន្ន។​</string>
+  <string name="vis3_desc">បង្ហាញ​វិសាល​គម​ប្រេកង់​នៃ​បទ​តន្ត្រី​ដែល​ចាក់​បច្ចុប្បន្ន។</string>
+  <string name="vis4_desc">ក្លែង​ធ្វើ​ម៉ែត្រ​សំឡេង​អាណាឡូក។</string>
+  <string name="vis5_desc">ឃើញ​តន្ត្រី​ទាំង​អស់​រួម​គ្នា ពាក់ព័ន្ធ​នឹង 3D យឺតៗ។</string>
+  <string name="wallpaper_vis1">រូបភាព​មើល​ឃើញ</string>
+  <string name="wallpaper_vis2">ទម្រង់​រលក</string>
+  <string name="wallpaper_vis3">វិសាលគម</string>
+  <string name="wallpaper_vis4">ម៉ែត្រ Vu</string>
+  <string name="wallpaper_vis5">ច្រើន</string>
+  <string name="wallpapers">ផ្ទាំង​រូបភាព​មើល​ឃើញ​តន្ត្រី</string>
 </resources>

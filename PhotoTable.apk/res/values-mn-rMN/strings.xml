@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Фото дэлгэц хамгаалагч</string>
-    <string name="table_screensaver_name">Фото хүснэгт</string>
-    <string name="flipper_screensaver_name">Зургийн Жааз</string>
-    <string name="posts_album_name">Нийтлэлийн зургууд</string>
-    <string name="unknown_album_name">Нэрлэгдээгүй Цомог</string>
-    <string name="stock_photo_album_name">Хадгалагдсан Зургууд</string>
-    <string name="local_source_name">Төхөөрөмж дээрх зургууд</string>
-    <string name="need_to_configure">Фото сэлгэгдээгүй байна.</string>
-    <string name="photodream_select_all">Бүгдийг сонгох</string>
-    <string name="photodream_select_none">Бүгдийг сонгохгүй</string>
-    <string name="no_photos">Төхөөрөмж дээр зураг байхгүй байна.</string>
+  <string name="app_name">Фото дэлгэц хамгаалагч</string>
+  <string name="flipper_screensaver_name">Зургийн Жааз</string>
+  <string name="local_source_name">Төхөөрөмж дээрх зургууд</string>
+  <string name="need_to_configure">Фото сэлгэгдээгүй байна.</string>
+  <string name="no_photos">Төхөөрөмж дээр зураг байхгүй байна.</string>
+  <string name="photodream_select_all">Бүгдийг сонгох</string>
+  <string name="photodream_select_none">Бүгдийг сонгохгүй</string>
+  <string name="posts_album_name">Нийтлэлийн зургууд</string>
+  <string name="stock_photo_album_name">Хадгалагдсан Зургууд</string>
+  <string name="table_screensaver_name">Фото хүснэгт</string>
+  <string name="unknown_album_name">Нэрлэгдээгүй Цомог</string>
 </resources>

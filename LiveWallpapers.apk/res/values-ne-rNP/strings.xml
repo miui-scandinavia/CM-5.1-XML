@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">एन्ड्रोइड लाइभ ‍वालपेपर</string>
-    <string name="wallpaper_walkaround">बाट हेर्नुहोस्</string>
-    <string name="wallpaper_walkaround_author">गुगल</string>
-    <string name="wallpaper_walkaround_desc">तपाईँको फोनबाट हेर्नुहोस् र दुर्घटनाको जोखिम नलिइ चारैतिर हिँड्नुहोस्।</string>
-    <string name="wallpaper_clock">ध्रुवीय घडी</string>
-    <string name="wallpaper_clock_author">गुगल</string>
-    <string name="wallpaper_clock_desc">घडीको दिशाको चापमा मिति र सयम देखाउँछ: महिना, दिन, घन्टा, मिनेट र सेकेन्ड</string>
-    <string name="clock_settings">ध्रुवीय घडी सेटिङ</string>
-    <string name="show_seconds">सेकन्ड दिखाउनुहोस्</string>
-    <string name="variable_line_width">औँठीको चौडाइ बदल्नुहोस्</string>
-    <string name="palette">रङ्ग प्यालेट</string>
-    <string name="palette_gray">फलाम</string>
-    <string name="palette_violet">मध्यरात</string>
-    <string name="palette_matrix">हरियो स्क्रिन</string>
-    <string name="palette_white_c">ध्रुवीय भालु (गतिशील)</string>
-    <string name="palette_black_c">ब्लाक होल (गतिशील)</string>
-    <string name="palette_halloween">फर्सी पाइ</string>
-    <string name="palette_zenburn">विदेशी फलको सलाद</string>
-    <string name="palette_oceanic">नीलो लेजर</string>
+  <string name="clock_settings">ध्रुवीय घडी सेटिङ</string>
+  <string name="palette">रङ्ग प्यालेट</string>
+  <string name="palette_black_c">ब्लाक होल (गतिशील)</string>
+  <string name="palette_gray">फलाम</string>
+  <string name="palette_halloween">फर्सी पाइ</string>
+  <string name="palette_matrix">हरियो स्क्रिन</string>
+  <string name="palette_oceanic">नीलो लेजर</string>
+  <string name="palette_violet">मध्यरात</string>
+  <string name="palette_white_c">ध्रुवीय भालु (गतिशील)</string>
+  <string name="palette_zenburn">विदेशी फलको सलाद</string>
+  <string name="show_seconds">सेकन्ड दिखाउनुहोस्</string>
+  <string name="variable_line_width">औँठीको चौडाइ बदल्नुहोस्</string>
+  <string name="wallpaper_clock">ध्रुवीय घडी</string>
+  <string name="wallpaper_clock_author">गुगल</string>
+  <string name="wallpaper_clock_desc">घडीको दिशाको चापमा मिति र सयम देखाउँछ: महिना, दिन, घन्टा, मिनेट र सेकेन्ड</string>
+  <string name="wallpaper_walkaround">बाट हेर्नुहोस्</string>
+  <string name="wallpaper_walkaround_author">गुगल</string>
+  <string name="wallpaper_walkaround_desc">तपाईँको फोनबाट हेर्नुहोस् र दुर्घटनाको जोखिम नलिइ चारैतिर हिँड्नुहोस्।</string>
+  <string name="wallpapers">एन्ड्रोइड लाइभ ‍वालपेपर</string>
 </resources>

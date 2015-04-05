@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">Visualiseerija</string>
-    <string name="wallpaper_vis2">Helilaine</string>
-    <string name="wallpaper_vis3">Spekter</string>
-    <string name="wallpaper_vis4">VU-mõõtja</string>
-    <string name="wallpaper_vis5">Palju</string>
-    <string name="wallpapers">Muusika visualiseerimise taustapildid</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Joonistab praegu esitusel oleva muusikapala helilaine.</string>
-    <string name="vis3_desc">Kuvab praegu esitusel oleva muusikapala sagedusspektri.</string>
-    <string name="vis4_desc">Simuleerib analooghelimõõtjat</string>
-    <string name="vis5_desc">Kõik muusika visualiseerimised koos, pöörlevad aeglaselt 3D-s</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">Joonistab praegu esitusel oleva muusikapala helilaine.</string>
+  <string name="vis3_desc">Kuvab praegu esitusel oleva muusikapala sagedusspektri.</string>
+  <string name="vis4_desc">Simuleerib analooghelimõõtjat</string>
+  <string name="vis5_desc">Kõik muusika visualiseerimised koos, pöörlevad aeglaselt 3D-s</string>
+  <string name="wallpaper_vis1">Visualiseerija</string>
+  <string name="wallpaper_vis2">Helilaine</string>
+  <string name="wallpaper_vis3">Spekter</string>
+  <string name="wallpaper_vis4">VU-mõõtja</string>
+  <string name="wallpaper_vis5">Palju</string>
+  <string name="wallpapers">Muusika visualiseerimise taustapildid</string>
 </resources>

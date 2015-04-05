@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Android ప్రదర్శిత వాల్‌పేపర్‌లు</string>
-    <string name="wallpaper_walkaround">ఇందులో చూడండి</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">మీ ఫోన్ ద్వారా చూడండి మరియు ప్రమాదాలు సంభవించే అవకాశం లేకుండా ముందుకు సాగండి.</string>
-    <string name="wallpaper_clock">పోలార్ గడియారం</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">తేదీ మరియు సమయాన్ని సవ్యదిశ చాపాల వలె ప్రదర్శిస్తుంది: నెల, రోజు, గంట, నిమిషం మరియు సెకను.</string>
-    <string name="clock_settings">పోలార్ గడియారం సెట్టింగ్‌లు</string>
-    <string name="show_seconds">సెకన్లను చూపు</string>
-    <string name="variable_line_width">రింగ్ వెడల్పులను మార్చు</string>
-    <string name="palette">రంగు ఫలకం</string>
-    <string name="palette_gray">ఇనుము</string>
-    <string name="palette_violet">అర్ధరాత్రి</string>
-    <string name="palette_matrix">ఆకుపచ్చ స్క్రీన్</string>
-    <string name="palette_white_c">ధృవపు ఎలుగుబంటి (డైనమిక్)</string>
-    <string name="palette_black_c">బ్లాక్ హోల్ (డైనమిక్)</string>
-    <string name="palette_halloween">పంప్‌కిన్ పై</string>
-    <string name="palette_zenburn">ఏలియన్ ఫ్రూట్ సలాడ్</string>
-    <string name="palette_oceanic">నీలం లేజర్</string>
+  <string name="clock_settings">పోలార్ గడియారం సెట్టింగ్‌లు</string>
+  <string name="palette">రంగు ఫలకం</string>
+  <string name="palette_black_c">బ్లాక్ హోల్ (డైనమిక్)</string>
+  <string name="palette_gray">ఇనుము</string>
+  <string name="palette_halloween">పంప్‌కిన్ పై</string>
+  <string name="palette_matrix">ఆకుపచ్చ స్క్రీన్</string>
+  <string name="palette_oceanic">నీలం లేజర్</string>
+  <string name="palette_violet">అర్ధరాత్రి</string>
+  <string name="palette_white_c">ధృవపు ఎలుగుబంటి (డైనమిక్)</string>
+  <string name="palette_zenburn">ఏలియన్ ఫ్రూట్ సలాడ్</string>
+  <string name="show_seconds">సెకన్లను చూపు</string>
+  <string name="variable_line_width">రింగ్ వెడల్పులను మార్చు</string>
+  <string name="wallpaper_clock">పోలార్ గడియారం</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">తేదీ మరియు సమయాన్ని సవ్యదిశ చాపాల వలె ప్రదర్శిస్తుంది: నెల, రోజు, గంట, నిమిషం మరియు సెకను.</string>
+  <string name="wallpaper_walkaround">ఇందులో చూడండి</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">మీ ఫోన్ ద్వారా చూడండి మరియు ప్రమాదాలు సంభవించే అవకాశం లేకుండా ముందుకు సాగండి.</string>
+  <string name="wallpapers">Android ప్రదర్శిత వాల్‌పేపర్‌లు</string>
 </resources>

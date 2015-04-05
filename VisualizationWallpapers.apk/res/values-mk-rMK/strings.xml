@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">Визуализатор</string>
-    <string name="wallpaper_vis2">Брановидна форма</string>
-    <string name="wallpaper_vis3">Спектар</string>
-    <string name="wallpaper_vis4">Мерач на јачина на звук</string>
-    <string name="wallpaper_vis5">Многу</string>
-    <string name="wallpapers">Тапети со визуелизација на музика</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Го прикажува звучниот бран на која било песна што се изведува во моментот.</string>
-    <string name="vis3_desc">Го прикажува фреквенцискиот спектар на која било песна што се изведува во моментот.</string>
-    <string name="vis4_desc">Симулира аналоген мерач на звук.</string>
-    <string name="vis5_desc">Сите музички визуализации заедно; се вртат полека во 3Д.</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">Го прикажува звучниот бран на која било песна што се изведува во моментот.</string>
+  <string name="vis3_desc">Го прикажува фреквенцискиот спектар на која било песна што се изведува во моментот.</string>
+  <string name="vis4_desc">Симулира аналоген мерач на звук.</string>
+  <string name="vis5_desc">Сите музички визуализации заедно; се вртат полека во 3Д.</string>
+  <string name="wallpaper_vis1">Визуализатор</string>
+  <string name="wallpaper_vis2">Брановидна форма</string>
+  <string name="wallpaper_vis3">Спектар</string>
+  <string name="wallpaper_vis4">Мерач на јачина на звук</string>
+  <string name="wallpaper_vis5">Многу</string>
+  <string name="wallpapers">Тапети со визуелизација на музика</string>
 </resources>

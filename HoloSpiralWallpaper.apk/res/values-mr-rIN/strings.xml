@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_label">पूर्ण नागमोडी</string>
-    <string name="wallpaper_author">Google</string>
-    <string name="wallpaper_description">पूर्ण थीम असलेला नागमोडी वॉलपेपर</string>
+  <string name="wallpaper_author">Google</string>
+  <string name="wallpaper_description">पूर्ण थीम असलेला नागमोडी वॉलपेपर</string>
+  <string name="wallpaper_label">पूर्ण नागमोडी</string>
 </resources>

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Android horma-paper dinamikoak</string>
-    <string name="wallpaper_walkaround">Ikusi telefonoan zehar</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Ikusi telefonoan zehar eta ibili alde batetik bestera istripurik gertatzeko arriskurik gabe.</string>
-    <string name="wallpaper_clock">Erloju polarra</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Data eta ordua erlojuaren noranzkoko arku gisa erakusten ditu: hilabetea, eguna, ordua, minutua eta segundoa.</string>
-    <string name="clock_settings">Erloju polarraren ezarpenak</string>
-    <string name="show_seconds">Erakutsi segundoak</string>
-    <string name="variable_line_width">Aldatu eraztunen zabalera</string>
-    <string name="palette">Kolore-paleta</string>
-    <string name="palette_gray">Burdina</string>
-    <string name="palette_violet">Gauerdia</string>
-    <string name="palette_matrix">Kroma</string>
-    <string name="palette_white_c">Hartz zuria (dinamikoa)</string>
-    <string name="palette_black_c">Zulo beltza (dinamikoa)</string>
-    <string name="palette_halloween">Kuia-pastela</string>
-    <string name="palette_zenburn">Mazedonia estralurtarra</string>
-    <string name="palette_oceanic">Laser urdina</string>
+  <string name="clock_settings">Erloju polarraren ezarpenak</string>
+  <string name="palette">Kolore-paleta</string>
+  <string name="palette_black_c">Zulo beltza (dinamikoa)</string>
+  <string name="palette_gray">Burdina</string>
+  <string name="palette_halloween">Kuia-pastela</string>
+  <string name="palette_matrix">Kroma</string>
+  <string name="palette_oceanic">Laser urdina</string>
+  <string name="palette_violet">Gauerdia</string>
+  <string name="palette_white_c">Hartz zuria (dinamikoa)</string>
+  <string name="palette_zenburn">Mazedonia estralurtarra</string>
+  <string name="show_seconds">Erakutsi segundoak</string>
+  <string name="variable_line_width">Aldatu eraztunen zabalera</string>
+  <string name="wallpaper_clock">Erloju polarra</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Data eta ordua erlojuaren noranzkoko arku gisa erakusten ditu: hilabetea, eguna, ordua, minutua eta segundoa.</string>
+  <string name="wallpaper_walkaround">Ikusi telefonoan zehar</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Ikusi telefonoan zehar eta ibili alde batetik bestera istripurik gertatzeko arriskurik gabe.</string>
+  <string name="wallpapers">Android horma-paper dinamikoak</string>
 </resources>

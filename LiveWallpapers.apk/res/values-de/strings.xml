@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Android Live-Hintergründe</string>
-    <string name="wallpaper_walkaround">Sucherperspektive</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Sehen Sie durch Ihr Telefon und laufen Sie ohne Unfallgefahr herum.</string>
-    <string name="wallpaper_clock">Polaruhr</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Stellt Datum und Uhrzeit als uhrförmige Bögen dar: Monat, Tag, Stunde, Minute und Sekunde.</string>
-    <string name="clock_settings">Polaruhr-Einstellungen</string>
-    <string name="show_seconds">Sekunden anzeigen</string>
-    <string name="variable_line_width">Ringweiten verändern</string>
-    <string name="palette">Farbpalette</string>
-    <string name="palette_gray">Grau</string>
-    <string name="palette_violet">Mitternacht</string>
-    <string name="palette_matrix">Grünes Display</string>
-    <string name="palette_white_c">Eisbär (dynamisch)</string>
-    <string name="palette_black_c">Schwarzes Loch (dynamisch)</string>
-    <string name="palette_halloween">Kürbiskuchen</string>
-    <string name="palette_zenburn">Exotischer Obstsalat</string>
-    <string name="palette_oceanic">Blauer Laser</string>
+  <string name="clock_settings">Polaruhr-Einstellungen</string>
+  <string name="palette">Farbpalette</string>
+  <string name="palette_black_c">Schwarzes Loch (dynamisch)</string>
+  <string name="palette_gray">Grau</string>
+  <string name="palette_halloween">Kürbiskuchen</string>
+  <string name="palette_matrix">Grünes Display</string>
+  <string name="palette_oceanic">Blauer Laser</string>
+  <string name="palette_violet">Mitternacht</string>
+  <string name="palette_white_c">Eisbär (dynamisch)</string>
+  <string name="palette_zenburn">Exotischer Obstsalat</string>
+  <string name="show_seconds">Sekunden anzeigen</string>
+  <string name="variable_line_width">Ringweiten verändern</string>
+  <string name="wallpaper_clock">Polaruhr</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Stellt Datum und Uhrzeit als uhrförmige Bögen dar: Monat, Tag, Stunde, Minute und Sekunde.</string>
+  <string name="wallpaper_walkaround">Sucherperspektive</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Sehen Sie durch Ihr Telefon und laufen Sie ohne Unfallgefahr herum.</string>
+  <string name="wallpapers">Android Live-Hintergründe</string>
 </resources>

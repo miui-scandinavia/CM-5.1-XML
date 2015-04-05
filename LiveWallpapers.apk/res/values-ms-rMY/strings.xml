@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Kertas Dinding Langsung Android</string>
-    <string name="wallpaper_walkaround">Jarang</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Lihat melalui telefon anda dan berjalan tanpa risiko kemalangan.</string>
-    <string name="wallpaper_clock">Jam kutub</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Memperlihatkan tarikh dan masa sebagai lengkok ikut jam: bulan, hari, jam, minit dan saat.</string>
-    <string name="clock_settings">Tetapan jam kutub</string>
-    <string name="show_seconds">Tunjukkan saat</string>
-    <string name="variable_line_width">Pelbagaikan lebar gelang</string>
-    <string name="palette">Palet warna</string>
-    <string name="palette_gray">Besi</string>
-    <string name="palette_violet">Tengah malam</string>
-    <string name="palette_matrix">Skrin Hijau</string>
-    <string name="palette_white_c">Beruang Polar (dinamik)</string>
-    <string name="palette_black_c">Lohong Hitam (dinamik)</string>
-    <string name="palette_halloween">Pai Labu</string>
-    <string name="palette_zenburn">Salad Buah-buahan Makhluk Asing</string>
-    <string name="palette_oceanic">Laser Biru</string>
+  <string name="clock_settings">Tetapan jam kutub</string>
+  <string name="palette">Palet warna</string>
+  <string name="palette_black_c">Lohong Hitam (dinamik)</string>
+  <string name="palette_gray">Besi</string>
+  <string name="palette_halloween">Pai Labu</string>
+  <string name="palette_matrix">Skrin Hijau</string>
+  <string name="palette_oceanic">Laser Biru</string>
+  <string name="palette_violet">Tengah malam</string>
+  <string name="palette_white_c">Beruang Polar (dinamik)</string>
+  <string name="palette_zenburn">Salad Buah-buahan Makhluk Asing</string>
+  <string name="show_seconds">Tunjukkan saat</string>
+  <string name="variable_line_width">Pelbagaikan lebar gelang</string>
+  <string name="wallpaper_clock">Jam kutub</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Memperlihatkan tarikh dan masa sebagai lengkok ikut jam: bulan, hari, jam, minit dan saat.</string>
+  <string name="wallpaper_walkaround">Jarang</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Lihat melalui telefon anda dan berjalan tanpa risiko kemalangan.</string>
+  <string name="wallpapers">Kertas Dinding Langsung Android</string>
 </resources>

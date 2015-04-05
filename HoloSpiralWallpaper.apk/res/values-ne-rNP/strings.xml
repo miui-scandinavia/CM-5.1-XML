@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_label">होलो घुम्रिएको</string>
-    <string name="wallpaper_author">गुगल</string>
-    <string name="wallpaper_description">होलो थिम्ड घुम्रिएको ‍‍वालपेपर</string>
+  <string name="wallpaper_author">गुगल</string>
+  <string name="wallpaper_description">होलो थिम्ड घुम्रिएको ‍‍वालपेपर</string>
+  <string name="wallpaper_label">होलो घुम्रिएको</string>
 </resources>

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Izilondolozi zesikrini zesithombe</string>
-    <string name="table_screensaver_name">Ithebula lesithombe</string>
-    <string name="flipper_screensaver_name">Uzimele wesithombe</string>
-    <string name="posts_album_name">Izithombe ezisuka kokuthunyelwe</string>
-    <string name="unknown_album_name">I-albhamu engaqanjiwe</string>
-    <string name="stock_photo_album_name">Izithombe zesitoko</string>
-    <string name="local_source_name">Izithombe kudivayisi</string>
-    <string name="need_to_configure">Azikho izithombe ezikhethiwe.</string>
-    <string name="photodream_select_all">Khetha konke</string>
-    <string name="photodream_select_none">Ungakhethi konke</string>
-    <string name="no_photos">Azikho izithombe kudivayisi.</string>
+  <string name="app_name">Izilondolozi zesikrini zesithombe</string>
+  <string name="flipper_screensaver_name">Uzimele wesithombe</string>
+  <string name="local_source_name">Izithombe kudivayisi</string>
+  <string name="need_to_configure">Azikho izithombe ezikhethiwe.</string>
+  <string name="no_photos">Azikho izithombe kudivayisi.</string>
+  <string name="photodream_select_all">Khetha konke</string>
+  <string name="photodream_select_none">Ungakhethi konke</string>
+  <string name="posts_album_name">Izithombe ezisuka kokuthunyelwe</string>
+  <string name="stock_photo_album_name">Izithombe zesitoko</string>
+  <string name="table_screensaver_name">Ithebula lesithombe</string>
+  <string name="unknown_album_name">I-albhamu engaqanjiwe</string>
 </resources>

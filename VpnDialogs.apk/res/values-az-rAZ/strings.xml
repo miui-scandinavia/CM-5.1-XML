@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="prompt">VPN bağlantısı yaratmaq üçün %s cəhdləri.</string>
-    <string name="warning">Bunu həyata keçirməklə, siz tətbiqə bütün şəbəkə hərəkətinə qarışmağa icazə verirsiniz. <b> Tətbiqə güvənmirsizsə qəbul etməyin. </b> Əks halda, datanızın təhlükəli proqramlar tərəfindən ələ keçirilmə riskini alırsınız.</string>
-    <string name="legacy_title">VPN qoşuludur</string>
-    <string name="configure">Konfiqurasiya edin</string>
-    <string name="disconnect">Əlaqəni kəs</string>
-    <string name="session">Sessiya:</string>
-    <string name="duration">Müddət:</string>
-    <string name="data_transmitted">Göndərilən:</string>
-    <string name="data_received">Qəbul edilən:</string>
-    <string name="data_value_format">%1$s bayt / %2$s paket</string>
-    <string name="accept">Bu tətbiqə güvənirəm.</string>
+  <string name="accept">Bu tətbiqə güvənirəm.</string>
+  <string name="configure">Konfiqurasiya edin</string>
+  <string name="data_received">Qəbul edilən:</string>
+  <string name="data_transmitted">Göndərilən:</string>
+  <string name="data_value_format">%1$s bayt / %2$s paket</string>
+  <string name="disconnect">Əlaqəni kəs</string>
+  <string name="duration">Müddət:</string>
+  <string name="legacy_title">VPN qoşuludur</string>
+  <string name="prompt">VPN bağlantısı yaratmaq üçün %s cəhdləri.</string>
+  <string name="session">Sessiya:</string>
+  <string name="warning">Bunu həyata keçirməklə, siz tətbiqə bütün şəbəkə hərəkətinə qarışmağa icazə verirsiniz. &lt;b&gt; T&amp;#601;tbiq&amp;#601; g&amp;#252;v&amp;#601;nmirsizs&amp;#601; q&amp;#601;bul etm&amp;#601;yin. &lt;/b&gt; &amp;#399;ks halda, datan&amp;#305;z&amp;#305;n t&amp;#601;hl&amp;#252;k&amp;#601;li proqramlar t&amp;#601;r&amp;#601;find&amp;#601;n &amp;#601;l&amp;#601; ke&amp;#231;irilm&amp;#601; riskini al&amp;#305;rs&amp;#305;n&amp;#305;z.</string>
 </resources>

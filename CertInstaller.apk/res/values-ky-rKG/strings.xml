@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="pick_file_title">Сертификат тандаңыз</string>
-    <string name="pkcs12_password_dialog_title">Сертификатты алып чыгуу</string>
-    <string name="extracting_pkcs12">Чыгарылууда…</string>
-    <string name="credential_password">Сертификаттарды чыгаруу үчүн сырсөз териңиз.</string>
-    <string name="password_error">Туура сырсөздү териңиз.</string>
-    <string name="password_empty_error">Сырсөздү териңиз.</string>
-    <string name="name_empty_error">Аталышын териңиз.</string>
-    <string name="name_char_error">Бир гана тамгалар жана сандарды камтыган ат жазыңыз.</string>
-    <string name="storage_error">Сертификат сакталбады. Кайра аракеттениш үчүн ОК басыңыз.</string>
-    <string name="unable_to_save_cert">Сертификат сакталбады. Сертификат сактагыч өчүрүлгөн же ал туура орнотулган эмес.</string>
-    <string name="cert_too_large_error">Орнотуу мүмкүн болгон жок, анткени сертификат өтө чоң.</string>
-    <string name="cert_missing_error">Орнотуу мүмкүн болгон жок, анткени сертификат файлы табылбады.</string>
-    <string name="cert_read_error">Орнотуу мүмкүн болгон жок, анткени сертификат файлын окуу мүмкүн эмес.</string>
-    <string name="sdcard_not_present">SD-карта табылган жок.</string>
-    <string name="only_primary_user_allowed">Сертификаттарды бул түзмөктүн ээси гана орното алат.</string>
-    <string name="credential_usage_label">Сертификат кийинки менен колдонулат:</string>
+  <string name="cert_missing_error">Орнотуу мүмкүн болгон жок, анткени сертификат файлы табылбады.</string>
+  <string name="cert_read_error">Орнотуу мүмкүн болгон жок, анткени сертификат файлын окуу мүмкүн эмес.</string>
+  <string name="cert_too_large_error">Орнотуу мүмкүн болгон жок, анткени сертификат өтө чоң.</string>
+  <string name="credential_password">Сертификаттарды чыгаруу үчүн сырсөз териңиз.</string>
+  <string name="credential_usage_label">Сертификат кийинки менен колдонулат:</string>
+  <string name="extracting_pkcs12">Чыгарылууда…</string>
+  <string name="name_char_error">Бир гана тамгалар жана сандарды камтыган ат жазыңыз.</string>
+  <string name="name_empty_error">Аталышын териңиз.</string>
+  <string name="only_primary_user_allowed">Сертификаттарды бул түзмөктүн ээси гана орното алат.</string>
+  <string name="password_empty_error">Сырсөздү териңиз.</string>
+  <string name="password_error">Туура сырсөздү териңиз.</string>
+  <string name="pick_file_title">Сертификат тандаңыз</string>
+  <string name="pkcs12_password_dialog_title">Сертификатты алып чыгуу</string>
+  <string name="sdcard_not_present">SD-карта табылган жок.</string>
+  <string name="storage_error">Сертификат сакталбады. Кайра аракеттениш үчүн ОК басыңыз.</string>
+  <string name="unable_to_save_cert">Сертификат сакталбады. Сертификат сактагыч өчүрүлгөн же ал туура орнотулган эмес.</string>
 </resources>

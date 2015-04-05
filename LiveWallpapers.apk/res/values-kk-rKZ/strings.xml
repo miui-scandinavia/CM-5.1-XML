@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Android анимациялық артқы фондары</string>
-    <string name="wallpaper_walkaround">Алдын ала шолу</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Телефон арқылы алдын ала шолу жасап, апат қатерлерінен жасқанбай жүру.</string>
-    <string name="wallpaper_clock">Полярлық сағат</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Күн мен уақытты сағат тілімен бойлайтын иін ретінде көрсетеді: ай, күн, сағат, минут және секунд.</string>
-    <string name="clock_settings">Полярлық сағат параметрлері</string>
-    <string name="show_seconds">Секундтарды көрсету</string>
-    <string name="variable_line_width">Жүзік ендерін түрлендіру</string>
-    <string name="palette">Түстер</string>
-    <string name="palette_gray">Темір</string>
-    <string name="palette_violet">Түн ортасы</string>
-    <string name="palette_matrix">Жасыл экран</string>
-    <string name="palette_white_c">Ақ аю (динамикалық)</string>
-    <string name="palette_black_c">Қара жырақ (динамикалық)</string>
-    <string name="palette_halloween">Асқабақ бәліші</string>
-    <string name="palette_zenburn">Бөтен жеміс салаты</string>
-    <string name="palette_oceanic">Көк лазер</string>
+  <string name="clock_settings">Полярлық сағат параметрлері</string>
+  <string name="palette">Түстер</string>
+  <string name="palette_black_c">Қара жырақ (динамикалық)</string>
+  <string name="palette_gray">Темір</string>
+  <string name="palette_halloween">Асқабақ бәліші</string>
+  <string name="palette_matrix">Жасыл экран</string>
+  <string name="palette_oceanic">Көк лазер</string>
+  <string name="palette_violet">Түн ортасы</string>
+  <string name="palette_white_c">Ақ аю (динамикалық)</string>
+  <string name="palette_zenburn">Бөтен жеміс салаты</string>
+  <string name="show_seconds">Секундтарды көрсету</string>
+  <string name="variable_line_width">Жүзік ендерін түрлендіру</string>
+  <string name="wallpaper_clock">Полярлық сағат</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Күн мен уақытты сағат тілімен бойлайтын иін ретінде көрсетеді: ай, күн, сағат, минут және секунд.</string>
+  <string name="wallpaper_walkaround">Алдын ала шолу</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Телефон арқылы алдын ала шолу жасап, апат қатерлерінен жасқанбай жүру.</string>
+  <string name="wallpapers">Android анимациялық артқы фондары</string>
 </resources>

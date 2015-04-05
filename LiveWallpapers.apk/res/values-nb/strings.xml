@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Animerte bakgrunner for Android</string>
-    <string name="wallpaper_walkaround">Gjennomsiktig</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Se gjennom telefonen og gå rundt uten å risikere uhell.</string>
-    <string name="wallpaper_clock">Polarklokke</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Viser dato og klokkeslett som buer med urviseren: måned, dag, time, minutt og sekund</string>
-    <string name="clock_settings">Polarklokkeinnstillinger</string>
-    <string name="show_seconds">Vis sekunder</string>
-    <string name="variable_line_width">Varier ringstørrelsen</string>
-    <string name="palette">Fargepalett</string>
-    <string name="palette_gray">Jern</string>
-    <string name="palette_violet">Midnatt</string>
-    <string name="palette_matrix">Grønn skjerm</string>
-    <string name="palette_white_c">Isbjørn (dynamisk)</string>
-    <string name="palette_black_c">Svart hull (dynamisk)</string>
-    <string name="palette_halloween">Gresskarpai</string>
-    <string name="palette_zenburn">Fruktsalat fra rommet</string>
-    <string name="palette_oceanic">Blå laser</string>
+  <string name="clock_settings">Polarklokkeinnstillinger</string>
+  <string name="palette">Fargepalett</string>
+  <string name="palette_black_c">Svart hull (dynamisk)</string>
+  <string name="palette_gray">Jern</string>
+  <string name="palette_halloween">Gresskarpai</string>
+  <string name="palette_matrix">Grønn skjerm</string>
+  <string name="palette_oceanic">Blå laser</string>
+  <string name="palette_violet">Midnatt</string>
+  <string name="palette_white_c">Isbjørn (dynamisk)</string>
+  <string name="palette_zenburn">Fruktsalat fra rommet</string>
+  <string name="show_seconds">Vis sekunder</string>
+  <string name="variable_line_width">Varier ringstørrelsen</string>
+  <string name="wallpaper_clock">Polarklokke</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Viser dato og klokkeslett som buer med urviseren: måned, dag, time, minutt og sekund</string>
+  <string name="wallpaper_walkaround">Gjennomsiktig</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Se gjennom telefonen og gå rundt uten å risikere uhell.</string>
+  <string name="wallpapers">Animerte bakgrunner for Android</string>
 </resources>

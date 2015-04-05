@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_label">പൂർണ്ണമായും വൃത്താകൃതിയിലുള്ളത്</string>
-    <string name="wallpaper_author">Google</string>
-    <string name="wallpaper_description">പൂർണ്ണമായും വൃത്താകൃതി തീമായ വാൾപേപ്പർ</string>
+  <string name="wallpaper_author">Google</string>
+  <string name="wallpaper_description">പൂർണ്ണമായും വൃത്താകൃതി തീമായ വാൾപേപ്പർ</string>
+  <string name="wallpaper_label">പൂർണ്ണമായും വൃത്താകൃതിയിലുള്ളത്</string>
 </resources>

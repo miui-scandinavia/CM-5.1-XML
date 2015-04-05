@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">[Åñðŕöîð ĻîVé Ŵåļļþåþéŕš one two three]</string>
-    <string name="wallpaper_walkaround">[Šéé Ţĥŕöûĝĥ one two]</string>
-    <string name="wallpaper_walkaround_author">[Ĝööĝļé one two]</string>
-    <string name="wallpaper_walkaround_desc">[ Šéé ţĥŕöûĝĥ ýöûŕ þĥöñé åñð ŵåļķ åŕöûñð ŵîţĥöûţ ŕîšķîñĝ åççîðéñţš. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
-    <string name="wallpaper_clock">[Þöļåŕ çļöçķ one two]</string>
-    <string name="wallpaper_clock_author">[Ĝööĝļé one two]</string>
-    <string name="wallpaper_clock_desc">[ Þŕéšéñţš ţĥé ðåţé åñð ţîḿé åš çļöçķŵîšé åŕçš: ḿöñţĥ, ðåý, ĥöûŕ, ḿîñûţé, åñð šéçöñð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
-    <string name="clock_settings">[Þöļåŕ çļöçķ šéţţîñĝš one two three]</string>
-    <string name="show_seconds">[Šĥöŵ šéçöñðš one two]</string>
-    <string name="variable_line_width">[νåŕý ŕîñĝ ŵîðţĥš one two three]</string>
-    <string name="palette">[Çöļöŕ þåļéţţé one two three]</string>
-    <string name="palette_gray">[Îŕöñ one]</string>
-    <string name="palette_violet">[Ḿîðñîĝĥţ one two]</string>
-    <string name="palette_matrix">[Ĝŕééñ Šçŕééñ one two]</string>
-    <string name="palette_white_c">[Þöļåŕ βéåŕ (ðýñåḿîç) one two three]</string>
-    <string name="palette_black_c">[βļåçķ Ĥöļé (ðýñåḿîç) one two three]</string>
-    <string name="palette_halloween">[Þûḿþķîñ Þîé one two]</string>
-    <string name="palette_zenburn">[Åļîéñ Fŕûîţ Šåļåð one two three]</string>
-    <string name="palette_oceanic">[βļûé Ļåšéŕ one two]</string>
+  <string name="clock_settings">[Þöļåŕ çļöçķ šéţţîñĝš one two three]</string>
+  <string name="palette">[Çöļöŕ þåļéţţé one two three]</string>
+  <string name="palette_black_c">[βļåçķ Ĥöļé (ðýñåḿîç) one two three]</string>
+  <string name="palette_gray">[Îŕöñ one]</string>
+  <string name="palette_halloween">[Þûḿþķîñ Þîé one two]</string>
+  <string name="palette_matrix">[Ĝŕééñ Šçŕééñ one two]</string>
+  <string name="palette_oceanic">[βļûé Ļåšéŕ one two]</string>
+  <string name="palette_violet">[Ḿîðñîĝĥţ one two]</string>
+  <string name="palette_white_c">[Þöļåŕ βéåŕ (ðýñåḿîç) one two three]</string>
+  <string name="palette_zenburn">[Åļîéñ Fŕûîţ Šåļåð one two three]</string>
+  <string name="show_seconds">[Šĥöŵ šéçöñðš one two]</string>
+  <string name="variable_line_width">[νåŕý ŕîñĝ ŵîðţĥš one two three]</string>
+  <string name="wallpaper_clock">[Þöļåŕ çļöçķ one two]</string>
+  <string name="wallpaper_clock_author">[Ĝööĝļé one two]</string>
+  <string name="wallpaper_clock_desc">[ Þŕéšéñţš ţĥé ðåţé åñð ţîḿé åš çļöçķŵîšé åŕçš: ḿöñţĥ, ðåý, ĥöûŕ, ḿîñûţé, åñð šéçöñð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+  <string name="wallpaper_walkaround">[Šéé Ţĥŕöûĝĥ one two]</string>
+  <string name="wallpaper_walkaround_author">[Ĝööĝļé one two]</string>
+  <string name="wallpaper_walkaround_desc">[ Šéé ţĥŕöûĝĥ ýöûŕ þĥöñé åñð ŵåļķ åŕöûñð ŵîţĥöûţ ŕîšķîñĝ åççîðéñţš. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+  <string name="wallpapers">[Åñðŕöîð ĻîVé Ŵåļļþåþéŕš one two three]</string>
 </resources>

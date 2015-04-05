@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Hình nền Động của Android</string>
-    <string name="wallpaper_walkaround">Trong suốt</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Xem qua điện thoại của bạn và duyệt qua mà không gặp rủi ro.</string>
-    <string name="wallpaper_clock">Đồng hồ có cực</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Hiển thị ngày và giờ dưới dạng vòng cung theo chiều kim đồng hồ: tháng, ngày, giờ, phút và giây.</string>
-    <string name="clock_settings">Cài đặt đồng hồ có cực</string>
-    <string name="show_seconds">Hiển thị giây</string>
-    <string name="variable_line_width">Thay đổi độ rộng của vòng</string>
-    <string name="palette">Bảng màu</string>
-    <string name="palette_gray">Sắt</string>
-    <string name="palette_violet">Nửa đêm</string>
-    <string name="palette_matrix">Màn hình Màu lục</string>
-    <string name="palette_white_c">Gấu Bắc cực (động)</string>
-    <string name="palette_black_c">Lỗ Đen (động)</string>
-    <string name="palette_halloween">Bánh Bí đỏ</string>
-    <string name="palette_zenburn">Alien Fruit Salad</string>
-    <string name="palette_oceanic">La-de màu lam</string>
+  <string name="clock_settings">Cài đặt đồng hồ có cực</string>
+  <string name="palette">Bảng màu</string>
+  <string name="palette_black_c">Lỗ Đen (động)</string>
+  <string name="palette_gray">Sắt</string>
+  <string name="palette_halloween">Bánh Bí đỏ</string>
+  <string name="palette_matrix">Màn hình Màu lục</string>
+  <string name="palette_oceanic">La-de màu lam</string>
+  <string name="palette_violet">Nửa đêm</string>
+  <string name="palette_white_c">Gấu Bắc cực (động)</string>
+  <string name="palette_zenburn">Alien Fruit Salad</string>
+  <string name="show_seconds">Hiển thị giây</string>
+  <string name="variable_line_width">Thay đổi độ rộng của vòng</string>
+  <string name="wallpaper_clock">Đồng hồ có cực</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Hiển thị ngày và giờ dưới dạng vòng cung theo chiều kim đồng hồ: tháng, ngày, giờ, phút và giây.</string>
+  <string name="wallpaper_walkaround">Trong suốt</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Xem qua điện thoại của bạn và duyệt qua mà không gặp rủi ro.</string>
+  <string name="wallpapers">Hình nền Động của Android</string>
 </resources>

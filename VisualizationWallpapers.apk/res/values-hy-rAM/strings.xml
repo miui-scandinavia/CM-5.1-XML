@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">Արտացոլում</string>
-    <string name="wallpaper_vis2">Ալիքաձև</string>
-    <string name="wallpaper_vis3">Լուսապատկեր</string>
-    <string name="wallpaper_vis4">Ուլտրամանուշակագույնի չափիչ</string>
-    <string name="wallpaper_vis5">Շատ</string>
-    <string name="wallpapers">Երաժշտության արտացոլման պաստառներ</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Նկարում է ցանկացած ընթացող երաժշտության ձայնային ալիքը:</string>
-    <string name="vis3_desc">Ցույց է տալիս ընթացող ցանկացած երաժշտության հաճախականությունների լուսապատկերը:</string>
-    <string name="vis4_desc">Անալոգային ձայնային չափի կեղծում է անում:</string>
-    <string name="vis5_desc">"Երաժշտության բոլոր արտացոլումները միասին, դանդաղ հաջորդում են միմյանց  3D-ով:"</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">Նկարում է ցանկացած ընթացող երաժշտության ձայնային ալիքը:</string>
+  <string name="vis3_desc">Ցույց է տալիս ընթացող ցանկացած երաժշտության հաճախականությունների լուսապատկերը:</string>
+  <string name="vis4_desc">Անալոգային ձայնային չափի կեղծում է անում:</string>
+  <string name="vis5_desc">"Երաժշտության բոլոր արտացոլումները միասին, դանդաղ հաջորդում են միմյանց  3D-ով:"</string>
+  <string name="wallpaper_vis1">Արտացոլում</string>
+  <string name="wallpaper_vis2">Ալիքաձև</string>
+  <string name="wallpaper_vis3">Լուսապատկեր</string>
+  <string name="wallpaper_vis4">Ուլտրամանուշակագույնի չափիչ</string>
+  <string name="wallpaper_vis5">Շատ</string>
+  <string name="wallpapers">Երաժշտության արտացոլման պաստառներ</string>
 </resources>

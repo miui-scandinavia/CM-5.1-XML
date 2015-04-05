@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Amaphephadonga Abukhoma e-Android</string>
-    <string name="wallpaper_walkaround">Bona Ngaphakathi</string>
-    <string name="wallpaper_walkaround_author">I-Google</string>
-    <string name="wallpaper_walkaround_desc">Bona phakathi kwefoni yakho bese uhambahamba phakathi ngaphandle kokubanga izingozi.</string>
-    <string name="wallpaper_clock">Iwashi elimhlophe</string>
-    <string name="wallpaper_clock_author">I-Google</string>
-    <string name="wallpaper_clock_desc">Inikeza idethi nesikhathi njengocezu lwesikhathi lwewashi: inyanga, idethi, ihora, iminithi, nesekhondi.</string>
-    <string name="clock_settings">Izilungiselelo zewashi elimhlophe</string>
-    <string name="show_seconds">Bonisa amasekhondi</string>
-    <string name="variable_line_width">Ububanzi obuhlukahlukene besiyingi</string>
-    <string name="palette">Isiceshana sokuxuba imibala</string>
-    <string name="palette_gray">Insimbi</string>
-    <string name="palette_violet">Phakathi namabili</string>
-    <string name="palette_matrix">Isikrini esiluhlaza</string>
-    <string name="palette_white_c">Ibhere Elimhlophe (okuguqukayo)</string>
-    <string name="palette_black_c">Imbobo Emnyama (okuguqukayo)</string>
-    <string name="palette_halloween">Iphayi Yethanga</string>
-    <string name="palette_zenburn">Isaladi Yezithelo Ezihlukene</string>
-    <string name="palette_oceanic">Ileyza Eluhlaza Kwesibhakabhaka</string>
+  <string name="clock_settings">Izilungiselelo zewashi elimhlophe</string>
+  <string name="palette">Isiceshana sokuxuba imibala</string>
+  <string name="palette_black_c">Imbobo Emnyama (okuguqukayo)</string>
+  <string name="palette_gray">Insimbi</string>
+  <string name="palette_halloween">Iphayi Yethanga</string>
+  <string name="palette_matrix">Isikrini esiluhlaza</string>
+  <string name="palette_oceanic">Ileyza Eluhlaza Kwesibhakabhaka</string>
+  <string name="palette_violet">Phakathi namabili</string>
+  <string name="palette_white_c">Ibhere Elimhlophe (okuguqukayo)</string>
+  <string name="palette_zenburn">Isaladi Yezithelo Ezihlukene</string>
+  <string name="show_seconds">Bonisa amasekhondi</string>
+  <string name="variable_line_width">Ububanzi obuhlukahlukene besiyingi</string>
+  <string name="wallpaper_clock">Iwashi elimhlophe</string>
+  <string name="wallpaper_clock_author">I-Google</string>
+  <string name="wallpaper_clock_desc">Inikeza idethi nesikhathi njengocezu lwesikhathi lwewashi: inyanga, idethi, ihora, iminithi, nesekhondi.</string>
+  <string name="wallpaper_walkaround">Bona Ngaphakathi</string>
+  <string name="wallpaper_walkaround_author">I-Google</string>
+  <string name="wallpaper_walkaround_desc">Bona phakathi kwefoni yakho bese uhambahamba phakathi ngaphandle kokubanga izingozi.</string>
+  <string name="wallpapers">Amaphephadonga Abukhoma e-Android</string>
 </resources>

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">Дүрслэгч</string>
-    <string name="wallpaper_vis2">Долгионы хэлбэр</string>
-    <string name="wallpaper_vis3">Спектр</string>
-    <string name="wallpaper_vis4">VU хэмжигч</string>
-    <string name="wallpaper_vis5">Олон</string>
-    <string name="wallpapers">Хөгжим Дүрсэлсэн Ханын зураг</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Одоо тоглогдож байгаа хөгжмийн бичлэгийн дууны долгионыг зурна.</string>
-    <string name="vis3_desc">Одоо тоглогдож байгаа хөгжмийн бичлэгийн давтамжийн спектрыг харуулна.</string>
-    <string name="vis4_desc">Аналоги дууны хэмжээг дүрслэнэ.</string>
-    <string name="vis5_desc">Бүх хөгжмийн дүрслэл хамтдаа 3D-д зөөлөн эргэнэ.</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">Одоо тоглогдож байгаа хөгжмийн бичлэгийн дууны долгионыг зурна.</string>
+  <string name="vis3_desc">Одоо тоглогдож байгаа хөгжмийн бичлэгийн давтамжийн спектрыг харуулна.</string>
+  <string name="vis4_desc">Аналоги дууны хэмжээг дүрслэнэ.</string>
+  <string name="vis5_desc">Бүх хөгжмийн дүрслэл хамтдаа 3D-д зөөлөн эргэнэ.</string>
+  <string name="wallpaper_vis1">Дүрслэгч</string>
+  <string name="wallpaper_vis2">Долгионы хэлбэр</string>
+  <string name="wallpaper_vis3">Спектр</string>
+  <string name="wallpaper_vis4">VU хэмжигч</string>
+  <string name="wallpaper_vis5">Олон</string>
+  <string name="wallpapers">Хөгжим Дүрсэлсэн Ханын зураг</string>
 </resources>

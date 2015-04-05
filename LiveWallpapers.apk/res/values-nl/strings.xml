@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Interactieve achtergronden van Android</string>
-    <string name="wallpaper_walkaround">Doorzichtig</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Kijk door uw telefoon heen en loop rond zonder te vallen.</string>
-    <string name="wallpaper_clock">Bogenklok</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Geeft de datum en tijd weer op bogen die met de wijzer van de klok meedraaien: maand, dag, uur, minuut en seconde.</string>
-    <string name="clock_settings">Instellingen voor bogenklok</string>
-    <string name="show_seconds">Seconden weergeven</string>
-    <string name="variable_line_width">Variabele breedtes</string>
-    <string name="palette">Kleurpalet</string>
-    <string name="palette_gray">IJzer</string>
-    <string name="palette_violet">Middernacht</string>
-    <string name="palette_matrix">Groen scherm</string>
-    <string name="palette_white_c">IJsbeer (dynamisch)</string>
-    <string name="palette_black_c">Zwart gat (dynamisch)</string>
-    <string name="palette_halloween">Pompoentaart</string>
-    <string name="palette_zenburn">Buitenaardse fruitsalade</string>
-    <string name="palette_oceanic">Blauwe laser</string>
+  <string name="clock_settings">Instellingen voor bogenklok</string>
+  <string name="palette">Kleurpalet</string>
+  <string name="palette_black_c">Zwart gat (dynamisch)</string>
+  <string name="palette_gray">IJzer</string>
+  <string name="palette_halloween">Pompoentaart</string>
+  <string name="palette_matrix">Groen scherm</string>
+  <string name="palette_oceanic">Blauwe laser</string>
+  <string name="palette_violet">Middernacht</string>
+  <string name="palette_white_c">IJsbeer (dynamisch)</string>
+  <string name="palette_zenburn">Buitenaardse fruitsalade</string>
+  <string name="show_seconds">Seconden weergeven</string>
+  <string name="variable_line_width">Variabele breedtes</string>
+  <string name="wallpaper_clock">Bogenklok</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Geeft de datum en tijd weer op bogen die met de wijzer van de klok meedraaien: maand, dag, uur, minuut en seconde.</string>
+  <string name="wallpaper_walkaround">Doorzichtig</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Kijk door uw telefoon heen en loop rond zonder te vallen.</string>
+  <string name="wallpapers">Interactieve achtergronden van Android</string>
 </resources>

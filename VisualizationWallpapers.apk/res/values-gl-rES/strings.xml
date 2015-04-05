@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">Visualizador</string>
-    <string name="wallpaper_vis2">Onda</string>
-    <string name="wallpaper_vis3">Espectro</string>
-    <string name="wallpaper_vis4">Vúmetro</string>
-    <string name="wallpaper_vis5">Moitos</string>
-    <string name="wallpapers">Fondos de pantalla de visualización de música</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Debuxa a onda sonora da pista musical que se está reproducindo.</string>
-    <string name="vis3_desc">Mostra o espectro de frecuencia da pista que se está reproducindo.</string>
-    <string name="vis4_desc">Simula un medidor de son analóxico.</string>
-    <string name="vis5_desc">Todas as visualizacións de música xuntas, rotando lentamente en 3D.</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">Debuxa a onda sonora da pista musical que se está reproducindo.</string>
+  <string name="vis3_desc">Mostra o espectro de frecuencia da pista que se está reproducindo.</string>
+  <string name="vis4_desc">Simula un medidor de son analóxico.</string>
+  <string name="vis5_desc">Todas as visualizacións de música xuntas, rotando lentamente en 3D.</string>
+  <string name="wallpaper_vis1">Visualizador</string>
+  <string name="wallpaper_vis2">Onda</string>
+  <string name="wallpaper_vis3">Espectro</string>
+  <string name="wallpaper_vis4">Vúmetro</string>
+  <string name="wallpaper_vis5">Moitos</string>
+  <string name="wallpapers">Fondos de pantalla de visualización de música</string>
 </resources>

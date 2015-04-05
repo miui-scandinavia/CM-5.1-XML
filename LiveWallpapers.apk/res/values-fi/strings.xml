@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Androidin live-taustakuvat</string>
-    <string name="wallpaper_walkaround">Läpinäkyvä</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Näet puhelimesi läpi ja voit kävellä ympäriinsä joutumatta onnettomuuksiin.</string>
-    <string name="wallpaper_clock">Napakello</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Näyttää päivämäärän ja ajan myötäpäiväisinä kaarina: kuukausi, päivä, tunti, minuutti ja sekunti.</string>
-    <string name="clock_settings">Napakellon asetukset</string>
-    <string name="show_seconds">Näytä sekunnit</string>
-    <string name="variable_line_width">Vaihtelevat renkaiden leveydet</string>
-    <string name="palette">Väripaletti</string>
-    <string name="palette_gray">Rauta</string>
-    <string name="palette_violet">Keskiyö</string>
-    <string name="palette_matrix">Vihertausta</string>
-    <string name="palette_white_c">Jääkarhu (dynaaminen)</string>
-    <string name="palette_black_c">Musta aukko (dynaaminen)</string>
-    <string name="palette_halloween">Kurpitsapiiras</string>
-    <string name="palette_zenburn">Avaruusolio-hedelmäsalaatti</string>
-    <string name="palette_oceanic">Sininen laser</string>
+  <string name="clock_settings">Napakellon asetukset</string>
+  <string name="palette">Väripaletti</string>
+  <string name="palette_black_c">Musta aukko (dynaaminen)</string>
+  <string name="palette_gray">Rauta</string>
+  <string name="palette_halloween">Kurpitsapiiras</string>
+  <string name="palette_matrix">Vihertausta</string>
+  <string name="palette_oceanic">Sininen laser</string>
+  <string name="palette_violet">Keskiyö</string>
+  <string name="palette_white_c">Jääkarhu (dynaaminen)</string>
+  <string name="palette_zenburn">Avaruusolio-hedelmäsalaatti</string>
+  <string name="show_seconds">Näytä sekunnit</string>
+  <string name="variable_line_width">Vaihtelevat renkaiden leveydet</string>
+  <string name="wallpaper_clock">Napakello</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Näyttää päivämäärän ja ajan myötäpäiväisinä kaarina: kuukausi, päivä, tunti, minuutti ja sekunti.</string>
+  <string name="wallpaper_walkaround">Läpinäkyvä</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Näet puhelimesi läpi ja voit kävellä ympäriinsä joutumatta onnettomuuksiin.</string>
+  <string name="wallpapers">Androidin live-taustakuvat</string>
 </resources>

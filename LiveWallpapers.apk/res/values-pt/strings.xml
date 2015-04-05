@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Planos de fundo interativos do Android</string>
-    <string name="wallpaper_walkaround">Transparente</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Deixe o seu celular \"transparente\" e ande por aí sem riscos de sofrer acidentes.</string>
-    <string name="wallpaper_clock">Relógio polar</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Apresenta a data e a hora como arcos na direção horária: mês, dia, hora, minuto e segundo.</string>
-    <string name="clock_settings">Configurações do relógio polar</string>
-    <string name="show_seconds">Mostrar segundos</string>
-    <string name="variable_line_width">Várias larguras</string>
-    <string name="palette">Paleta de cores</string>
-    <string name="palette_gray">Cinza</string>
-    <string name="palette_violet">Meia-noite</string>
-    <string name="palette_matrix">Tela verde</string>
-    <string name="palette_white_c">Urso polar (dinâmico)</string>
-    <string name="palette_black_c">Buraco negro (dinâmico)</string>
-    <string name="palette_halloween">Halloween</string>
-    <string name="palette_zenburn">Salada de frutas alienígena</string>
-    <string name="palette_oceanic">Laser azul</string>
+  <string name="clock_settings">Configurações do relógio polar</string>
+  <string name="palette">Paleta de cores</string>
+  <string name="palette_black_c">Buraco negro (dinâmico)</string>
+  <string name="palette_gray">Cinza</string>
+  <string name="palette_halloween">Halloween</string>
+  <string name="palette_matrix">Tela verde</string>
+  <string name="palette_oceanic">Laser azul</string>
+  <string name="palette_violet">Meia-noite</string>
+  <string name="palette_white_c">Urso polar (dinâmico)</string>
+  <string name="palette_zenburn">Salada de frutas alienígena</string>
+  <string name="show_seconds">Mostrar segundos</string>
+  <string name="variable_line_width">Várias larguras</string>
+  <string name="wallpaper_clock">Relógio polar</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Apresenta a data e a hora como arcos na direção horária: mês, dia, hora, minuto e segundo.</string>
+  <string name="wallpaper_walkaround">Transparente</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Deixe o seu celular \"transparente\" e ande por aí sem riscos de sofrer acidentes.</string>
+  <string name="wallpapers">Planos de fundo interativos do Android</string>
 </resources>

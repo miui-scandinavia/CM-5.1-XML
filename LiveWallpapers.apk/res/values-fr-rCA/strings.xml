@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">"Fonds d'écran animés Android"</string>
-    <string name="wallpaper_walkaround">"À travers l'objectif"</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">"Aperçu de ce qui se cache derrière votre téléphone via l'objectif de l'appareil photo"</string>
-    <string name="wallpaper_clock">Horloge polaire</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">"Affiche la date et l'heure sous forme d'arcs de cercle : mois, jour, heure, minute, seconde."</string>
-    <string name="clock_settings">"Paramètres de l'horloge polaire"</string>
-    <string name="show_seconds">Afficher les secondes</string>
-    <string name="variable_line_width">Largeurs de cercle variables</string>
-    <string name="palette">Palette de couleurs</string>
-    <string name="palette_gray">Métal</string>
-    <string name="palette_violet">Minuit</string>
-    <string name="palette_matrix">Écran vert</string>
-    <string name="palette_white_c">Ours polaire (dynamique)</string>
-    <string name="palette_black_c">Trou noir (dynamique)</string>
-    <string name="palette_halloween">Tarte à la citrouille</string>
-    <string name="palette_zenburn">Salade de fruits martienne</string>
-    <string name="palette_oceanic">Laser bleu</string>
+  <string name="clock_settings">"Paramètres de l'horloge polaire"</string>
+  <string name="palette">Palette de couleurs</string>
+  <string name="palette_black_c">Trou noir (dynamique)</string>
+  <string name="palette_gray">Métal</string>
+  <string name="palette_halloween">Tarte à la citrouille</string>
+  <string name="palette_matrix">Écran vert</string>
+  <string name="palette_oceanic">Laser bleu</string>
+  <string name="palette_violet">Minuit</string>
+  <string name="palette_white_c">Ours polaire (dynamique)</string>
+  <string name="palette_zenburn">Salade de fruits martienne</string>
+  <string name="show_seconds">Afficher les secondes</string>
+  <string name="variable_line_width">Largeurs de cercle variables</string>
+  <string name="wallpaper_clock">Horloge polaire</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">"Affiche la date et l'heure sous forme d'arcs de cercle : mois, jour, heure, minute, seconde."</string>
+  <string name="wallpaper_walkaround">"À travers l'objectif"</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">"Aperçu de ce qui se cache derrière votre téléphone via l'objectif de l'appareil photo"</string>
+  <string name="wallpapers">"Fonds d'écran animés Android"</string>
 </resources>

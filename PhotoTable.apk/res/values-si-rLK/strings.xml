@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ඡායාරූප තීර සුරකන</string>
-    <string name="table_screensaver_name">ඡායාරූප වගුව</string>
-    <string name="flipper_screensaver_name">පින්තූර රාමුව</string>
-    <string name="posts_album_name">සටහනෙන් ඡායාරූප</string>
-    <string name="unknown_album_name">නම් නොකළ ඇල්බමය</string>
-    <string name="stock_photo_album_name">තොග ඡායාරූප</string>
-    <string name="local_source_name">උපාංගයෙහි ඡායාරූප</string>
-    <string name="need_to_configure">කිසිඳු ඡායාරූපයක් තෝරා නැත.</string>
-    <string name="photodream_select_all">සියල්ල තෝරන්න</string>
-    <string name="photodream_select_none">සියල්ල තෝරා නොගන්න</string>
-    <string name="no_photos">උපාංගය තුළ ඡායාරූප නොමැත.</string>
+  <string name="app_name">ඡායාරූප තීර සුරකන</string>
+  <string name="flipper_screensaver_name">පින්තූර රාමුව</string>
+  <string name="local_source_name">උපාංගයෙහි ඡායාරූප</string>
+  <string name="need_to_configure">කිසිඳු ඡායාරූපයක් තෝරා නැත.</string>
+  <string name="no_photos">උපාංගය තුළ ඡායාරූප නොමැත.</string>
+  <string name="photodream_select_all">සියල්ල තෝරන්න</string>
+  <string name="photodream_select_none">සියල්ල තෝරා නොගන්න</string>
+  <string name="posts_album_name">සටහනෙන් ඡායාරූප</string>
+  <string name="stock_photo_album_name">තොග ඡායාරූප</string>
+  <string name="table_screensaver_name">ඡායාරූප වගුව</string>
+  <string name="unknown_album_name">නම් නොකළ ඇල්බමය</string>
 </resources>

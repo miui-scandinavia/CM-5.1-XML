@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Android Canlı Divar kağızları</string>
-    <string name="wallpaper_walkaround">Arxasından baxın</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Telefon vasitəsilə baxın və qəza riski olmadan ətrafda gəzin.</string>
-    <string name="wallpaper_clock">Polyar saat</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Saat əqrəbi istiqamətli yaylar kimi tarix və zaman təqdim edir: ay, gün, saat, dəqiqə və saniyə.</string>
-    <string name="clock_settings">Polyar saat parametrləri</string>
-    <string name="show_seconds">Saniyələri göstər</string>
-    <string name="variable_line_width">Halqa eni fərqlənir</string>
-    <string name="palette">Rəng palitrası</string>
-    <string name="palette_gray">Dəmir</string>
-    <string name="palette_violet">Gecəyarı</string>
-    <string name="palette_matrix">Yaşıl Ekran</string>
-    <string name="palette_white_c">Ağ Ayı (dinamik)</string>
-    <string name="palette_black_c">Qara Deşik (dinamik)</string>
-    <string name="palette_halloween">Balqabaq Piroqu</string>
-    <string name="palette_zenburn">Xarici Meyvə Salatı</string>
-    <string name="palette_oceanic">Mavi Lazer</string>
+  <string name="clock_settings">Polyar saat parametrləri</string>
+  <string name="palette">Rəng palitrası</string>
+  <string name="palette_black_c">Qara Deşik (dinamik)</string>
+  <string name="palette_gray">Dəmir</string>
+  <string name="palette_halloween">Balqabaq Piroqu</string>
+  <string name="palette_matrix">Yaşıl Ekran</string>
+  <string name="palette_oceanic">Mavi Lazer</string>
+  <string name="palette_violet">Gecəyarı</string>
+  <string name="palette_white_c">Ağ Ayı (dinamik)</string>
+  <string name="palette_zenburn">Xarici Meyvə Salatı</string>
+  <string name="show_seconds">Saniyələri göstər</string>
+  <string name="variable_line_width">Halqa eni fərqlənir</string>
+  <string name="wallpaper_clock">Polyar saat</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Saat əqrəbi istiqamətli yaylar kimi tarix və zaman təqdim edir: ay, gün, saat, dəqiqə və saniyə.</string>
+  <string name="wallpaper_walkaround">Arxasından baxın</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Telefon vasitəsilə baxın və qəza riski olmadan ətrafda gəzin.</string>
+  <string name="wallpapers">Android Canlı Divar kağızları</string>
 </resources>

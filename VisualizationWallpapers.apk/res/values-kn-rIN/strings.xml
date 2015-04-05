@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">ವಿಶುವಲೈಜರ್</string>
-    <string name="wallpaper_vis2">ವೇವ್‌ಫಾರ್ಮ್‌</string>
-    <string name="wallpaper_vis3">ಸ್ಪೆಕ್ಟ್ರಂ</string>
-    <string name="wallpaper_vis4">VU ಮೀಟರ್</string>
-    <string name="wallpaper_vis5">ಹಲವು</string>
-    <string name="wallpapers">ಸಂಗೀತ ದೃಶ್ಯೀಕರಣ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">ಪ್ರಸ್ತುತವಾಗಿ ಪ್ಲೇ ಆಗುತ್ತಿರುವ ಯಾವುದೇ ಸಂಗೀತ ಟ್ರ್ಯಾಕ್‌ನ ಶಬ್ದ ತರಂಗವನ್ನು ಚಿತ್ರಿಸುತ್ತದೆ.</string>
-    <string name="vis3_desc">ಪ್ರಸ್ತುತವಾಗಿ ಪ್ಲೇ ಆಗುತ್ತಿರುವ ಯಾವುದೇ ಸಂಗೀತ ಟ್ರ್ಯಾಕ್‌ನ ಆವರ್ತನ ಸ್ಪೆಕ್ಟ್ರಂ ಅನ್ನು ತೋರಿಸುತ್ತದೆ.</string>
-    <string name="vis4_desc">ಅನಲಾಗ್ ಶಬ್ದ ಮೀಟರ್ ಅನ್ನು ಅನುಕರಿಸುತ್ತದೆ.</string>
-    <string name="vis5_desc">ಒಟ್ಟಾಗಿ ಎಲ್ಲಾ ಸಂಗೀತ ದೃಶ್ಯೀಕರಣಗಳು, 3D ಯಲ್ಲಿ ನಿಧಾನವಾಗಿ ಪರಿಭ್ರಮಿಸುತ್ತವೆ.</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">ಪ್ರಸ್ತುತವಾಗಿ ಪ್ಲೇ ಆಗುತ್ತಿರುವ ಯಾವುದೇ ಸಂಗೀತ ಟ್ರ್ಯಾಕ್‌ನ ಶಬ್ದ ತರಂಗವನ್ನು ಚಿತ್ರಿಸುತ್ತದೆ.</string>
+  <string name="vis3_desc">ಪ್ರಸ್ತುತವಾಗಿ ಪ್ಲೇ ಆಗುತ್ತಿರುವ ಯಾವುದೇ ಸಂಗೀತ ಟ್ರ್ಯಾಕ್‌ನ ಆವರ್ತನ ಸ್ಪೆಕ್ಟ್ರಂ ಅನ್ನು ತೋರಿಸುತ್ತದೆ.</string>
+  <string name="vis4_desc">ಅನಲಾಗ್ ಶಬ್ದ ಮೀಟರ್ ಅನ್ನು ಅನುಕರಿಸುತ್ತದೆ.</string>
+  <string name="vis5_desc">ಒಟ್ಟಾಗಿ ಎಲ್ಲಾ ಸಂಗೀತ ದೃಶ್ಯೀಕರಣಗಳು, 3D ಯಲ್ಲಿ ನಿಧಾನವಾಗಿ ಪರಿಭ್ರಮಿಸುತ್ತವೆ.</string>
+  <string name="wallpaper_vis1">ವಿಶುವಲೈಜರ್</string>
+  <string name="wallpaper_vis2">ವೇವ್‌ಫಾರ್ಮ್‌</string>
+  <string name="wallpaper_vis3">ಸ್ಪೆಕ್ಟ್ರಂ</string>
+  <string name="wallpaper_vis4">VU ಮೀಟರ್</string>
+  <string name="wallpaper_vis5">ಹಲವು</string>
+  <string name="wallpapers">ಸಂಗೀತ ದೃಶ್ಯೀಕರಣ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
 </resources>

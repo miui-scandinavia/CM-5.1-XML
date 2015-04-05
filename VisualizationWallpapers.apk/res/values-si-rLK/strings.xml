@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">දෘශ්‍යකරණය</string>
-    <string name="wallpaper_vis2">තරංගාකාරය</string>
-    <string name="wallpaper_vis3">වර්ණාවලිය</string>
-    <string name="wallpaper_vis4">VU මීටරය</string>
-    <string name="wallpaper_vis5">බොහෝ</string>
-    <string name="wallpapers">සංගීත දෘශ්‍යකරණ වෝල්පේපර</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">දැනට ධාවනය වන ඕනෑම සංගීත ඛණ්ඩයක ධ්වනි තරංගය අඳියි.</string>
-    <string name="vis3_desc">දැනට ධාවනය වන ඕනෑම සංගීත ඛණ්ඩයක සංඛ්‍යාත වර්ණාවලිය පෙන්වයි.</string>
-    <string name="vis4_desc">ප්‍රතිසම ධ්වනි මානයක් අනුකරණය කරයි.</string>
-    <string name="vis5_desc">සියලු සංගීත දෘශ්‍යකරණ එක්ව, සෙමින් 3D හි භ්‍රමණය වේ.</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">දැනට ධාවනය වන ඕනෑම සංගීත ඛණ්ඩයක ධ්වනි තරංගය අඳියි.</string>
+  <string name="vis3_desc">දැනට ධාවනය වන ඕනෑම සංගීත ඛණ්ඩයක සංඛ්‍යාත වර්ණාවලිය පෙන්වයි.</string>
+  <string name="vis4_desc">ප්‍රතිසම ධ්වනි මානයක් අනුකරණය කරයි.</string>
+  <string name="vis5_desc">සියලු සංගීත දෘශ්‍යකරණ එක්ව, සෙමින් 3D හි භ්‍රමණය වේ.</string>
+  <string name="wallpaper_vis1">දෘශ්‍යකරණය</string>
+  <string name="wallpaper_vis2">තරංගාකාරය</string>
+  <string name="wallpaper_vis3">වර්ණාවලිය</string>
+  <string name="wallpaper_vis4">VU මීටරය</string>
+  <string name="wallpaper_vis5">බොහෝ</string>
+  <string name="wallpapers">සංගීත දෘශ්‍යකරණ වෝල්පේපර</string>
 </resources>

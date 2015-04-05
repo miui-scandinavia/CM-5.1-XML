@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Kvik Android veggfóður</string>
-    <string name="wallpaper_walkaround">Gegnsætt</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Horfðu í gegnum símann og þú getur gengið um án þess að eiga á hættu að reka þig á.</string>
-    <string name="wallpaper_clock">Pólklukka</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Sýnir dagsetningu og tíma sem hringferla sem ferðast réttsælis: Mánuð, dag, klukkustund, mínútu og sekúndu.</string>
-    <string name="clock_settings">Stillingar pólklukku</string>
-    <string name="show_seconds">Sýna sekúndur</string>
-    <string name="variable_line_width">Breytileg þykkt hringja</string>
-    <string name="palette">Litaspjald</string>
-    <string name="palette_gray">Járn</string>
-    <string name="palette_violet">Miðnætti</string>
-    <string name="palette_matrix">Grænn skjár</string>
-    <string name="palette_white_c">Ísbjörn (kvikt)</string>
-    <string name="palette_black_c">Svarthol (kvikt)</string>
-    <string name="palette_halloween">Baunasúpa</string>
-    <string name="palette_zenburn">Geimávaxtasalat</string>
-    <string name="palette_oceanic">Blár leysigeisli</string>
+  <string name="clock_settings">Stillingar pólklukku</string>
+  <string name="palette">Litaspjald</string>
+  <string name="palette_black_c">Svarthol (kvikt)</string>
+  <string name="palette_gray">Járn</string>
+  <string name="palette_halloween">Baunasúpa</string>
+  <string name="palette_matrix">Grænn skjár</string>
+  <string name="palette_oceanic">Blár leysigeisli</string>
+  <string name="palette_violet">Miðnætti</string>
+  <string name="palette_white_c">Ísbjörn (kvikt)</string>
+  <string name="palette_zenburn">Geimávaxtasalat</string>
+  <string name="show_seconds">Sýna sekúndur</string>
+  <string name="variable_line_width">Breytileg þykkt hringja</string>
+  <string name="wallpaper_clock">Pólklukka</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Sýnir dagsetningu og tíma sem hringferla sem ferðast réttsælis: Mánuð, dag, klukkustund, mínútu og sekúndu.</string>
+  <string name="wallpaper_walkaround">Gegnsætt</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Horfðu í gegnum símann og þú getur gengið um án þess að eiga á hættu að reka þig á.</string>
+  <string name="wallpapers">Kvik Android veggfóður</string>
 </resources>

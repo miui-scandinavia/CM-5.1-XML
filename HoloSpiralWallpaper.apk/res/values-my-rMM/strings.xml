@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_label">သုံးဖက်မြင်ရစ်ပတ်နေခြင်း</string>
-    <string name="wallpaper_author">ဂူးဂဲလ်</string>
-    <string name="wallpaper_description">သုံးဖက်မြင်ရစ်ပတ်နေသောနောက်ခံ</string>
+  <string name="wallpaper_author">ဂူးဂဲလ်</string>
+  <string name="wallpaper_description">သုံးဖက်မြင်ရစ်ပတ်နေသောနောက်ခံ</string>
+  <string name="wallpaper_label">သုံးဖက်မြင်ရစ်ပတ်နေခြင်း</string>
 </resources>

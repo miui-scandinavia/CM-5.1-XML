@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">ویژوئلائزر</string>
-    <string name="wallpaper_vis2">لہر کی شکل</string>
-    <string name="wallpaper_vis3">اسپیکٹرم</string>
-    <string name="wallpaper_vis4">‏VU میٹر</string>
-    <string name="wallpaper_vis5">بہت</string>
-    <string name="wallpapers">موسیقی ویژوئلائزیشن وال پیپرز</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">فی الحال چلنے والے کسی موسیقی ٹریک کی صوتی لہر بناتا ہے۔</string>
-    <string name="vis3_desc">فی الحال چلنے والے کسی موسیقی ٹریک کے فریکوئنسی اسپیکٹرم کو دکھاتا ہے۔</string>
-    <string name="vis4_desc">اینالاگ ساؤنڈ میٹر کی نقل کرتا ہے۔</string>
-    <string name="vis5_desc">‏آہستہ آہستہ 3D میں گردش کرتی سبھی موسیقی ویژوئلائزیشنز ایک ساتھ۔</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">فی الحال چلنے والے کسی موسیقی ٹریک کی صوتی لہر بناتا ہے۔</string>
+  <string name="vis3_desc">فی الحال چلنے والے کسی موسیقی ٹریک کے فریکوئنسی اسپیکٹرم کو دکھاتا ہے۔</string>
+  <string name="vis4_desc">اینالاگ ساؤنڈ میٹر کی نقل کرتا ہے۔</string>
+  <string name="vis5_desc">‏آہستہ آہستہ 3D میں گردش کرتی سبھی موسیقی ویژوئلائزیشنز ایک ساتھ۔</string>
+  <string name="wallpaper_vis1">ویژوئلائزر</string>
+  <string name="wallpaper_vis2">لہر کی شکل</string>
+  <string name="wallpaper_vis3">اسپیکٹرم</string>
+  <string name="wallpaper_vis4">‏VU میٹر</string>
+  <string name="wallpaper_vis5">بہت</string>
+  <string name="wallpapers">موسیقی ویژوئلائزیشن وال پیپرز</string>
 </resources>

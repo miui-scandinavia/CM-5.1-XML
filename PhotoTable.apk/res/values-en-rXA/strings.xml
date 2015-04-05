@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">[Þĥöţö ŠçŕééñšåVéŕš one two three]</string>
-    <string name="table_screensaver_name">[Þĥöţö Ţåɓļé one two]</string>
-    <string name="flipper_screensaver_name">[Þĥöţö Fŕåḿé one two]</string>
-    <string name="posts_album_name">[Þĥöţöš ƒŕöḿ Þöšţš one two three]</string>
-    <string name="unknown_album_name">[Ûññåḿéð Åļɓûḿ one two three]</string>
-    <string name="stock_photo_album_name">[Šţöçķ Þĥöţöš one two]</string>
-    <string name="local_source_name">[Þĥöţöš öñ ÐéVîçé one two three]</string>
-    <string name="need_to_configure">[Ñö þĥöţöš šéļéçţéð. one two three]</string>
-    <string name="photodream_select_all">[Šéļéçţ Åļļ one two]</string>
-    <string name="photodream_select_none">[Ðéšéļéçţ Åļļ one two]</string>
-    <string name="no_photos">[Ñö þĥöţöš öñ ţĥé ðéVîçé. one two three four five six]</string>
+  <string name="app_name">[Þĥöţö ŠçŕééñšåVéŕš one two three]</string>
+  <string name="flipper_screensaver_name">[Þĥöţö Fŕåḿé one two]</string>
+  <string name="local_source_name">[Þĥöţöš öñ ÐéVîçé one two three]</string>
+  <string name="need_to_configure">[Ñö þĥöţöš šéļéçţéð. one two three]</string>
+  <string name="no_photos">[Ñö þĥöţöš öñ ţĥé ðéVîçé. one two three four five six]</string>
+  <string name="photodream_select_all">[Šéļéçţ Åļļ one two]</string>
+  <string name="photodream_select_none">[Ðéšéļéçţ Åļļ one two]</string>
+  <string name="posts_album_name">[Þĥöţöš ƒŕöḿ Þöšţš one two three]</string>
+  <string name="stock_photo_album_name">[Šţöçķ Þĥöţöš one two]</string>
+  <string name="table_screensaver_name">[Þĥöţö Ţåɓļé one two]</string>
+  <string name="unknown_album_name">[Ûññåḿéð Åļɓûḿ one two three]</string>
 </resources>

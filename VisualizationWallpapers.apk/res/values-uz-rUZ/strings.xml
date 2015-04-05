@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">Vizualayzer</string>
-    <string name="wallpaper_vis2">To‘lqinlanish shakli</string>
-    <string name="wallpaper_vis3">Spektr</string>
-    <string name="wallpaper_vis4">VU o‘lchovi</string>
-    <string name="wallpaper_vis5">Ko‘p</string>
-    <string name="wallpapers">Musiqiy vizualizatsiyali fon rasmlari</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Har qanday musiqa yangrayotganda tovush to‘linlari grafigi paydo bo‘ladi.</string>
-    <string name="vis3_desc">Har qanday musiqa yangrayotganda chastotali spektrni ko‘rsatadi.</string>
-    <string name="vis4_desc">Analogli ovoz o‘lchovlarini simulatsiyalaydi.</string>
-    <string name="vis5_desc">Barcha musiqa vizualizatsiyalari bilan birga sekinroq 3D holatda aylanadi.</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">Har qanday musiqa yangrayotganda tovush to‘linlari grafigi paydo bo‘ladi.</string>
+  <string name="vis3_desc">Har qanday musiqa yangrayotganda chastotali spektrni ko‘rsatadi.</string>
+  <string name="vis4_desc">Analogli ovoz o‘lchovlarini simulatsiyalaydi.</string>
+  <string name="vis5_desc">Barcha musiqa vizualizatsiyalari bilan birga sekinroq 3D holatda aylanadi.</string>
+  <string name="wallpaper_vis1">Vizualayzer</string>
+  <string name="wallpaper_vis2">To‘lqinlanish shakli</string>
+  <string name="wallpaper_vis3">Spektr</string>
+  <string name="wallpaper_vis4">VU o‘lchovi</string>
+  <string name="wallpaper_vis5">Ko‘p</string>
+  <string name="wallpapers">Musiqiy vizualizatsiyali fon rasmlari</string>
 </resources>

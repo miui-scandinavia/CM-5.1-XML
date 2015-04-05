@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">ভিজুয়ালাইজার</string>
-    <string name="wallpaper_vis2">তরঙ্গাকৃতি</string>
-    <string name="wallpaper_vis3">বর্ণালী</string>
-    <string name="wallpaper_vis4">VU মিটার</string>
-    <string name="wallpaper_vis5">অনেক</string>
-    <string name="wallpapers">সঙ্গীতের দৃশ্যগত ওয়ালপেপারগুলি</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">বর্তমানে প্লে করা যেকোনো সঙ্গীতে শব্দ তরঙ্গ আঁকে৷</string>
-    <string name="vis3_desc">বর্তমানে বাজানো মিউজিক ট্র্যাকের ফ্রিকোয়েন্সি স্পেকট্রাম প্রদর্শন করে৷</string>
-    <string name="vis4_desc">একটি অ্যানালগ সাউন্ড মিটারকে অনুকরণ করে৷</string>
-    <string name="vis5_desc">ধীরে ধীরে 3D এর মধ্যে ঘুরপাক খেয়ে একসঙ্গে সব সঙ্গীতের দৃশ্য রূপ৷</string>
+  <string name="author">Google</string>
+  <string name="vis2_desc">বর্তমানে প্লে করা যেকোনো সঙ্গীতে শব্দ তরঙ্গ আঁকে৷</string>
+  <string name="vis3_desc">বর্তমানে বাজানো মিউজিক ট্র্যাকের ফ্রিকোয়েন্সি স্পেকট্রাম প্রদর্শন করে৷</string>
+  <string name="vis4_desc">একটি অ্যানালগ সাউন্ড মিটারকে অনুকরণ করে৷</string>
+  <string name="vis5_desc">ধীরে ধীরে 3D এর মধ্যে ঘুরপাক খেয়ে একসঙ্গে সব সঙ্গীতের দৃশ্য রূপ৷</string>
+  <string name="wallpaper_vis1">ভিজুয়ালাইজার</string>
+  <string name="wallpaper_vis2">তরঙ্গাকৃতি</string>
+  <string name="wallpaper_vis3">বর্ণালী</string>
+  <string name="wallpaper_vis4">VU মিটার</string>
+  <string name="wallpaper_vis5">অনেক</string>
+  <string name="wallpapers">সঙ্গীতের দৃশ্যগত ওয়ালপেপারগুলি</string>
 </resources>

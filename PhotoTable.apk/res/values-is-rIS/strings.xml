@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Skjávarar með ljósmyndum</string>
-    <string name="table_screensaver_name">Myndaborð</string>
-    <string name="flipper_screensaver_name">Myndarammi</string>
-    <string name="posts_album_name">Myndir úr færslum</string>
-    <string name="unknown_album_name">Ónefnt albúm</string>
-    <string name="stock_photo_album_name">Myndir á lager</string>
-    <string name="local_source_name">Myndir í tækinu</string>
-    <string name="need_to_configure">Engar myndir valdar.</string>
-    <string name="photodream_select_all">Velja öll</string>
-    <string name="photodream_select_none">Velja ekkert</string>
-    <string name="no_photos">Engar myndir í tækinu.</string>
+  <string name="app_name">Skjávarar með ljósmyndum</string>
+  <string name="flipper_screensaver_name">Myndarammi</string>
+  <string name="local_source_name">Myndir í tækinu</string>
+  <string name="need_to_configure">Engar myndir valdar.</string>
+  <string name="no_photos">Engar myndir í tækinu.</string>
+  <string name="photodream_select_all">Velja öll</string>
+  <string name="photodream_select_none">Velja ekkert</string>
+  <string name="posts_album_name">Myndir úr færslum</string>
+  <string name="stock_photo_album_name">Myndir á lager</string>
+  <string name="table_screensaver_name">Myndaborð</string>
+  <string name="unknown_album_name">Ónefnt albúm</string>
 </resources>

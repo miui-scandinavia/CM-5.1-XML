@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_label">Голографиялык уюлгу</string>
-    <string name="wallpaper_author">Google</string>
-    <string name="wallpaper_description">Голографиялык уюлгу темасындагы тушкагаз</string>
+  <string name="wallpaper_author">Google</string>
+  <string name="wallpaper_description">Голографиялык уюлгу темасындагы тушкагаз</string>
+  <string name="wallpaper_label">Голографиялык уюлгу</string>
 </resources>

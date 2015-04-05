@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpapers">Анімов. фонов. мал. Android</string>
-    <string name="wallpaper_walkaround">Через камеру</string>
-    <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Дивіться через камеру і пересувайтеся без страху нещас. випадку.</string>
-    <string name="wallpaper_clock">Смужк. годин.</string>
-    <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Відображ. дату та час як арки за год. стріл: місяць, день, година, хвилина та секунда.</string>
-    <string name="clock_settings">Налашт-ня смужк. годин.</string>
-    <string name="show_seconds">Показ. секунди</string>
-    <string name="variable_line_width">Змін. довж. мелодії</string>
-    <string name="palette">Палітра кольорів</string>
-    <string name="palette_gray">Залізо</string>
-    <string name="palette_violet">Північ</string>
-    <string name="palette_matrix">Зелений екран</string>
-    <string name="palette_white_c">Полярний ведм. (динам.)</string>
-    <string name="palette_black_c">Чорна діра (динамічна)</string>
-    <string name="palette_halloween">Гарбуз. пиріг</string>
-    <string name="palette_zenburn">Салат із закорд. фрукт.</string>
-    <string name="palette_oceanic">Блакитн. лазер</string>
+  <string name="clock_settings">Налашт-ня смужк. годин.</string>
+  <string name="palette">Палітра кольорів</string>
+  <string name="palette_black_c">Чорна діра (динамічна)</string>
+  <string name="palette_gray">Залізо</string>
+  <string name="palette_halloween">Гарбуз. пиріг</string>
+  <string name="palette_matrix">Зелений екран</string>
+  <string name="palette_oceanic">Блакитн. лазер</string>
+  <string name="palette_violet">Північ</string>
+  <string name="palette_white_c">Полярний ведм. (динам.)</string>
+  <string name="palette_zenburn">Салат із закорд. фрукт.</string>
+  <string name="show_seconds">Показ. секунди</string>
+  <string name="variable_line_width">Змін. довж. мелодії</string>
+  <string name="wallpaper_clock">Смужк. годин.</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Відображ. дату та час як арки за год. стріл: місяць, день, година, хвилина та секунда.</string>
+  <string name="wallpaper_walkaround">Через камеру</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Дивіться через камеру і пересувайтеся без страху нещас. випадку.</string>
+  <string name="wallpapers">Анімов. фонов. мал. Android</string>
 </resources>
